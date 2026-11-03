@@ -124,3 +124,9 @@ analytics/results/
 
 # Git worktrees for parallel sessions and agents (Claude Code's default location)
 .claude/worktrees/
+
+# Benchmark frames/transcripts of other teams' videos (not ours to publish)
+docs/video_benchmarks/
+
+# Video production (recordings, renders, pipeline) stays local; multi-GB and not part of the product
+video/
