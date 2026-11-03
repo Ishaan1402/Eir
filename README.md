@@ -1,9 +1,6 @@
 # Eir
 
-[![SAS Hackathon 2026](https://img.shields.io/badge/SAS%20Hackathon-2026-0766d1)](https://www.sas.com/en_us/events/hackathon.html)
-[![Python 3.13](https://img.shields.io/badge/Python-3.13-3776ab?logo=python&logoColor=white)](requirements.txt)
-[![Node 16+](https://img.shields.io/badge/Node-16%2B-339933?logo=node.js&logoColor=white)](client/package.json)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![SAS Hackathon 2026](https://img.shields.io/badge/SAS%20Hackathon-2026-0766d1)](https://www.sas.com/en_us/events/hackathon.html) [![Python 3.13](https://img.shields.io/badge/Python-3.13-3776ab?logo=python&logoColor=white)](requirements.txt) [![Node 16+](https://img.shields.io/badge/Node-16%2B-339933?logo=node.js&logoColor=white)](client/package.json) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Eir gives the receiving hospital the full picture of an incoming ambulance patient before the ambulance arrives. Team InTheBud built it for the SAS Hackathon 2026.
 
