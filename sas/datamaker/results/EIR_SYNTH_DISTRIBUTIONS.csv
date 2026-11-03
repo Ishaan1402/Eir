@@ -1,0 +1,129 @@
+COLUMN,VALUE,SOURCE,SHARE
+AGE,"[45, 65)",Real,0.2953
+AGE,"[30, 45)",Real,0.2436
+AGE,"[18, 30)",Real,0.2091
+AGE,"[65, 80)",Real,0.171
+AGE,"[80, 200)",Real,0.0809
+AGE,"[45, 65)",Synthetic,0.2929
+AGE,"[30, 45)",Synthetic,0.2453
+AGE,"[18, 30)",Synthetic,0.2016
+AGE,"[65, 80)",Synthetic,0.1762
+AGE,"[80, 200)",Synthetic,0.084
+HEART_RATE,"[60.0, 100.0)",Real,0.6984
+HEART_RATE,"[100.0, 120.0)",Real,0.1603
+HEART_RATE,(blank),Real,0.0654
+HEART_RATE,"[120.0, 140.0)",Real,0.0346
+HEART_RATE,"[50.0, 60.0)",Real,0.0279
+HEART_RATE,"[140.0, 400.0)",Real,0.0075
+HEART_RATE,"[0.0, 50.0)",Real,0.0059
+HEART_RATE,"[60.0, 100.0)",Synthetic,0.7026
+HEART_RATE,"[100.0, 120.0)",Synthetic,0.1552
+HEART_RATE,(blank),Synthetic,0.0645
+HEART_RATE,"[120.0, 140.0)",Synthetic,0.036
+HEART_RATE,"[50.0, 60.0)",Synthetic,0.0287
+HEART_RATE,"[140.0, 400.0)",Synthetic,0.0081
+HEART_RATE,"[0.0, 50.0)",Synthetic,0.0049
+RESP_RATE,"[12.0, 20.0)",Real,0.6811
+RESP_RATE,"[20.0, 24.0)",Real,0.2174
+RESP_RATE,(blank),Real,0.0503
+RESP_RATE,"[24.0, 30.0)",Real,0.0309
+RESP_RATE,"[30.0, 200.0)",Real,0.018
+RESP_RATE,"[10.0, 12.0)",Real,0.0015
+RESP_RATE,"[0.0, 10.0)",Real,0.0008
+RESP_RATE,"[12.0, 20.0)",Synthetic,0.6777
+RESP_RATE,"[20.0, 24.0)",Synthetic,0.2168
+RESP_RATE,(blank),Synthetic,0.0526
+RESP_RATE,"[24.0, 30.0)",Synthetic,0.0339
+RESP_RATE,"[30.0, 200.0)",Synthetic,0.0176
+RESP_RATE,"[10.0, 12.0)",Synthetic,0.0007
+RESP_RATE,"[0.0, 10.0)",Synthetic,0.0007
+SYSTOLIC_BP,"[100.0, 140.0)",Real,0.5221
+SYSTOLIC_BP,"[140.0, 180.0)",Real,0.3525
+SYSTOLIC_BP,"[180.0, 400.0)",Real,0.0574
+SYSTOLIC_BP,(blank),Real,0.0424
+SYSTOLIC_BP,"[90.0, 100.0)",Real,0.017
+SYSTOLIC_BP,"[0.0, 90.0)",Real,0.0085
+SYSTOLIC_BP,"[100.0, 140.0)",Synthetic,0.5116
+SYSTOLIC_BP,"[140.0, 180.0)",Synthetic,0.3633
+SYSTOLIC_BP,"[180.0, 400.0)",Synthetic,0.0579
+SYSTOLIC_BP,(blank),Synthetic,0.041
+SYSTOLIC_BP,"[90.0, 100.0)",Synthetic,0.0181
+SYSTOLIC_BP,"[0.0, 90.0)",Synthetic,0.0081
+DIASTOLIC_BP,"[60.0, 90.0)",Real,0.6489
+DIASTOLIC_BP,"[90.0, 110.0)",Real,0.2178
+DIASTOLIC_BP,"[0.0, 60.0)",Real,0.0596
+DIASTOLIC_BP,(blank),Real,0.0441
+DIASTOLIC_BP,"[110.0, 300.0)",Real,0.0296
+DIASTOLIC_BP,"[60.0, 90.0)",Synthetic,0.6567
+DIASTOLIC_BP,"[90.0, 110.0)",Synthetic,0.2122
+DIASTOLIC_BP,"[0.0, 60.0)",Synthetic,0.0586
+DIASTOLIC_BP,(blank),Synthetic,0.0454
+DIASTOLIC_BP,"[110.0, 300.0)",Synthetic,0.0271
+SPO2,"[95.0, 101.0)",Real,0.8579
+SPO2,"[92.0, 95.0)",Real,0.0571
+SPO2,(blank),Real,0.0556
+SPO2,"[88.0, 92.0)",Real,0.0163
+SPO2,"[0.0, 88.0)",Real,0.0131
+SPO2,"[95.0, 101.0)",Synthetic,0.8603
+SPO2,"[92.0, 95.0)",Synthetic,0.0587
+SPO2,(blank),Synthetic,0.0532
+SPO2,"[88.0, 92.0)",Synthetic,0.0147
+SPO2,"[0.0, 88.0)",Synthetic,0.0131
+TEMP_F,"[96.8, 100.4)",Real,0.9057
+TEMP_F,(blank),Real,0.0594
+TEMP_F,"[0.0, 96.8)",Real,0.0183
+TEMP_F,"[100.4, 102.2)",Real,0.0116
+TEMP_F,"[102.2, 200.0)",Real,0.0051
+TEMP_F,"[96.8, 100.4)",Synthetic,0.9071
+TEMP_F,(blank),Synthetic,0.0568
+TEMP_F,"[0.0, 96.8)",Synthetic,0.0212
+TEMP_F,"[100.4, 102.2)",Synthetic,0.0111
+TEMP_F,"[102.2, 200.0)",Synthetic,0.0038
+PAIN_0_10,(blank),Real,0.3964
+PAIN_0_10,"[8.0, 11.0)",Real,0.2027
+PAIN_0_10,"[0.0, 3.0)",Real,0.19
+PAIN_0_10,"[3.0, 6.0)",Real,0.1093
+PAIN_0_10,"[6.0, 8.0)",Real,0.1017
+PAIN_0_10,(blank),Synthetic,0.3973
+PAIN_0_10,"[8.0, 11.0)",Synthetic,0.2
+PAIN_0_10,"[0.0, 3.0)",Synthetic,0.1954
+PAIN_0_10,"[3.0, 6.0)",Synthetic,0.1091
+PAIN_0_10,"[6.0, 8.0)",Synthetic,0.0982
+SEX,Female,Real,0.5393
+SEX,Male,Real,0.4607
+SEX,Female,Synthetic,0.5465
+SEX,Male,Synthetic,0.4535
+RACE_ETHNICITY,Non-Hispanic White,Real,0.5634
+RACE_ETHNICITY,Non-Hispanic Black,Real,0.2438
+RACE_ETHNICITY,Hispanic,Real,0.1529
+RACE_ETHNICITY,Non-Hispanic Other,Real,0.0399
+RACE_ETHNICITY,Non-Hispanic White,Synthetic,0.5547
+RACE_ETHNICITY,Non-Hispanic Black,Synthetic,0.2515
+RACE_ETHNICITY,Hispanic,Synthetic,0.1534
+RACE_ETHNICITY,Non-Hispanic Other,Synthetic,0.0404
+ARRIVED_BY_AMBULANCE,No,Real,0.7595
+ARRIVED_BY_AMBULANCE,Yes,Real,0.207
+ARRIVED_BY_AMBULANCE,(blank),Real,0.0335
+ARRIVED_BY_AMBULANCE,No,Synthetic,0.7501
+ARRIVED_BY_AMBULANCE,Yes,Synthetic,0.2125
+ARRIVED_BY_AMBULANCE,(blank),Synthetic,0.0374
+TRIAGE_LEVEL,3,Real,0.357
+TRIAGE_LEVEL,(blank),Real,0.3511
+TRIAGE_LEVEL,4,Real,0.156
+TRIAGE_LEVEL,2,Real,0.1101
+TRIAGE_LEVEL,5,Real,0.0165
+TRIAGE_LEVEL,1,Real,0.0093
+TRIAGE_LEVEL,3,Synthetic,0.3517
+TRIAGE_LEVEL,(blank),Synthetic,0.3459
+TRIAGE_LEVEL,4,Synthetic,0.1638
+TRIAGE_LEVEL,2,Synthetic,0.1108
+TRIAGE_LEVEL,5,Synthetic,0.0184
+TRIAGE_LEVEL,1,Synthetic,0.0094
+OUTCOME,Sent home,Real,0.8135
+OUTCOME,Ward admission,Real,0.1127
+OUTCOME,"ICU, death or surgery",Real,0.044
+OUTCOME,Transferred,Real,0.0297
+OUTCOME,Sent home,Synthetic,0.8082
+OUTCOME,Ward admission,Synthetic,0.1182
+OUTCOME,"ICU, death or surgery",Synthetic,0.0422
+OUTCOME,Transferred,Synthetic,0.0314

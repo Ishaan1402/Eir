@@ -1,0 +1,26 @@
+CHECK,MEASURE,REAL,SYNTHETIC,NOTE
+Fidelity,AGE distribution similarity,1.0,0.99,1 - total variation distance vs the real training rows
+Fidelity,HEART_RATE distribution similarity,1.0,0.993,1 - total variation distance vs the real training rows
+Fidelity,RESP_RATE distribution similarity,1.0,0.995,1 - total variation distance vs the real training rows
+Fidelity,SYSTOLIC_BP distribution similarity,1.0,0.988,1 - total variation distance vs the real training rows
+Fidelity,DIASTOLIC_BP distribution similarity,1.0,0.991,1 - total variation distance vs the real training rows
+Fidelity,SPO2 distribution similarity,1.0,0.996,1 - total variation distance vs the real training rows
+Fidelity,TEMP_F distribution similarity,1.0,0.996,1 - total variation distance vs the real training rows
+Fidelity,PAIN_0_10 distribution similarity,1.0,0.994,1 - total variation distance vs the real training rows
+Fidelity,SEX distribution similarity,1.0,0.993,1 - total variation distance vs the real training rows
+Fidelity,RACE_ETHNICITY distribution similarity,1.0,0.991,1 - total variation distance vs the real training rows
+Fidelity,ARRIVED_BY_AMBULANCE distribution similarity,1.0,0.991,1 - total variation distance vs the real training rows
+Fidelity,TRIAGE_LEVEL distribution similarity,1.0,0.989,1 - total variation distance vs the real training rows
+Fidelity,OUTCOME distribution similarity,1.0,0.993,1 - total variation distance vs the real training rows
+Clinical link,"Sent to ICU, died or had surgery when systolic BP < 90",0.227,0.062,"share of rows; real n=75, synthetic n=81"
+Clinical link,"Admitted (ward, ICU, death or surgery) when SpO2 < 92",0.351,0.169,"share of rows; real n=259, synthetic n=278"
+Clinical link,"Admitted (ward, ICU, death or surgery) when triage level is 1 or 2",0.376,0.186,"share of rows; real n=1052, synthetic n=1202"
+Clinical link,"Admitted (ward, ICU, death or surgery) when triage level is 4 or 5",0.028,0.166,"share of rows; real n=1520, synthetic n=1822"
+Clinical link,"Admitted (ward, ICU, death or surgery) after an ambulance arrival",0.32,0.173,"share of rows; real n=1824, synthetic n=2125"
+Privacy,Rows identical to a real training row,42.0,0.0,real column = unseen real holdout visits (3777) for comparison; synthetic n=10000
+Privacy,Median distance to the closest real training row,1.187,1.647,real column = unseen holdout visits; synthetic should not be much closer
+Privacy,Share closer to a training row than the closest 5% of real unseen visits,0.05,0.006,about 0.05 means no sign of memorised rows
+"Train on synthetic, test on real","Predicting Admitted, ICU, death or surgery: AUROC on 3777 real unseen visits",0.785,0.476,same gradient boosting model; real column trained on real rows
+"Train on synthetic, test on real","Reference: ED triage level alone, predicting Admitted, ICU, death or surgery",0.728,,on the 2439 holdout visits with a triage level
+"Train on synthetic, test on real","Predicting ICU, death or surgery: AUROC on 3777 real unseen visits",0.778,0.467,same gradient boosting model; real column trained on real rows
+"Train on synthetic, test on real","Reference: ED triage level alone, predicting ICU, death or surgery",0.773,,on the 2439 holdout visits with a triage level

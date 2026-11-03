@@ -1,0 +1,15 @@
+CHECK,MEASURE,REAL,SYNTHETIC,NOTE
+Rule kept,A stated red flag is labelled Prepare now,0.897,0.252,"share of rows the rule applies to that keep it; real n=253, synthetic n=801"
+Rule kept,Cannot assess always goes with Needs Review,1.0,0.447,"share of rows the rule applies to that keep it; real n=65, synthetic n=235"
+Rule kept,Cannot assess only when key vitals are missing,1.0,0.0,"share of rows the rule applies to that keep it; real n=65, synthetic n=235"
+Rule kept,First reports have no prior heart rate,1.0,0.016,"share of rows the rule applies to that keep it; real n=622, synthetic n=498"
+Rule kept,First reports say No prior information,1.0,0.241,"share of rows the rule applies to that keep it; real n=622, synthetic n=498"
+Rule kept,Epinephrine only for allergic reactions,1.0,0.104,"share of rows the rule applies to that keep it; real n=38, synthetic n=96"
+Rule kept,"Low blood sugar (< 60) only with AMS, low sugar, stroke or seizure",1.0,0.314,"share of rows the rule applies to that keep it; real n=50, synthetic n=169"
+Rule kept,Review happens after the report,1.0,0.543,"share of rows the rule applies to that keep it; real n=1000, synthetic n=1000"
+Fidelity,attention_category distribution similarity,1.0,0.811,1 - total variation distance
+Fidelity,chief_complaint distribution similarity,1.0,0.807,1 - total variation distance
+Fidelity,mental_status distribution similarity,1.0,0.394,1 - total variation distance
+Fidelity,sex distribution similarity,1.0,0.785,1 - total variation distance
+Fidelity,meaningful_change distribution similarity,1.0,0.633,1 - total variation distance
+Privacy,Synthetic rows identical to an input row,,0.0,of 1000 synthetic rows

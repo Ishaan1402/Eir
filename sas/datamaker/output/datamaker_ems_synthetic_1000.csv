@@ -1,0 +1,1001 @@
+report_time_utc,update_number,elapsed_minutes,eta_minutes,age,sex,chief_complaint,heart_rate,systolic_bp,diastolic_bp,resp_rate,spo2_pct,mental_status,glucose_mg_dl,temp_c,intervention,prior_heart_rate,prior_systolic_bp,prior_spo2_pct,prior_mental_status,meaningful_change,attention_category,app_case_status,reviewed_at_utc
+2025-04-18T11:03:00+0000,2,14,45,60,,Altered mental status,113,113,108,21,99,Responds to voice,164,37.8,Glucose,146,138,89,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-05-16T13:17:00+0000
+2025-07-31T08:39:00+0000,1,9,3,,Male,Fall,94,93,77,12,85,Alert,123,38.0,Oxygen,80,103,100,,Uncertain,Cannot assess,Queued,2025-08-16T18:16:00+0000
+2025-03-26T00:19:00+0000,1,3,20,68,Female,Altered mental status,93,102,108,26,96,Confused,160,37.2,,60,143,92,Responds to pain,Uncertain,Cannot assess,Queued,2025-04-02T00:33:00+0000
+2025-06-30T11:34:00+0000,1,7,27,45,,Allergic reaction,94,129,119,19,87,Responds to pain,135,37.2,Oxygen,96,93,88,Responds to voice,No,Prepare now,Queued,2025-12-22T10:09:00+0000
+2025-06-30T19:40:00+0000,2,6,14,51,Male,Seizure,90,93,89,20,100,Unresponsive,50,,,104,176,91,Responds to voice,Yes,Routine awareness,Needs Review,2025-08-08T13:07:00+0000
+2025-04-18T15:45:00+0000,2,15,23,84,Female,Chest discomfort,93,129,60,29,98,Unresponsive,203,37.8,Pain medication,60,119,87,Responds to voice,No,Cannot assess,Needs Review,2025-05-21T08:38:00+0000
+2025-04-13T12:14:00+0000,2,15,5,50,,Chest discomfort,98,88,71,26,96,Responds to voice,60,37.9,Epinephrine,132,158,82,Unresponsive,Uncertain,Routine awareness,Queued,2025-04-22T02:27:00+0000
+2025-08-09T00:54:00+0000,2,6,33,67,Female,Allergic reaction,123,121,124,13,94,Responds to voice,215,37.4,Diphenhydramine,146,163,99,Unresponsive,Yes,Preparation can wait,Queued,2025-08-16T11:15:00+0000
+2025-08-17T23:11:00+0000,2,13,14,98,Male,Seizure,116,130,90,,91,Confused,37,37.0,IV fluids,97,139,87,Unresponsive,Yes,Routine awareness,Queued,2025-09-23T10:38:00+0000
+2025-10-21T12:11:00+0000,2,0,22,23,,Shortness of breath,96,110,45,11,,Alert,108,37.6,Epinephrine,86,130,88,Responds to voice,No prior information,Prepare now,Queued,2025-11-12T15:48:00+0000
+2025-07-23T04:14:00+0000,1,15,6,60,Male,Seizure,96,198,82,21,80,Responds to pain,230,37.6,IV fluids,73,84,93,Responds to voice,No,Routine awareness,Needs Review,2025-08-19T07:09:00+0000
+2025-05-17T02:55:00+0000,1,7,27,34,,Abdominal pain,63,141,100,11,94,Unresponsive,176,37.6,,75,60,98,Confused,Yes,Routine awareness,Queued,2025-12-07T06:23:00+0000
+2025-01-05T20:36:00+0000,2,11,7,48,,Stroke symptoms,109,170,80,23,97,Unresponsive,200,37.3,Nitroglycerin,151,113,94,Unresponsive,No,Prepare now,Queued,2025-02-03T00:39:00+0000
+2025-09-28T20:46:00+0000,1,7,20,59,,Seizure,71,130,65,33,93,Alert,235,39.8,Oxygen,62,89,96,Responds to voice,No,Preparation can wait,Queued,2025-10-24T03:42:00+0000
+2025-06-18T18:49:00+0000,1,12,5,43,Female,Shortness of breath,94,111,91,25,99,Responds to voice,79,37.9,Epinephrine,107,105,82,Responds to pain,No prior information,Routine awareness,Queued,2025-07-08T05:56:00+0000
+2025-06-20T18:32:00+0000,2,13,20,66,Male,Chest discomfort,62,118,67,21,86,Responds to voice,233,38.7,Nitroglycerin,126,174,87,Confused,Yes,Prepare now,Needs Review,2025-07-24T07:22:00+0000
+2025-02-22T09:49:00+0000,2,6,37,91,Male,Seizure,96,97,120,18,95,Confused,194,39.6,Glucose,97,117,99,Unresponsive,Yes,Prepare now,Queued,2025-03-12T20:59:00+0000
+2025-05-23T10:30:00+0000,1,15,37,46,Male,Motor vehicle collision,95,83,109,,91,Confused,113,36.8,,131,156,,Alert,No prior information,Cannot assess,Needs Review,2025-05-23T08:06:00+0000
+2025-08-31T19:27:00+0000,1,15,43,91,Female,Allergic reaction,114,132,69,20,95,Responds to pain,158,38.1,Albuterol,80,88,88,Alert,Yes,Cannot assess,Needs Review,2025-02-02T21:11:00+0000
+2025-04-29T16:03:00+0000,2,6,25,69,,Chest discomfort,95,91,49,,91,Unresponsive,32,38.1,Nitroglycerin,97,117,99,Unresponsive,Yes,Preparation can wait,Queued,2025-05-13T13:48:00+0000
+2025-03-20T14:16:00+0000,1,0,9,92,Male,Weakness with fever,122,171,59,23,100,Alert,92,37.0,Oxygen,98,138,82,Responds to pain,No,Routine awareness,Queued,2025-03-25T06:27:00+0000
+2025-10-17T15:53:00+0000,1,4,5,51,,Low blood sugar,66,129,52,15,85,Alert,182,39.2,Epinephrine,91,110,87,Confused,Uncertain,Prepare now,Needs Review,2025-12-18T05:10:00+0000
+2025-01-18T20:38:00+0000,2,13,5,32,Male,Stroke symptoms,116,199,67,18,100,Alert,142,36.6,Glucose,77,60,87,Responds to pain,Yes,Routine awareness,Queued,2025-01-28T05:07:00+0000
+2025-08-15T17:05:00+0000,2,5,29,48,Male,Low blood sugar,134,124,45,23,99,Confused,135,37.6,Diphenhydramine,131,118,89,Confused,No,Cannot assess,Needs Review,2025-09-02T20:02:00+0000
+2025-12-05T15:59:00+0000,2,12,36,45,,Stroke symptoms,93,164,73,29,92,Confused,192,38.5,Pain medication,65,187,95,Confused,Yes,Preparation can wait,Queued,2026-01-13T21:20:00+0000
+2025-06-19T07:32:00+0000,2,11,7,35,Female,Shortness of breath,108,132,75,33,91,Responds to pain,26,36.7,Oxygen,104,88,96,Responds to pain,No prior information,Cannot assess,Needs Review,2025-07-25T00:59:00+0000
+2025-01-21T06:40:00+0000,2,13,10,63,Male,Seizure,79,198,51,16,85,Confused,130,37.5,Epinephrine,79,90,99,Confused,Yes,Routine awareness,Queued,2026-01-27T07:18:00+0000
+2025-03-12T13:03:00+0000,1,15,38,70,Female,Altered mental status,87,91,112,14,91,Responds to voice,66,38.4,Albuterol,129,170,87,Unresponsive,No,Cannot assess,Queued,2025-07-15T22:05:00+0000
+2025-06-24T08:59:00+0000,1,15,40,43,Female,Seizure,123,116,116,19,,Confused,184,36.7,Epinephrine,59,104,99,Alert,No prior information,Prepare now,Queued,2025-12-27T02:18:00+0000
+2025-09-29T02:42:00+0000,1,5,40,98,,Stroke symptoms,73,109,100,27,79,Confused,169,37.4,Midazolam,97,88,,Responds to voice,Uncertain,Preparation can wait,Needs Review,2025-10-07T12:46:00+0000
+2025-08-06T14:24:00+0000,1,10,39,37,,Abdominal pain,67,127,84,9,86,Unresponsive,47,38.8,Pain medication,105,109,95,,No,Routine awareness,Queued,2025-08-22T01:29:00+0000
+2025-02-10T09:47:00+0000,2,14,28,85,Male,Stroke symptoms,113,162,53,30,93,Alert,65,38.7,Albuterol,107,131,94,Responds to pain,No prior information,Routine awareness,Queued,2025-03-01T19:27:00+0000
+2025-10-03T02:42:00+0000,1,5,33,62,,Altered mental status,104,122,103,19,80,Alert,29,,Albuterol,128,126,96,Confused,No prior information,Prepare now,Queued,2025-10-22T05:42:00+0000
+2025-10-13T20:47:00+0000,2,3,33,41,Male,Stroke symptoms,100,78,82,13,95,Responds to pain,94,39.8,Nitroglycerin,132,187,96,Responds to pain,Uncertain,Prepare now,Queued,2025-11-22T12:25:00+0000
+2025-03-03T11:33:00+0000,1,14,17,87,Female,Fall,91,67,79,33,93,Confused,235,37.0,Oxygen,65,150,93,Unresponsive,No prior information,Prepare now,Queued,2025-09-01T22:15:00+0000
+2025-09-22T23:50:00+0000,2,15,15,29,Female,Abdominal pain,61,84,79,,89,Responds to pain,143,36.3,Midazolam,82,163,96,Alert,No,Prepare now,Needs Review,2025-10-28T02:32:00+0000
+2025-04-04T08:36:00+0000,1,4,16,42,,Shortness of breath,139,185,107,13,85,Alert,220,39.2,Aspirin,68,153,92,,No prior information,Preparation can wait,Queued,2025-04-10T08:06:00+0000
+2025-08-07T16:17:00+0000,1,10,23,97,Female,Fall,92,168,79,13,80,Responds to pain,239,38.8,,82,187,87,Responds to voice,No,Preparation can wait,Queued,2025-08-16T03:41:00+0000
+2025-10-02T00:01:00+0000,2,14,33,32,Male,Abdominal pain,81,67,55,27,88,Alert,170,38.6,IV fluids,151,145,91,Responds to voice,No,Cannot assess,Needs Review,2025-10-23T04:19:00+0000
+2025-04-21T22:30:00+0000,1,11,36,92,Female,Allergic reaction,58,127,116,28,96,Confused,32,37.7,Diphenhydramine,123,170,99,Responds to voice,Uncertain,Prepare now,Queued,2025-03-04T08:27:00+0000
+2025-01-27T08:59:00+0000,1,14,39,77,Female,Chest discomfort,89,150,63,33,79,Confused,103,40.3,IV fluids,132,65,96,Alert,Yes,Prepare now,Queued,2025-04-10T21:29:00+0000
+2025-10-14T23:11:00+0000,1,3,7,67,Male,Motor vehicle collision,143,181,59,28,79,Unresponsive,126,36.3,Epinephrine,75,164,92,Confused,Yes,Preparation can wait,Needs Review,2025-02-20T11:24:00+0000
+2025-03-08T01:25:00+0000,1,13,37,61,Male,Fall,123,155,101,25,98,Responds to pain,135,37.3,Diphenhydramine,93,190,,Responds to pain,Yes,Cannot assess,Needs Review,2025-01-09T21:04:00+0000
+2025-07-15T05:51:00+0000,2,10,37,49,Male,Fall,93,183,,20,95,Unresponsive,221,37.3,IV fluids,72,67,96,Alert,No,Prepare now,Queued,2025-10-06T02:30:00+0000
+2025-01-20T10:16:00+0000,2,5,35,38,Female,Fall,133,151,124,20,79,Confused,165,38.3,Midazolam,126,154,86,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-03-02T11:00:00+0000
+2025-10-31T19:23:00+0000,1,10,41,68,,Weakness with fever,133,113,58,,88,Responds to voice,172,38.7,Aspirin,115,113,94,Unresponsive,No prior information,Prepare now,Queued,2025-11-04T16:00:00+0000
+2025-10-14T07:30:00+0000,2,14,41,20,,Abdominal pain,93,196,108,10,79,Confused,34,37.0,Diphenhydramine,58,184,86,Responds to pain,No prior information,Routine awareness,Queued,2025-11-10T17:23:00+0000
+2025-12-21T08:27:00+0000,2,9,19,63,Male,Allergic reaction,135,124,91,12,91,Alert,178,36.9,Aspirin,94,151,94,Alert,No,Preparation can wait,Queued,2025-02-27T13:21:00+0000
+2025-11-11T17:52:00+0000,2,12,25,46,Female,Stroke symptoms,81,149,,17,88,Responds to voice,143,38.6,Oxygen,94,125,,Responds to pain,No,Routine awareness,Queued,2025-11-16T21:19:00+0000
+2025-02-26T03:58:00+0000,2,0,23,55,,Fall,105,160,125,24,96,Alert,49,39.1,Glucose,68,149,92,Responds to pain,Yes,Cannot assess,Needs Review,2025-07-26T02:24:00+0000
+2025-07-24T23:20:00+0000,2,6,21,58,Female,Weakness with fever,93,116,74,,79,Alert,,,IV fluids,97,118,82,Alert,Yes,Cannot assess,Needs Review,2025-08-10T03:48:00+0000
+2025-11-20T16:42:00+0000,1,14,35,71,Male,Low blood sugar,101,95,107,9,86,Alert,251,38.0,Aspirin,117,145,91,Confused,No,Cannot assess,Queued,2025-12-31T12:16:00+0000
+2025-03-28T06:57:00+0000,1,12,21,81,Male,Weakness with fever,61,106,103,14,98,Unresponsive,251,36.8,Pain medication,111,105,88,Responds to voice,No prior information,Cannot assess,Queued,2025-05-03T07:09:00+0000
+2025-01-16T05:41:00+0000,1,3,9,70,Female,Low blood sugar,73,71,96,23,98,Confused,237,37.4,IV fluids,107,134,97,Responds to pain,Uncertain,Prepare now,Needs Review,2025-01-29T04:34:00+0000
+2025-06-28T08:36:00+0000,2,13,24,85,,Seizure,131,69,98,24,96,Responds to voice,88,39.2,Aspirin,77,152,93,Responds to voice,No,Preparation can wait,Queued,2025-07-29T11:21:00+0000
+2025-05-06T14:14:00+0000,2,10,8,82,Female,Low blood sugar,111,169,94,19,98,Confused,33,38.0,Diphenhydramine,68,170,99,Unresponsive,Yes,Routine awareness,Queued,2025-12-12T04:57:00+0000
+2025-08-15T01:22:00+0000,1,3,20,84,Female,Low blood sugar,110,188,56,33,80,Responds to pain,49,39.2,Pain medication,112,65,88,Responds to pain,Uncertain,Prepare now,Needs Review,2025-06-16T12:20:00+0000
+2025-07-15T13:10:00+0000,1,14,10,99,Male,Allergic reaction,122,134,79,15,91,Alert,173,37.3,Pain medication,98,172,82,Unresponsive,No prior information,Prepare now,Queued,2025-07-26T08:35:00+0000
+2025-04-17T13:32:00+0000,2,0,5,67,,Low blood sugar,113,108,98,23,99,Alert,171,36.1,Epinephrine,113,96,92,Confused,Uncertain,Prepare now,Queued,2025-05-03T00:50:00+0000
+2025-12-16T10:14:00+0000,1,3,4,39,Male,Seizure,105,158,97,30,96,Confused,152,36.8,Oxygen,131,191,92,Responds to voice,Yes,Routine awareness,Queued,2025-03-15T21:15:00+0000
+2025-01-26T11:35:00+0000,2,4,40,18,Female,Fall,100,150,89,22,99,Alert,157,36.5,,73,190,93,Alert,No,Prepare now,Queued,2025-09-25T13:30:00+0000
+2025-02-08T08:05:00+0000,2,3,14,54,,Weakness with fever,115,114,61,17,90,Confused,239,39.8,Midazolam,104,149,86,,No,Routine awareness,Needs Review,2025-02-22T03:53:00+0000
+2025-03-29T10:59:00+0000,1,8,34,27,Female,Seizure,84,138,91,24,93,Unresponsive,54,40.3,Nitroglycerin,88,182,99,Alert,Uncertain,Routine awareness,Queued,2025-09-06T16:11:00+0000
+2025-11-09T01:02:00+0000,2,9,6,92,,Fall,109,159,91,21,87,Unresponsive,251,39.5,Oxygen,97,108,90,Responds to pain,Yes,Preparation can wait,Queued,2025-12-31T18:48:00+0000
+2025-03-01T04:38:00+0000,2,15,40,51,Female,Low blood sugar,123,132,108,19,92,Responds to voice,39,39.2,Pain medication,87,166,93,Responds to voice,No,Prepare now,Queued,2025-03-30T16:16:00+0000
+2025-08-03T07:25:00+0000,2,6,33,29,Female,Motor vehicle collision,111,164,60,18,86,Responds to pain,187,37.6,Albuterol,151,119,100,Alert,No,Cannot assess,Queued,2025-08-23T10:20:00+0000
+2025-01-29T13:10:00+0000,1,5,14,70,,Weakness with fever,89,68,70,18,98,Confused,251,37.3,Epinephrine,102,84,93,Responds to voice,No prior information,Prepare now,Queued,2025-01-16T14:26:00+0000
+2025-02-07T12:53:00+0000,1,8,7,40,Female,Motor vehicle collision,106,132,124,19,86,Confused,98,39.5,IV fluids,123,132,86,Unresponsive,No,Prepare now,Queued,2025-05-07T07:34:00+0000
+2025-08-02T14:36:00+0000,1,13,20,43,,Allergic reaction,94,149,57,23,80,Confused,199,39.2,Diphenhydramine,120,90,86,Confused,Yes,Preparation can wait,Needs Review,2025-08-30T10:41:00+0000
+2025-12-18T19:36:00+0000,1,14,22,58,Female,Low blood sugar,75,66,51,33,85,Alert,130,37.3,,107,147,100,Alert,Yes,Routine awareness,Needs Review,2026-01-01T11:14:00+0000
+2025-06-23T06:17:00+0000,1,4,40,63,,Stroke symptoms,130,155,94,25,88,Responds to pain,127,38.5,Aspirin,123,135,88,,No prior information,Cannot assess,Queued,2025-07-03T13:38:00+0000
+2025-02-08T02:44:00+0000,1,15,38,45,,Seizure,92,149,91,33,88,Alert,,38.7,Diphenhydramine,59,151,87,Responds to pain,No prior information,Prepare now,Queued,2025-02-22T14:55:00+0000
+2025-07-06T11:49:00+0000,1,13,14,89,,Motor vehicle collision,117,84,68,24,93,Unresponsive,179,38.9,Aspirin,132,65,95,Confused,Uncertain,Routine awareness,Needs Review,2025-07-21T21:31:00+0000
+2025-12-05T13:33:00+0000,2,13,26,41,Male,Shortness of breath,70,120,74,21,98,Unresponsive,127,35.9,Oxygen,75,136,91,Confused,Yes,Cannot assess,Needs Review,2026-01-07T00:40:00+0000
+2025-02-19T08:52:00+0000,1,15,12,47,,Shortness of breath,68,126,79,9,79,Responds to voice,139,40.0,Albuterol,60,100,98,Unresponsive,No,Prepare now,Needs Review,2025-03-16T10:37:00+0000
+2025-09-16T09:53:00+0000,1,0,9,99,Female,Altered mental status,90,185,105,28,88,Alert,103,36.3,IV fluids,76,117,100,Alert,No,Routine awareness,Queued,2025-10-21T07:44:00+0000
+2025-02-18T13:15:00+0000,1,7,7,75,,Allergic reaction,80,154,103,10,92,Confused,207,37.8,Midazolam,65,67,86,Responds to pain,No,Cannot assess,Needs Review,2025-03-16T15:53:00+0000
+2025-08-23T10:43:00+0000,2,7,43,70,,Shortness of breath,109,75,124,29,97,Responds to voice,169,37.4,Nitroglycerin,106,182,89,Unresponsive,Yes,Preparation can wait,Queued,2025-09-27T11:25:00+0000
+2025-11-06T19:56:00+0000,2,14,15,68,Female,Altered mental status,89,133,87,29,87,Alert,104,37.6,,85,84,95,Alert,No,Routine awareness,Queued,2025-11-17T00:26:00+0000
+2025-07-16T14:58:00+0000,1,6,22,91,Female,Allergic reaction,118,98,63,13,94,Responds to voice,210,36.9,,83,96,82,Unresponsive,Yes,Cannot assess,Queued,2025-08-17T13:36:00+0000
+2025-02-24T16:29:00+0000,2,5,18,24,Male,Abdominal pain,83,163,108,18,97,Responds to pain,233,37.6,Albuterol,128,150,88,,Uncertain,Cannot assess,Needs Review,2025-04-27T18:57:00+0000
+2025-04-27T01:58:00+0000,2,9,3,38,,Altered mental status,76,114,109,19,90,Responds to pain,158,37.0,Diphenhydramine,73,136,95,Responds to pain,No,Routine awareness,Needs Review,2025-05-20T12:19:00+0000
+2025-11-24T15:54:00+0000,1,8,23,82,Female,Chest discomfort,110,142,105,25,93,Unresponsive,224,38.1,Glucose,73,187,94,Confused,No prior information,Cannot assess,Queued,2026-01-14T18:48:00+0000
+2025-07-22T19:29:00+0000,2,9,41,57,,Allergic reaction,107,95,110,25,98,Confused,27,37.5,Glucose,94,102,89,Alert,No,Cannot assess,Needs Review,2025-08-05T12:06:00+0000
+2025-11-22T18:22:00+0000,2,5,14,51,Male,Seizure,97,118,74,24,99,Confused,220,37.0,Oxygen,62,116,96,Responds to pain,Yes,Prepare now,Needs Review,2025-11-24T05:36:00+0000
+2025-12-14T04:04:00+0000,1,15,35,93,,Altered mental status,131,116,54,13,93,Alert,132,37.6,Nitroglycerin,126,165,92,Alert,Yes,Prepare now,Queued,2025-12-29T04:49:00+0000
+2025-04-14T21:43:00+0000,2,8,10,56,Male,Stroke symptoms,106,181,85,26,86,Confused,78,38.5,Aspirin,75,105,100,Alert,Yes,Preparation can wait,Queued,2025-04-21T06:53:00+0000
+2025-12-13T08:23:00+0000,2,9,30,78,Female,Seizure,138,72,113,26,80,Unresponsive,165,,,94,176,92,Confused,No,Routine awareness,Needs Review,2025-12-28T16:41:00+0000
+2025-12-17T21:24:00+0000,2,15,24,89,,Stroke symptoms,98,117,72,10,99,Alert,52,36.4,,96,68,87,Responds to pain,Yes,Preparation can wait,Queued,2026-01-13T07:18:00+0000
+2025-06-02T07:24:00+0000,2,3,16,85,,Chest discomfort,77,134,123,17,90,Responds to pain,176,37.5,,70,124,96,Responds to pain,Uncertain,Preparation can wait,Queued,2025-06-29T18:49:00+0000
+2025-06-27T10:33:00+0000,2,10,19,40,Female,Abdominal pain,117,119,60,29,,Responds to voice,47,37.9,Albuterol,97,104,98,,Uncertain,Cannot assess,Needs Review,2025-11-19T08:29:00+0000
+2025-09-28T03:56:00+0000,1,6,38,22,,Chest discomfort,72,136,123,16,91,Alert,120,37.5,Glucose,90,100,,Alert,No,Preparation can wait,Queued,2025-10-10T09:16:00+0000
+2025-10-30T11:45:00+0000,2,13,37,54,Male,Altered mental status,88,121,100,30,79,Alert,93,39.6,Epinephrine,83,161,91,Responds to pain,Yes,Routine awareness,Needs Review,2025-12-22T18:33:00+0000
+2025-06-27T17:47:00+0000,2,9,4,90,Female,Allergic reaction,79,84,111,16,86,Responds to voice,235,37.7,Diphenhydramine,105,141,96,,Yes,Routine awareness,Queued,2025-11-21T02:15:00+0000
+2025-05-26T17:30:00+0000,1,15,22,76,Female,Altered mental status,98,69,70,29,,Responds to pain,250,39.9,IV fluids,90,85,96,,No,Prepare now,Needs Review,2025-07-02T06:21:00+0000
+2025-10-11T10:34:00+0000,2,13,7,47,,Allergic reaction,78,142,,10,91,Responds to pain,116,39.5,Glucose,98,127,88,Responds to pain,Yes,Preparation can wait,Queued,2025-10-21T22:38:00+0000
+2025-01-26T03:20:00+0000,1,4,12,,Male,Fall,122,132,82,18,80,Alert,155,38.0,Epinephrine,59,112,,,No prior information,Cannot assess,Needs Review,2025-02-26T08:25:00+0000
+2025-04-19T01:27:00+0000,1,7,35,43,,Shortness of breath,98,167,56,15,95,Responds to pain,250,37.1,Midazolam,105,112,,Confused,Yes,Cannot assess,Queued,2025-05-21T17:55:00+0000
+2025-06-22T06:56:00+0000,2,7,30,66,Female,Abdominal pain,118,193,114,28,94,Alert,202,37.9,Oxygen,131,109,87,Responds to pain,Yes,Prepare now,Queued,2025-07-18T11:20:00+0000
+2025-05-16T22:10:00+0000,2,6,5,73,Female,Chest discomfort,,185,97,14,,Responds to voice,187,37.8,Pain medication,92,146,93,Responds to voice,Yes,Routine awareness,Needs Review,2025-02-14T18:13:00+0000
+2025-11-26T15:13:00+0000,1,6,29,85,Male,Stroke symptoms,68,165,42,29,98,Unresponsive,35,36.5,Glucose,126,166,90,,Yes,Routine awareness,Queued,2025-05-28T02:33:00+0000
+2025-07-04T19:07:00+0000,2,0,12,39,Male,Shortness of breath,69,124,64,25,87,Alert,224,37.6,Aspirin,122,182,90,Unresponsive,No prior information,Routine awareness,Queued,2025-06-08T10:56:00+0000
+2025-05-15T08:45:00+0000,2,0,8,20,Male,Weakness with fever,121,177,96,9,92,Alert,185,38.3,IV fluids,97,176,88,,Yes,Prepare now,Queued,2025-02-08T19:34:00+0000
+2025-04-07T05:05:00+0000,1,10,37,56,Male,Low blood sugar,131,193,84,,95,Alert,128,38.4,Oxygen,83,154,99,,No,Routine awareness,Queued,2026-01-03T02:51:00+0000
+2025-04-01T11:43:00+0000,1,9,45,95,Female,Abdominal pain,133,82,125,24,,Alert,118,39.3,Diphenhydramine,98,172,97,Responds to voice,No,Preparation can wait,Queued,2025-05-09T14:44:00+0000
+2025-04-29T00:36:00+0000,1,4,45,38,,Abdominal pain,118,86,124,28,97,Unresponsive,197,38.3,Albuterol,123,131,97,Responds to pain,No,Prepare now,Queued,2025-05-12T21:59:00+0000
+2025-01-06T02:06:00+0000,1,11,26,40,Male,Motor vehicle collision,121,141,119,25,97,Responds to voice,152,39.3,Nitroglycerin,,184,82,Confused,No prior information,Preparation can wait,Queued,2025-01-26T15:01:00+0000
+2025-01-26T02:25:00+0000,1,15,41,74,,Motor vehicle collision,72,98,55,15,88,Unresponsive,119,37.1,,109,82,,,No prior information,Cannot assess,Queued,2025-02-28T15:37:00+0000
+2025-06-27T12:25:00+0000,1,15,45,29,Male,Motor vehicle collision,76,110,92,9,94,Alert,208,38.0,Midazolam,116,119,99,Responds to pain,No,Preparation can wait,Queued,2026-01-01T12:10:00+0000
+2025-09-17T12:09:00+0000,2,13,45,32,Male,Chest discomfort,116,88,65,28,88,Responds to pain,128,36.3,Albuterol,114,127,91,Responds to pain,Yes,Routine awareness,Queued,2025-02-25T15:15:00+0000
+2025-06-20T05:22:00+0000,1,6,28,61,,Motor vehicle collision,101,136,49,29,,Unresponsive,239,40.0,Diphenhydramine,117,60,97,Confused,No prior information,Cannot assess,Needs Review,2025-07-05T09:41:00+0000
+2025-03-03T17:36:00+0000,2,9,37,51,,Shortness of breath,65,130,62,9,96,Unresponsive,247,39.3,Epinephrine,126,109,93,Responds to pain,Uncertain,Routine awareness,Queued,2025-03-27T15:24:00+0000
+2025-03-31T05:20:00+0000,2,11,38,81,Male,Abdominal pain,81,164,54,21,98,Confused,82,37.8,Aspirin,102,169,90,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-04-16T16:07:00+0000
+2025-08-13T00:28:00+0000,2,5,40,34,Male,Seizure,95,74,55,29,95,Alert,174,39.0,Pain medication,95,114,98,Alert,No,Routine awareness,Queued,2025-09-05T14:14:00+0000
+2025-05-07T11:27:00+0000,2,5,35,79,,Motor vehicle collision,72,71,69,25,100,Unresponsive,40,38.8,IV fluids,98,187,98,Confused,Yes,Preparation can wait,Queued,2025-05-30T15:56:00+0000
+2025-07-07T08:09:00+0000,1,3,41,27,,Shortness of breath,134,90,84,10,98,Responds to voice,72,38.7,Glucose,71,157,99,Responds to voice,Yes,Preparation can wait,Queued,2025-10-28T15:36:00+0000
+2025-09-14T21:17:00+0000,2,15,28,37,,Low blood sugar,101,73,89,14,80,Unresponsive,100,39.9,Pain medication,112,114,99,Responds to pain,Yes,Routine awareness,Needs Review,2025-09-24T13:04:00+0000
+2025-11-16T10:29:00+0000,1,14,31,21,Female,Allergic reaction,97,126,101,10,98,Confused,132,37.4,Glucose,118,179,95,Responds to voice,Yes,Cannot assess,Needs Review,2025-07-22T15:23:00+0000
+2025-05-13T18:17:00+0000,2,8,38,46,Male,Chest discomfort,117,154,110,9,100,Responds to pain,241,36.3,Glucose,75,166,89,Alert,No,Cannot assess,Queued,2025-12-02T02:46:00+0000
+2025-05-29T06:36:00+0000,2,0,38,87,Male,Chest discomfort,131,102,49,13,87,Responds to voice,34,38.4,Pain medication,92,154,91,Responds to voice,No prior information,Cannot assess,Queued,2025-09-18T14:11:00+0000
+2025-09-11T14:25:00+0000,2,3,38,42,,Low blood sugar,134,118,87,27,94,Alert,74,37.6,Midazolam,65,164,88,Responds to voice,No,Cannot assess,Needs Review,2025-09-20T11:23:00+0000
+2025-09-21T01:04:00+0000,2,4,18,71,Female,Weakness with fever,114,127,95,11,90,Responds to pain,,36.1,Aspirin,75,147,93,Responds to voice,Uncertain,Prepare now,Queued,2025-10-28T21:28:00+0000
+2025-10-06T19:28:00+0000,1,5,22,75,Female,Altered mental status,86,138,40,16,95,Confused,53,39.6,IV fluids,117,158,91,Confused,Uncertain,Routine awareness,Queued,2025-11-11T08:08:00+0000
+2025-03-28T23:55:00+0000,1,8,34,18,Male,Shortness of breath,58,76,103,28,97,Unresponsive,81,37.6,Nitroglycerin,112,170,91,Confused,No prior information,Preparation can wait,Queued,2025-05-02T23:27:00+0000
+2025-12-21T17:56:00+0000,1,13,3,60,,Motor vehicle collision,91,146,108,14,97,Responds to voice,247,36.1,,71,175,94,,No,Prepare now,Queued,2025-12-30T10:19:00+0000
+2025-08-26T13:37:00+0000,2,8,31,46,,Seizure,82,97,,27,87,Unresponsive,174,37.3,Pain medication,86,149,97,Responds to pain,Yes,Prepare now,Queued,2025-09-24T07:58:00+0000
+2025-09-17T02:35:00+0000,2,13,25,18,,Allergic reaction,79,,76,14,94,Confused,60,37.0,Epinephrine,71,82,91,Confused,Yes,Prepare now,Queued,2025-07-29T21:55:00+0000
+2025-06-25T14:51:00+0000,2,4,37,73,,Seizure,64,128,48,28,97,Responds to pain,182,39.0,Midazolam,85,167,96,Alert,Uncertain,Routine awareness,Queued,2025-08-01T04:52:00+0000
+2025-05-19T15:22:00+0000,1,13,13,19,,Abdominal pain,67,190,119,26,91,Alert,175,37.5,Glucose,138,135,86,Alert,No,Routine awareness,Queued,2025-10-13T23:59:00+0000
+2025-09-07T22:53:00+0000,2,10,24,49,,Fall,102,161,59,33,95,Alert,239,37.2,Pain medication,71,191,93,,No prior information,Cannot assess,Queued,2025-09-12T04:39:00+0000
+2025-08-28T11:15:00+0000,1,7,11,30,,Fall,115,189,,24,80,Responds to pain,210,38.3,Glucose,146,110,95,Responds to pain,No,Prepare now,Queued,2025-03-14T20:12:00+0000
+2025-06-23T20:13:00+0000,2,8,19,39,,Weakness with fever,103,96,110,16,90,Responds to pain,182,40.0,Oxygen,75,120,95,Alert,No,Routine awareness,Queued,2025-07-20T00:05:00+0000
+2025-02-27T19:16:00+0000,1,9,36,63,Male,Seizure,139,112,98,24,98,Alert,56,39.2,Albuterol,101,149,88,Responds to pain,No prior information,Cannot assess,Queued,2025-10-18T07:06:00+0000
+2025-10-17T18:30:00+0000,1,3,19,70,,Allergic reaction,122,144,120,,,Alert,106,39.2,Glucose,97,155,,,No,Routine awareness,Queued,2026-01-11T22:28:00+0000
+2025-02-22T17:46:00+0000,1,8,6,40,Female,Abdominal pain,100,96,112,27,89,Confused,247,40.0,Aspirin,97,108,87,Unresponsive,No,Preparation can wait,Needs Review,2025-03-26T23:14:00+0000
+2025-03-23T18:38:00+0000,1,4,43,35,Male,Low blood sugar,87,170,102,33,91,Alert,63,37.8,Oxygen,,105,91,Responds to voice,No,Routine awareness,Queued,2025-12-29T10:26:00+0000
+2025-05-10T03:30:00+0000,2,5,12,56,Female,Chest discomfort,61,185,67,,87,Unresponsive,92,39.7,Albuterol,126,146,91,Confused,No,Preparation can wait,Needs Review,2025-05-28T01:54:00+0000
+2025-08-27T13:41:00+0000,2,9,20,38,Female,Stroke symptoms,113,87,73,10,97,Responds to pain,228,38.0,Nitroglycerin,120,170,88,Confused,No,Cannot assess,Needs Review,2025-09-25T05:12:00+0000
+2025-07-02T17:59:00+0000,1,4,31,83,Female,Abdominal pain,79,90,123,,92,Unresponsive,127,37.1,Oxygen,112,94,91,Alert,No,Prepare now,Queued,2025-10-25T17:52:00+0000
+2025-09-24T22:45:00+0000,1,7,26,36,Male,Motor vehicle collision,69,168,118,18,79,Unresponsive,160,40.0,,101,137,88,Responds to pain,No,Cannot assess,Queued,2025-09-02T21:08:00+0000
+2025-05-11T07:04:00+0000,2,4,16,69,Male,Low blood sugar,114,160,74,30,93,Unresponsive,161,35.9,Oxygen,74,125,90,Responds to voice,No prior information,Cannot assess,Queued,2025-02-20T07:54:00+0000
+2025-07-19T23:01:00+0000,2,9,7,85,Male,Stroke symptoms,67,94,119,11,86,Alert,126,38.7,Pain medication,59,161,98,Responds to voice,Yes,Prepare now,Needs Review,2025-08-25T10:14:00+0000
+2025-08-16T08:47:00+0000,1,13,29,60,,Low blood sugar,134,88,44,15,97,Confused,197,39.2,Oxygen,104,119,92,Confused,Uncertain,Preparation can wait,Queued,2025-09-25T13:41:00+0000
+2025-04-13T09:08:00+0000,1,11,13,37,,Fall,65,144,53,30,90,Responds to voice,230,37.0,Albuterol,79,156,92,Confused,No prior information,Prepare now,Queued,2025-05-13T05:46:00+0000
+2025-08-26T06:14:00+0000,1,4,3,36,Female,Weakness with fever,118,98,83,13,86,Responds to pain,175,39.5,Albuterol,,99,99,Confused,Uncertain,Preparation can wait,Needs Review,2025-01-25T14:11:00+0000
+2025-08-26T21:19:00+0000,2,3,38,66,Female,Weakness with fever,130,191,79,17,80,Alert,106,35.9,Epinephrine,91,131,92,,No prior information,Routine awareness,Needs Review,2026-01-21T19:52:00+0000
+2025-09-12T15:45:00+0000,2,11,13,95,,Chest discomfort,66,192,86,15,99,Responds to voice,109,39.2,Diphenhydramine,151,109,98,Responds to pain,No prior information,Cannot assess,Needs Review,2025-08-23T01:21:00+0000
+2025-07-14T09:54:00+0000,2,8,24,83,Male,Motor vehicle collision,111,116,100,22,97,Unresponsive,112,37.1,Oxygen,79,139,82,Confused,Uncertain,Preparation can wait,Queued,2025-07-21T17:27:00+0000
+2025-12-29T22:23:00+0000,1,10,18,77,Male,Allergic reaction,88,103,107,26,87,Unresponsive,102,38.8,Aspirin,105,184,100,Responds to voice,No prior information,Cannot assess,Queued,2025-03-16T01:24:00+0000
+2025-01-01T15:49:00+0000,1,3,29,18,Male,Weakness with fever,72,105,80,18,97,Responds to pain,156,37.0,Aspirin,65,112,100,Responds to voice,Yes,Preparation can wait,Queued,2026-01-28T21:23:00+0000
+2025-09-27T18:49:00+0000,1,14,41,98,Male,Seizure,101,94,75,29,87,Responds to voice,228,39.5,Pain medication,65,165,100,,No prior information,Prepare now,Queued,2025-10-24T17:57:00+0000
+2025-05-26T09:39:00+0000,1,0,5,73,Female,Chest discomfort,77,135,50,13,96,Responds to pain,39,38.5,IV fluids,126,80,96,Confused,Yes,Cannot assess,Needs Review,2025-06-22T10:09:00+0000
+2025-12-02T09:06:00+0000,2,8,6,91,,Seizure,134,178,92,30,92,Responds to voice,92,37.1,Nitroglycerin,70,84,99,Responds to pain,Yes,Preparation can wait,Queued,2026-01-06T13:51:00+0000
+2025-10-22T06:56:00+0000,2,8,35,57,,Chest discomfort,92,96,83,33,98,Responds to voice,61,39.7,Aspirin,103,138,92,Unresponsive,Uncertain,Routine awareness,Queued,2025-11-12T15:09:00+0000
+2025-01-01T07:22:00+0000,2,4,6,93,Male,Allergic reaction,126,109,99,9,80,Responds to pain,224,36.7,Epinephrine,75,85,86,Alert,No,Prepare now,Needs Review,2025-04-01T15:26:00+0000
+2025-04-21T22:31:00+0000,1,15,38,27,Male,Allergic reaction,116,173,102,26,89,Unresponsive,146,36.3,Nitroglycerin,58,129,93,Confused,Yes,Preparation can wait,Needs Review,2026-01-14T22:58:00+0000
+2025-01-22T17:05:00+0000,2,13,41,47,Female,Low blood sugar,101,,102,9,99,Confused,82,38.6,Pain medication,129,180,96,Unresponsive,Yes,Preparation can wait,Queued,2025-02-04T21:40:00+0000
+2025-11-27T13:59:00+0000,2,15,29,66,Female,Allergic reaction,91,155,92,17,93,Unresponsive,65,35.9,Aspirin,120,,,Responds to pain,Yes,Routine awareness,Needs Review,2025-12-25T07:59:00+0000
+2025-03-17T15:54:00+0000,1,7,14,24,Male,Shortness of breath,122,83,68,29,98,Responds to pain,170,36.3,Albuterol,123,139,100,Responds to pain,Uncertain,Routine awareness,Queued,2025-04-04T21:57:00+0000
+2025-11-26T05:24:00+0000,2,9,30,39,Male,Seizure,120,152,77,29,94,Unresponsive,40,,IV fluids,117,137,98,Confused,No,Preparation can wait,Queued,2025-12-17T21:31:00+0000
+2025-11-13T21:49:00+0000,2,11,7,30,,Chest discomfort,117,164,99,24,100,Unresponsive,102,39.2,Aspirin,93,124,97,Responds to voice,Uncertain,Cannot assess,Queued,2025-03-17T22:24:00+0000
+2025-12-24T05:04:00+0000,1,0,15,61,Male,Stroke symptoms,121,186,105,27,92,Responds to pain,,39.3,Aspirin,87,137,89,Unresponsive,No,Preparation can wait,Queued,2026-01-25T14:41:00+0000
+2025-01-12T22:28:00+0000,1,15,37,54,,Fall,117,72,122,15,100,Responds to voice,30,36.7,Pain medication,78,134,82,Alert,Yes,Routine awareness,Queued,2025-02-16T19:42:00+0000
+2025-11-20T20:17:00+0000,2,3,13,76,Female,Low blood sugar,138,131,124,23,99,Responds to pain,55,37.1,Glucose,71,112,87,Confused,No,Prepare now,Queued,2025-12-23T11:47:00+0000
+2025-08-10T23:13:00+0000,2,13,25,50,Male,Weakness with fever,93,82,107,17,95,Alert,,39.1,Albuterol,126,149,82,Alert,No,Cannot assess,Needs Review,2025-07-24T16:02:00+0000
+2025-09-30T13:18:00+0000,2,12,41,59,Male,Motor vehicle collision,131,83,80,30,90,Responds to pain,190,40.0,IV fluids,86,96,97,Alert,No,Routine awareness,Queued,2025-01-25T11:19:00+0000
+2025-10-17T23:55:00+0000,1,9,5,39,Female,Motor vehicle collision,82,73,57,16,100,Unresponsive,229,37.4,Albuterol,98,136,90,Confused,Yes,Preparation can wait,Needs Review,2025-11-22T14:58:00+0000
+2025-09-02T09:43:00+0000,2,15,13,40,Female,Weakness with fever,69,197,98,10,80,Responds to voice,56,39.5,Diphenhydramine,103,80,89,Confused,No,Prepare now,Queued,2025-10-10T00:59:00+0000
+2025-01-20T13:56:00+0000,1,13,14,70,Male,Abdominal pain,134,146,105,21,97,Responds to pain,99,38.5,,110,182,97,Responds to pain,Yes,Routine awareness,Queued,2026-01-26T19:59:00+0000
+2025-12-06T17:20:00+0000,1,0,29,37,Female,Allergic reaction,73,87,98,27,80,Responds to pain,217,37.4,Midazolam,62,152,100,Responds to pain,Uncertain,Prepare now,Queued,2026-01-05T10:09:00+0000
+2025-11-18T16:08:00+0000,1,9,10,51,Male,Weakness with fever,100,156,62,11,100,Unresponsive,253,37.6,Glucose,114,137,92,Responds to voice,No,Cannot assess,Needs Review,2025-12-15T16:32:00+0000
+2025-04-06T18:22:00+0000,2,4,23,54,Female,Low blood sugar,133,103,67,33,95,Responds to voice,169,40.3,Nitroglycerin,122,117,97,Confused,Yes,Prepare now,Queued,2025-04-30T10:37:00+0000
+2025-01-06T19:38:00+0000,2,8,35,75,,Fall,95,73,71,13,80,Responds to pain,155,37.7,Pain medication,92,147,82,Responds to pain,Yes,Prepare now,Queued,2025-11-10T11:05:00+0000
+2025-08-13T21:50:00+0000,1,8,40,24,Female,Fall,109,88,61,16,,Unresponsive,34,37.0,Nitroglycerin,84,162,88,Responds to voice,No prior information,Routine awareness,Queued,2025-03-07T03:29:00+0000
+2025-03-24T06:24:00+0000,2,7,10,27,Male,Weakness with fever,126,,,29,92,Confused,218,,IV fluids,78,157,90,Responds to voice,Yes,Cannot assess,Queued,2025-04-20T16:06:00+0000
+2025-09-08T08:39:00+0000,2,0,28,42,Male,Abdominal pain,63,119,62,21,95,Alert,186,36.7,Aspirin,108,151,87,Alert,Uncertain,Prepare now,Needs Review,2025-10-14T07:35:00+0000
+2025-11-26T15:03:00+0000,1,12,4,79,Female,Altered mental status,102,169,58,21,96,Responds to pain,207,39.2,Oxygen,98,144,95,Responds to voice,No prior information,Routine awareness,Queued,2025-12-21T21:40:00+0000
+2025-04-14T05:55:00+0000,1,8,34,55,Female,Seizure,143,74,59,23,96,Unresponsive,244,38.7,Oxygen,81,103,92,Responds to pain,No prior information,Routine awareness,Queued,2025-07-14T18:25:00+0000
+2025-04-06T08:28:00+0000,1,6,18,32,Male,Motor vehicle collision,109,188,108,17,79,Confused,214,39.6,IV fluids,82,110,95,Responds to voice,No,Preparation can wait,Needs Review,2025-02-13T03:26:00+0000
+2025-01-06T19:09:00+0000,2,15,31,59,Male,Low blood sugar,113,161,49,28,91,Responds to pain,127,37.5,Epinephrine,110,191,87,Unresponsive,Uncertain,Prepare now,Queued,2025-10-17T20:45:00+0000
+2025-06-11T03:40:00+0000,2,7,8,23,,Weakness with fever,73,147,79,18,87,Confused,250,38.3,Glucose,71,120,97,Alert,No,Preparation can wait,Needs Review,2025-11-13T13:45:00+0000
+2025-01-06T09:31:00+0000,2,13,6,68,Female,Abdominal pain,121,144,102,28,92,Alert,179,38.7,Glucose,88,159,82,,Uncertain,Prepare now,Queued,2025-07-28T15:44:00+0000
+2025-11-22T23:24:00+0000,1,11,17,28,,Altered mental status,104,127,56,27,89,Unresponsive,157,38.6,Epinephrine,117,184,87,Alert,Uncertain,Cannot assess,Needs Review,2025-11-27T01:46:00+0000
+2025-06-17T10:57:00+0000,2,15,13,69,,Fall,63,180,96,33,91,Responds to voice,55,39.7,Midazolam,85,167,88,Responds to voice,Uncertain,Cannot assess,Queued,2025-07-29T07:14:00+0000
+2025-11-05T23:30:00+0000,2,4,19,39,Female,Seizure,139,105,68,21,100,Confused,43,39.0,Albuterol,79,169,,Confused,Yes,Cannot assess,Queued,2025-11-29T04:29:00+0000
+2025-04-09T11:33:00+0000,1,5,14,56,Male,Abdominal pain,117,123,97,29,91,Alert,33,37.1,Pain medication,112,164,91,Alert,Uncertain,Prepare now,Queued,2025-05-03T08:30:00+0000
+2025-07-17T21:14:00+0000,2,5,13,39,Female,Altered mental status,99,77,67,14,90,Unresponsive,133,39.4,Oxygen,58,147,98,Confused,No,Prepare now,Queued,2025-08-11T03:36:00+0000
+2025-11-12T19:10:00+0000,1,3,38,39,,Stroke symptoms,61,174,92,26,99,Confused,77,39.4,IV fluids,99,180,82,Confused,No,Routine awareness,Queued,2026-01-18T23:06:00+0000
+2025-10-21T15:13:00+0000,1,0,18,44,Male,Seizure,75,154,80,17,91,Alert,242,40.3,Midazolam,104,60,92,Responds to pain,Uncertain,Routine awareness,Queued,2025-06-20T09:24:00+0000
+2025-05-01T14:21:00+0000,1,10,12,50,Female,Abdominal pain,112,174,48,21,85,Unresponsive,22,37.4,Midazolam,117,170,,Responds to voice,No prior information,Prepare now,Queued,2025-06-10T12:20:00+0000
+2025-05-06T11:02:00+0000,1,8,10,57,Female,Altered mental status,,82,70,24,80,Responds to voice,161,38.6,Oxygen,94,103,82,Responds to pain,No prior information,Routine awareness,Needs Review,2025-08-26T04:43:00+0000
+2025-04-02T00:59:00+0000,2,6,43,66,,Low blood sugar,121,166,99,12,98,Unresponsive,200,36.1,Oxygen,96,187,88,Alert,Yes,Routine awareness,Queued,2025-05-12T10:59:00+0000
+2025-12-02T02:40:00+0000,1,3,35,47,Male,Allergic reaction,63,157,52,24,79,Alert,158,39.3,Oxygen,118,175,89,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-06-20T07:29:00+0000
+2025-03-10T17:49:00+0000,1,6,17,71,Male,Fall,115,94,108,10,97,Responds to voice,199,37.6,Glucose,115,158,90,,Yes,Preparation can wait,Queued,2025-02-23T17:39:00+0000
+2025-11-29T04:32:00+0000,1,14,33,42,,Low blood sugar,90,173,71,27,95,Confused,70,39.9,Glucose,117,155,87,Confused,No,Routine awareness,Queued,2025-07-26T23:33:00+0000
+2025-06-10T06:24:00+0000,1,7,11,22,Female,Abdominal pain,61,169,81,19,95,Responds to pain,207,37.4,IV fluids,80,145,89,Alert,No,Cannot assess,Needs Review,2025-11-02T06:43:00+0000
+2025-08-09T09:48:00+0000,2,8,41,70,Female,Altered mental status,108,154,52,12,99,Alert,46,37.1,Aspirin,109,184,95,Responds to pain,Yes,Prepare now,Needs Review,2025-09-04T09:19:00+0000
+2025-01-15T12:54:00+0000,2,4,32,62,Female,Fall,84,80,73,17,79,Alert,40,39.9,Nitroglycerin,79,161,,Responds to pain,Yes,Routine awareness,Needs Review,2025-02-17T02:16:00+0000
+2025-04-05T14:08:00+0000,2,4,39,43,,Chest discomfort,58,100,90,,86,Responds to pain,99,37.1,Diphenhydramine,88,180,96,Responds to voice,Yes,Prepare now,Needs Review,2025-11-28T22:50:00+0000
+2025-10-18T18:31:00+0000,1,7,13,32,Male,Abdominal pain,68,102,62,26,91,Confused,100,38.6,Diphenhydramine,118,125,90,Alert,No,Cannot assess,Needs Review,2025-12-04T01:23:00+0000
+2025-06-14T12:52:00+0000,2,6,25,25,Male,Low blood sugar,57,198,44,11,80,Unresponsive,141,39.6,,79,111,91,Unresponsive,Yes,Cannot assess,Needs Review,2025-11-11T04:39:00+0000
+2025-12-12T02:35:00+0000,1,11,16,88,,Abdominal pain,,196,101,23,85,Alert,140,39.2,,151,65,95,Responds to voice,No prior information,Prepare now,Queued,2026-01-04T17:23:00+0000
+2025-10-24T03:32:00+0000,1,11,38,36,,Altered mental status,134,149,109,13,90,Responds to voice,95,37.8,IV fluids,82,116,89,Responds to pain,No prior information,Prepare now,Queued,2025-08-18T04:31:00+0000
+2025-10-12T00:21:00+0000,1,7,20,54,,Chest discomfort,139,168,58,19,98,Unresponsive,247,39.2,IV fluids,131,187,92,Unresponsive,Uncertain,Prepare now,Needs Review,2025-10-24T19:28:00+0000
+2025-09-23T14:08:00+0000,1,5,15,41,,Fall,133,83,60,13,86,Alert,109,40.0,Glucose,107,94,98,,Yes,Cannot assess,Queued,2025-10-12T04:39:00+0000
+2025-02-16T23:58:00+0000,2,8,25,56,Male,Chest discomfort,98,177,107,24,92,Responds to voice,110,39.0,,129,134,82,Responds to pain,Yes,Cannot assess,Queued,2025-04-12T12:48:00+0000
+2025-08-02T00:18:00+0000,2,15,39,26,Male,Low blood sugar,111,66,112,12,95,Confused,80,39.8,Nitroglycerin,86,139,97,Responds to pain,Yes,Preparation can wait,Queued,2025-09-10T21:29:00+0000
+2025-01-25T08:36:00+0000,1,14,41,59,Male,Allergic reaction,123,137,79,21,97,Alert,103,,Midazolam,95,182,,Responds to voice,No,Routine awareness,Queued,2025-01-25T18:10:00+0000
+2025-08-29T22:56:00+0000,1,9,17,97,Female,Motor vehicle collision,120,112,73,14,96,Responds to pain,172,37.9,Midazolam,108,104,86,Responds to voice,Uncertain,Routine awareness,Queued,2025-09-29T00:13:00+0000
+2025-08-26T12:04:00+0000,2,14,25,58,,Fall,66,137,64,16,90,Unresponsive,235,38.5,Midazolam,114,111,100,Responds to voice,Yes,Cannot assess,Needs Review,2025-08-29T15:19:00+0000
+2025-02-26T01:48:00+0000,2,3,26,55,Female,Motor vehicle collision,134,117,110,12,90,Responds to voice,187,36.9,,114,117,93,Responds to voice,Uncertain,Routine awareness,Queued,2025-03-30T22:30:00+0000
+2025-09-30T03:23:00+0000,2,3,20,83,Female,Abdominal pain,118,105,91,20,100,Responds to voice,119,38.9,,102,164,97,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-12-05T04:56:00+0000
+2025-08-09T10:54:00+0000,2,8,41,64,Female,Altered mental status,117,103,76,21,92,Confused,63,38.4,Aspirin,75,136,86,Responds to voice,Yes,Prepare now,Queued,2026-01-02T15:03:00+0000
+2025-09-30T13:07:00+0000,2,8,32,61,Male,Abdominal pain,95,127,44,15,94,Alert,195,36.1,Albuterol,88,130,89,Responds to pain,Yes,Routine awareness,Queued,2025-10-17T18:41:00+0000
+2025-08-10T04:45:00+0000,1,12,24,31,,Weakness with fever,133,146,83,14,87,Alert,242,36.3,Diphenhydramine,88,65,96,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-08-16T15:27:00+0000
+2025-11-05T03:27:00+0000,2,12,25,82,,Abdominal pain,122,108,96,17,80,Confused,42,39.2,Pain medication,102,68,88,Responds to voice,No,Preparation can wait,Queued,2025-09-10T14:29:00+0000
+2025-08-23T17:00:00+0000,2,8,23,51,Female,Shortness of breath,104,130,44,26,86,Alert,,38.7,Pain medication,93,105,86,Confused,Uncertain,Routine awareness,Queued,2025-08-26T08:10:00+0000
+2025-05-02T17:25:00+0000,1,13,31,71,Male,Low blood sugar,89,136,48,10,88,Unresponsive,196,36.1,,95,96,82,Responds to voice,No,Cannot assess,Needs Review,2025-06-04T19:14:00+0000
+2025-01-04T11:12:00+0000,2,3,29,57,Male,Seizure,96,162,75,15,100,Unresponsive,138,38.6,Albuterol,138,94,97,Responds to voice,Uncertain,Prepare now,Needs Review,2025-01-28T10:54:00+0000
+2025-10-18T14:17:00+0000,1,11,45,74,Female,Motor vehicle collision,126,92,80,21,95,Unresponsive,39,38.8,Albuterol,95,118,88,Confused,No prior information,Preparation can wait,Queued,2025-11-07T16:17:00+0000
+2025-05-28T12:40:00+0000,2,4,29,59,Female,Low blood sugar,98,175,79,22,97,Responds to voice,197,38.6,Glucose,114,96,82,Responds to voice,Yes,Prepare now,Queued,2025-07-01T15:06:00+0000
+2025-08-25T08:07:00+0000,2,0,31,28,,Abdominal pain,65,69,76,15,96,Alert,,37.8,Diphenhydramine,70,143,100,Alert,Uncertain,Routine awareness,Queued,2025-12-01T23:06:00+0000
+2025-05-10T22:23:00+0000,2,11,19,54,Female,Weakness with fever,111,159,64,14,98,Responds to voice,57,39.9,Midazolam,65,110,97,Confused,Uncertain,Prepare now,Needs Review,2025-10-29T02:04:00+0000
+2025-08-14T20:14:00+0000,1,13,9,18,Male,Fall,69,120,106,17,97,Alert,118,37.0,Pain medication,78,144,99,,No,Routine awareness,Queued,2025-09-08T06:51:00+0000
+2025-10-22T11:36:00+0000,1,6,31,57,Male,Low blood sugar,126,,40,27,100,Responds to pain,165,37.5,IV fluids,65,98,98,Responds to pain,Yes,Cannot assess,Queued,2025-12-05T07:57:00+0000
+2025-04-17T13:18:00+0000,1,13,18,43,Male,Motor vehicle collision,131,103,118,17,98,Alert,236,36.1,Pain medication,115,143,88,Alert,No,Cannot assess,Needs Review,2025-05-22T12:53:00+0000
+2025-09-09T19:45:00+0000,2,7,43,37,Female,Shortness of breath,71,173,110,17,96,Unresponsive,99,37.0,Aspirin,114,172,98,Unresponsive,Yes,Routine awareness,Queued,2025-09-19T17:54:00+0000
+2025-06-09T16:44:00+0000,1,9,23,36,Male,Chest discomfort,81,129,70,18,90,Confused,193,38.8,Glucose,90,110,93,Alert,Uncertain,Prepare now,Queued,2025-06-10T00:58:00+0000
+2025-07-19T21:45:00+0000,1,15,45,76,Female,Low blood sugar,83,139,97,16,87,Alert,139,37.8,Nitroglycerin,60,120,87,Responds to pain,Yes,Prepare now,Needs Review,2025-08-01T04:05:00+0000
+2025-02-28T02:01:00+0000,2,3,20,34,Male,Chest discomfort,61,90,82,16,85,Responds to pain,132,37.1,Nitroglycerin,111,182,99,Responds to voice,No,Routine awareness,Needs Review,2025-03-27T10:34:00+0000
+2025-11-19T22:22:00+0000,1,12,32,52,Female,Chest discomfort,89,180,125,29,93,Alert,85,37.9,,81,100,93,Alert,No,Prepare now,Queued,2025-12-18T15:14:00+0000
+2025-02-12T22:44:00+0000,2,11,29,52,,Seizure,76,155,111,21,88,Responds to pain,216,39.5,Nitroglycerin,70,97,95,Responds to pain,No prior information,Routine awareness,Needs Review,2025-09-25T14:53:00+0000
+2025-01-27T08:03:00+0000,2,15,21,38,Female,Abdominal pain,108,82,81,17,89,Unresponsive,116,39.2,Midazolam,74,99,,Alert,No,Cannot assess,Needs Review,2025-10-25T09:16:00+0000
+2025-10-13T04:19:00+0000,1,15,16,72,Female,Altered mental status,133,88,97,21,92,Confused,168,39.0,Pain medication,81,98,91,Unresponsive,No,Cannot assess,Needs Review,2025-11-01T01:52:00+0000
+2025-08-19T16:22:00+0000,1,6,19,48,Female,Weakness with fever,115,66,118,12,94,Unresponsive,199,37.8,Nitroglycerin,122,165,92,Responds to pain,Yes,Preparation can wait,Queued,2025-05-20T14:45:00+0000
+2025-11-12T06:14:00+0000,2,11,8,56,Male,Low blood sugar,90,114,124,30,96,Responds to voice,70,37.7,Pain medication,113,121,91,Unresponsive,No,Prepare now,Queued,2025-11-17T22:10:00+0000
+2025-09-20T05:42:00+0000,1,13,40,31,,Allergic reaction,66,115,50,29,87,Responds to pain,24,38.0,,74,151,93,Responds to pain,Yes,Routine awareness,Queued,2025-10-15T01:09:00+0000
+2025-10-03T10:15:00+0000,2,3,6,71,,Shortness of breath,87,175,116,27,98,Responds to pain,179,38.1,Diphenhydramine,115,147,91,Responds to pain,Uncertain,Cannot assess,Needs Review,2025-11-03T21:03:00+0000
+2025-06-23T11:32:00+0000,2,12,13,81,Male,Motor vehicle collision,73,110,94,12,88,Unresponsive,86,38.1,Nitroglycerin,72,167,86,Unresponsive,Uncertain,Preparation can wait,Queued,2025-07-22T19:47:00+0000
+2025-10-02T19:32:00+0000,2,14,36,18,Male,Altered mental status,57,195,48,18,87,Responds to pain,53,39.1,Albuterol,132,150,96,Responds to voice,No,Cannot assess,Needs Review,2025-11-06T01:17:00+0000
+2025-04-18T13:47:00+0000,1,4,19,48,Male,Seizure,80,93,83,,90,Alert,158,37.1,Epinephrine,120,93,95,Responds to voice,No,Preparation can wait,Queued,2025-05-14T12:50:00+0000
+2025-08-21T22:37:00+0000,2,8,19,77,,Fall,103,171,93,21,93,Alert,179,37.0,Epinephrine,73,109,92,,Uncertain,Prepare now,Queued,2025-09-08T12:00:00+0000
+2025-11-15T14:30:00+0000,1,9,10,,Female,Altered mental status,104,194,88,13,86,Responds to voice,38,38.5,Albuterol,88,163,96,Responds to pain,No prior information,Prepare now,Queued,2025-11-22T19:01:00+0000
+2025-11-19T22:29:00+0000,1,8,5,85,Male,Seizure,80,187,77,29,,Confused,234,37.4,Midazolam,79,153,93,Responds to pain,No prior information,Preparation can wait,Queued,2025-10-27T04:28:00+0000
+2025-04-11T03:34:00+0000,2,9,29,56,,Shortness of breath,83,134,106,25,94,Responds to voice,244,37.6,Oxygen,113,67,95,Unresponsive,No,Routine awareness,Queued,2025-10-20T10:38:00+0000
+2025-08-16T14:35:00+0000,2,4,18,56,Female,Weakness with fever,65,176,57,9,87,Responds to voice,171,39.7,Midazolam,68,109,97,Unresponsive,Yes,Cannot assess,Needs Review,2025-04-23T05:25:00+0000
+2025-02-08T22:51:00+0000,1,9,41,71,Male,Fall,113,112,89,26,,Alert,212,38.5,Midazolam,129,90,86,,No prior information,Routine awareness,Queued,2025-03-22T14:59:00+0000
+2025-11-20T01:30:00+0000,1,7,3,42,Female,Fall,90,89,58,20,97,Responds to voice,190,37.5,,128,143,93,Confused,Yes,Cannot assess,Needs Review,2025-12-31T12:34:00+0000
+2025-06-19T20:50:00+0000,2,7,14,73,Female,Low blood sugar,66,102,44,27,100,Responds to pain,73,40.0,Aspirin,62,108,90,Responds to voice,Yes,Preparation can wait,Needs Review,2025-07-07T23:53:00+0000
+2025-09-13T20:01:00+0000,1,8,7,62,,Allergic reaction,82,139,89,,94,Confused,107,36.8,Diphenhydramine,82,90,93,Responds to voice,No,Routine awareness,Queued,2025-10-12T20:56:00+0000
+2025-01-19T21:44:00+0000,1,15,43,72,,Shortness of breath,70,94,105,21,92,Responds to voice,167,37.3,Pain medication,83,152,96,Unresponsive,No,Routine awareness,Needs Review,2025-03-01T12:18:00+0000
+2025-12-24T12:01:00+0000,2,5,11,35,Female,Altered mental status,62,82,52,11,79,Unresponsive,81,38.1,,83,115,99,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-12-29T12:51:00+0000
+2025-05-11T11:14:00+0000,1,15,7,95,Female,Seizure,91,126,48,19,98,Responds to pain,60,35.9,Albuterol,71,175,86,Responds to pain,Uncertain,Routine awareness,Queued,2025-02-20T11:08:00+0000
+2025-07-08T03:48:00+0000,1,8,19,89,Male,Weakness with fever,80,71,79,11,91,Responds to voice,46,38.6,Oxygen,75,143,87,Confused,Uncertain,Prepare now,Queued,2025-07-24T21:53:00+0000
+2025-10-05T16:12:00+0000,2,0,18,94,Male,Fall,87,175,108,17,98,Responds to voice,30,36.9,Midazolam,60,89,90,Responds to voice,No prior information,Cannot assess,Queued,2025-10-10T05:45:00+0000
+2025-11-25T15:45:00+0000,2,7,18,60,Male,Fall,126,153,58,19,98,Responds to voice,180,40.0,Aspirin,106,151,87,Responds to pain,Yes,Preparation can wait,Queued,2025-01-28T22:57:00+0000
+2025-05-11T03:03:00+0000,1,14,34,64,Female,Abdominal pain,63,198,40,30,91,Confused,249,37.0,Albuterol,109,180,94,Unresponsive,Yes,Routine awareness,Queued,2025-05-27T06:07:00+0000
+2025-06-10T03:00:00+0000,1,4,13,73,Female,Allergic reaction,68,111,65,26,88,Alert,175,36.3,IV fluids,58,184,89,Responds to voice,No,Preparation can wait,Queued,2025-06-19T07:42:00+0000
+2025-05-18T14:29:00+0000,2,10,30,76,,Motor vehicle collision,69,100,49,28,87,Responds to voice,47,37.2,Diphenhydramine,132,96,90,Responds to pain,Yes,Preparation can wait,Needs Review,2025-06-18T16:19:00+0000
+2025-02-07T16:04:00+0000,1,9,27,34,Female,Low blood sugar,101,159,120,12,87,Alert,137,37.9,IV fluids,78,143,97,Alert,No prior information,Preparation can wait,Needs Review,2025-03-21T16:03:00+0000
+2025-10-31T11:29:00+0000,2,11,38,77,,Abdominal pain,118,177,114,24,92,Responds to pain,66,40.3,Glucose,129,143,88,Confused,Yes,Preparation can wait,Queued,2025-12-01T13:30:00+0000
+2025-11-11T09:28:00+0000,1,0,27,76,Female,Motor vehicle collision,100,158,53,14,98,Unresponsive,176,39.1,Oxygen,122,136,82,Responds to voice,No prior information,Preparation can wait,Queued,2025-11-16T21:16:00+0000
+2025-06-04T17:29:00+0000,1,0,9,,Male,Seizure,74,79,114,26,95,Responds to voice,185,39.9,Pain medication,,143,90,,No prior information,Cannot assess,Queued,2025-06-12T08:55:00+0000
+2025-07-27T07:41:00+0000,1,12,22,39,,Abdominal pain,83,175,122,20,85,Confused,88,38.7,Pain medication,85,119,94,,Yes,Prepare now,Needs Review,2025-08-18T08:03:00+0000
+2025-06-07T22:06:00+0000,1,12,13,23,Female,Abdominal pain,100,156,113,15,87,Confused,215,38.6,Midazolam,81,132,82,Alert,No,Routine awareness,Queued,2025-07-07T23:35:00+0000
+2025-08-26T04:55:00+0000,2,6,10,99,Female,Altered mental status,99,197,63,33,88,Alert,160,38.1,Aspirin,122,,93,,Yes,Prepare now,Queued,2025-08-30T10:36:00+0000
+2025-10-09T10:17:00+0000,2,14,19,,Male,Weakness with fever,107,148,72,,93,Unresponsive,108,38.0,Midazolam,77,140,99,Alert,No,Prepare now,Queued,2025-11-12T07:25:00+0000
+2025-04-25T09:20:00+0000,2,3,39,33,,Altered mental status,110,152,122,25,85,Unresponsive,249,39.8,Oxygen,75,84,82,,No,Cannot assess,Needs Review,2025-05-25T14:34:00+0000
+2025-07-13T00:34:00+0000,2,13,26,85,Female,Seizure,81,69,105,11,97,Unresponsive,212,36.4,Glucose,110,180,100,Unresponsive,Yes,Cannot assess,Queued,2025-08-17T00:30:00+0000
+2025-02-06T01:42:00+0000,1,0,28,73,,Allergic reaction,70,123,94,28,90,Alert,250,39.3,Aspirin,76,94,82,Unresponsive,No,Prepare now,Queued,2025-03-07T17:21:00+0000
+2025-07-07T07:19:00+0000,2,4,15,99,Male,Weakness with fever,116,104,66,19,92,Unresponsive,109,38.6,Glucose,86,142,91,Alert,No,Cannot assess,Queued,2025-07-18T22:19:00+0000
+2025-05-20T03:06:00+0000,2,3,16,,Male,Motor vehicle collision,106,111,45,16,79,Unresponsive,54,37.5,Glucose,104,132,,Unresponsive,No,Cannot assess,Queued,2025-06-02T19:03:00+0000
+2025-07-31T00:08:00+0000,1,3,43,47,Male,Stroke symptoms,63,146,108,27,96,Responds to pain,36,38.5,Aspirin,79,170,88,,No,Routine awareness,Queued,2025-09-14T07:45:00+0000
+2025-06-03T18:47:00+0000,2,12,34,53,Female,Seizure,76,70,105,18,93,Responds to pain,89,37.4,Midazolam,128,152,95,,Yes,Preparation can wait,Queued,2025-06-10T08:53:00+0000
+2025-04-07T05:17:00+0000,1,3,34,80,Male,Stroke symptoms,112,91,98,16,91,Alert,117,39.1,Epinephrine,114,131,86,Confused,Yes,Routine awareness,Queued,2025-07-16T18:05:00+0000
+2025-09-08T00:08:00+0000,2,8,11,25,,Motor vehicle collision,112,100,77,27,96,Alert,137,35.9,Glucose,77,132,89,,Yes,Routine awareness,Queued,2025-09-10T14:37:00+0000
+2025-07-03T12:31:00+0000,2,10,22,38,,Low blood sugar,95,117,108,25,88,Unresponsive,245,39.0,Aspirin,58,153,94,Responds to voice,Uncertain,Prepare now,Queued,2025-10-28T11:44:00+0000
+2025-07-30T07:50:00+0000,2,7,25,60,,Seizure,135,113,73,16,91,Responds to voice,240,36.7,IV fluids,122,112,88,Responds to pain,Yes,Routine awareness,Queued,2025-08-18T09:53:00+0000
+2025-07-24T05:18:00+0000,2,3,14,67,Female,Seizure,134,113,110,33,98,Alert,118,37.2,Midazolam,72,137,,Alert,No,Cannot assess,Needs Review,2025-08-25T19:19:00+0000
+2025-01-05T16:06:00+0000,2,6,32,27,Male,Fall,73,165,92,9,99,Responds to pain,142,39.6,Oxygen,106,170,95,Unresponsive,Yes,Cannot assess,Queued,2025-04-06T10:33:00+0000
+2025-07-21T18:56:00+0000,2,8,33,87,Male,Fall,70,167,71,21,79,Unresponsive,83,,Epinephrine,78,85,92,Responds to pain,Yes,Cannot assess,Needs Review,2025-07-31T12:45:00+0000
+2025-09-29T04:11:00+0000,2,10,41,63,Female,Abdominal pain,85,156,98,,86,Alert,115,39.1,Epinephrine,102,128,97,Confused,No prior information,Routine awareness,Queued,2025-11-04T00:00:00+0000
+2025-12-29T05:29:00+0000,2,0,23,46,Male,Low blood sugar,103,98,102,28,96,Confused,166,38.0,Oxygen,71,113,87,Responds to pain,Yes,Cannot assess,Needs Review,2026-01-15T03:15:00+0000
+2025-11-16T13:39:00+0000,2,6,12,66,Male,Motor vehicle collision,68,194,61,15,91,Responds to voice,186,39.0,IV fluids,73,102,88,Alert,No,Prepare now,Queued,2025-12-04T20:49:00+0000
+2025-07-19T08:52:00+0000,2,0,27,20,Female,Shortness of breath,67,,40,9,80,Responds to pain,135,38.3,,122,121,99,Unresponsive,No prior information,Cannot assess,Needs Review,2025-07-27T19:57:00+0000
+2025-04-24T17:37:00+0000,1,15,6,24,Female,Low blood sugar,71,113,82,15,89,Confused,141,38.3,Aspirin,126,142,88,Responds to voice,No,Routine awareness,Needs Review,2025-01-13T12:42:00+0000
+2025-01-12T02:37:00+0000,2,3,8,68,Male,Weakness with fever,133,107,100,10,91,Confused,42,39.0,Aspirin,113,148,99,Responds to voice,Uncertain,Prepare now,Queued,2025-08-16T23:41:00+0000
+2025-08-13T16:44:00+0000,1,0,11,90,,Stroke symptoms,65,109,52,16,88,Responds to voice,120,37.5,Pain medication,,,,,No prior information,Routine awareness,Needs Review,2025-08-19T05:05:00+0000
+2025-05-29T01:46:00+0000,2,4,11,75,Male,Seizure,109,108,93,10,88,Alert,137,38.9,Epinephrine,97,136,82,,Uncertain,Routine awareness,Needs Review,2025-06-21T09:53:00+0000
+2025-07-25T10:24:00+0000,2,10,33,31,,Allergic reaction,76,200,112,19,87,Responds to pain,60,40.3,Diphenhydramine,107,182,96,Responds to pain,Yes,Cannot assess,Needs Review,2025-09-25T03:28:00+0000
+2025-06-07T15:53:00+0000,1,10,40,63,Male,Altered mental status,79,155,62,29,98,Unresponsive,142,39.4,Midazolam,83,121,82,Responds to voice,No,Prepare now,Queued,2025-07-19T08:03:00+0000
+2025-09-27T18:52:00+0000,2,6,17,48,Male,Weakness with fever,77,177,102,15,,Unresponsive,155,38.4,Diphenhydramine,98,119,95,Responds to voice,Yes,Preparation can wait,Queued,2025-12-15T23:48:00+0000
+2025-03-04T07:16:00+0000,1,11,3,61,Female,Low blood sugar,95,103,55,21,85,Confused,152,37.7,Albuterol,81,67,90,Responds to voice,No,Routine awareness,Needs Review,2025-04-13T11:57:00+0000
+2025-05-07T05:29:00+0000,1,5,25,62,Male,Chest discomfort,64,85,101,23,100,Responds to pain,39,39.2,Glucose,117,88,89,,Yes,Cannot assess,Queued,2025-06-11T23:09:00+0000
+2025-08-10T07:40:00+0000,1,6,36,56,,Altered mental status,76,184,52,17,92,Unresponsive,41,39.6,Oxygen,113,169,97,Responds to pain,Yes,Prepare now,Queued,2025-03-24T05:45:00+0000
+2025-04-26T19:21:00+0000,1,3,41,,Male,Chest discomfort,96,191,124,23,,Confused,60,36.6,Epinephrine,129,127,,Confused,No,Prepare now,Queued,2025-05-08T06:41:00+0000
+2025-02-28T14:30:00+0000,1,9,10,49,Female,Shortness of breath,74,73,80,26,95,Responds to voice,186,37.2,Glucose,126,131,96,,Uncertain,Cannot assess,Needs Review,2025-04-03T05:54:00+0000
+2025-11-05T14:19:00+0000,2,9,45,69,,Weakness with fever,87,189,83,23,89,Alert,195,39.3,Pain medication,84,121,100,,Yes,Routine awareness,Queued,2025-11-12T00:41:00+0000
+2025-10-17T08:55:00+0000,2,7,28,99,Female,Chest discomfort,75,150,40,30,87,Alert,207,39.4,Aspirin,86,110,88,Alert,No,Prepare now,Queued,2025-11-08T00:44:00+0000
+2025-05-11T01:13:00+0000,2,13,9,32,,Allergic reaction,84,75,109,20,86,Confused,151,37.0,Albuterol,98,143,98,Alert,Uncertain,Cannot assess,Queued,2025-06-07T14:54:00+0000
+2025-10-10T20:40:00+0000,1,3,5,84,Female,Shortness of breath,93,65,100,,87,Responds to pain,94,38.3,Oxygen,,85,88,Unresponsive,Uncertain,Prepare now,Needs Review,2025-10-13T22:49:00+0000
+2025-05-07T17:59:00+0000,2,9,22,81,Male,Fall,80,,125,16,95,Confused,22,39.3,,65,182,82,Confused,No,Preparation can wait,Queued,2025-05-30T11:24:00+0000
+2025-02-06T03:39:00+0000,2,9,20,82,Female,Altered mental status,79,114,66,21,88,Responds to voice,102,,Oxygen,87,97,82,Confused,No,Cannot assess,Queued,2025-11-01T04:58:00+0000
+2025-02-07T22:42:00+0000,2,7,31,35,Male,Low blood sugar,96,188,57,22,99,Confused,154,37.4,,115,140,94,Alert,No,Preparation can wait,Queued,2025-02-14T06:52:00+0000
+2025-05-03T20:14:00+0000,1,7,15,45,Male,Abdominal pain,74,140,94,30,89,Alert,241,37.1,Diphenhydramine,77,122,90,Unresponsive,Uncertain,Routine awareness,Queued,2025-06-10T08:11:00+0000
+2025-06-17T20:42:00+0000,2,15,16,28,Male,Weakness with fever,112,192,61,22,92,Unresponsive,103,38.6,IV fluids,65,104,92,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-07-06T04:19:00+0000
+2025-04-20T01:35:00+0000,2,4,16,32,Male,Abdominal pain,81,146,82,20,90,Confused,173,39.7,Aspirin,115,138,100,,No prior information,Prepare now,Queued,2025-05-16T15:21:00+0000
+2025-12-04T09:03:00+0000,1,0,28,67,Male,Abdominal pain,65,120,49,14,92,Responds to pain,159,,Diphenhydramine,123,164,86,Responds to voice,No prior information,Cannot assess,Needs Review,2025-08-20T13:26:00+0000
+2025-03-26T17:40:00+0000,2,8,11,49,Male,Fall,76,188,69,14,98,Responds to pain,39,39.7,Nitroglycerin,123,134,100,,No prior information,Routine awareness,Queued,2025-04-05T10:17:00+0000
+2025-09-15T16:22:00+0000,2,4,21,53,Male,Abdominal pain,143,121,93,30,100,Responds to pain,89,36.3,Oxygen,90,169,94,Confused,Yes,Routine awareness,Queued,2025-10-09T14:43:00+0000
+2025-06-21T02:24:00+0000,1,12,9,75,,Stroke symptoms,116,120,56,29,85,Unresponsive,115,39.2,IV fluids,108,90,99,Confused,No prior information,Routine awareness,Queued,2026-01-31T21:51:00+0000
+2025-09-23T04:14:00+0000,1,14,40,25,,Altered mental status,113,197,123,12,,Confused,152,39.8,,120,126,95,Unresponsive,No prior information,Prepare now,Queued,2025-02-21T21:27:00+0000
+2025-09-15T22:41:00+0000,2,8,3,69,,Shortness of breath,135,170,108,16,,Responds to voice,142,38.7,Midazolam,93,96,98,,No prior information,Preparation can wait,Queued,2025-02-04T05:26:00+0000
+2025-02-03T05:14:00+0000,2,13,14,36,,Allergic reaction,105,91,105,26,,Responds to pain,39,39.0,Albuterol,101,65,92,,Uncertain,Cannot assess,Needs Review,2025-02-20T14:29:00+0000
+2025-12-18T09:27:00+0000,1,3,23,55,Male,Weakness with fever,86,170,120,33,99,Confused,75,36.7,,,114,98,Responds to pain,Uncertain,Prepare now,Queued,2025-06-08T03:13:00+0000
+2025-05-01T13:10:00+0000,1,9,21,23,Male,Abdominal pain,104,190,116,22,86,Unresponsive,66,38.4,Aspirin,72,148,95,Responds to pain,No,Routine awareness,Queued,2026-01-30T21:56:00+0000
+2025-07-23T12:15:00+0000,2,5,22,56,Male,Shortness of breath,58,171,50,14,80,Responds to pain,197,39.2,Oxygen,112,174,92,Responds to voice,No,Cannot assess,Needs Review,2025-08-23T03:03:00+0000
+2025-11-01T23:57:00+0000,1,12,12,99,,Altered mental status,131,68,89,20,87,Responds to voice,85,37.1,,109,154,93,Responds to voice,No prior information,Routine awareness,Queued,2025-12-11T03:58:00+0000
+2025-09-24T18:23:00+0000,1,4,27,51,,Seizure,104,149,57,28,99,Responds to voice,248,36.7,,68,164,94,,No prior information,Prepare now,Needs Review,2025-06-27T18:29:00+0000
+2025-01-01T14:52:00+0000,1,10,6,75,,Motor vehicle collision,76,85,111,21,92,Responds to voice,132,39.7,Glucose,123,136,99,Alert,No prior information,Cannot assess,Needs Review,2025-12-13T06:42:00+0000
+2025-11-23T07:52:00+0000,2,3,36,86,Male,Stroke symptoms,103,89,71,15,87,Responds to pain,99,40.0,Oxygen,116,116,90,Responds to pain,Uncertain,Routine awareness,Needs Review,2025-05-12T00:50:00+0000
+2025-08-13T23:15:00+0000,1,3,9,,Female,Abdominal pain,135,95,98,29,94,Alert,156,39.7,Pain medication,,88,99,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-09-02T02:51:00+0000
+2025-01-29T18:27:00+0000,1,13,28,60,Female,Stroke symptoms,139,181,77,12,98,Confused,211,37.1,Glucose,105,111,92,Unresponsive,Uncertain,Prepare now,Needs Review,2025-05-28T18:05:00+0000
+2025-01-02T19:00:00+0000,2,3,40,36,Female,Seizure,100,87,87,16,100,Alert,175,39.3,Diphenhydramine,113,102,99,Responds to voice,No,Routine awareness,Queued,2025-04-01T22:38:00+0000
+2025-07-24T07:06:00+0000,1,9,31,54,,Seizure,95,152,108,21,86,Alert,185,37.6,Albuterol,80,151,92,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-08-13T06:19:00+0000
+2025-09-08T17:42:00+0000,1,7,23,90,,Motor vehicle collision,81,196,48,15,86,Unresponsive,59,38.4,Aspirin,122,162,82,,No prior information,Preparation can wait,Queued,2025-10-15T02:07:00+0000
+2025-09-09T01:23:00+0000,1,10,31,41,Female,Stroke symptoms,92,147,100,25,91,Unresponsive,206,36.5,,129,134,90,Responds to voice,No,Cannot assess,Queued,2025-09-14T08:11:00+0000
+2025-11-08T07:39:00+0000,2,11,32,85,Female,Fall,85,128,114,33,96,Responds to pain,213,36.5,,86,126,89,Unresponsive,No,Routine awareness,Queued,2025-12-17T03:09:00+0000
+2025-05-01T06:39:00+0000,1,13,26,71,Female,Chest discomfort,123,172,125,14,99,Confused,100,36.5,Aspirin,115,97,94,Confused,Yes,Cannot assess,Queued,2025-06-01T21:55:00+0000
+2025-05-22T13:33:00+0000,1,14,30,81,,Low blood sugar,68,179,113,21,90,Confused,208,36.5,Nitroglycerin,111,182,88,Responds to voice,No,Prepare now,Queued,2025-06-13T01:23:00+0000
+2025-04-30T21:00:00+0000,2,14,45,91,,Abdominal pain,135,125,65,10,,Responds to pain,233,39.2,Oxygen,111,158,98,Responds to pain,No prior information,Prepare now,Queued,2025-05-13T19:28:00+0000
+2025-06-14T07:05:00+0000,1,15,28,75,,Allergic reaction,69,91,88,23,96,Unresponsive,82,39.8,Diphenhydramine,113,125,100,Responds to pain,Yes,Routine awareness,Queued,2025-06-22T23:32:00+0000
+2025-06-30T09:52:00+0000,2,0,11,64,Female,Shortness of breath,133,152,111,25,97,Confused,118,38.0,Epinephrine,102,112,97,Confused,Uncertain,Preparation can wait,Queued,2025-10-12T12:12:00+0000
+2025-07-07T20:36:00+0000,2,13,13,61,Female,Low blood sugar,121,112,74,24,90,Responds to pain,233,37.1,Glucose,132,116,88,Responds to pain,Yes,Routine awareness,Needs Review,2025-08-01T01:08:00+0000
+2025-12-03T13:35:00+0000,1,14,21,27,,Fall,135,76,85,25,,Responds to voice,208,36.6,,90,156,82,Responds to pain,Uncertain,Prepare now,Queued,2025-12-21T13:44:00+0000
+2025-02-06T16:33:00+0000,1,10,22,95,Female,Chest discomfort,126,168,109,13,99,Responds to pain,186,40.3,Albuterol,129,103,91,Responds to voice,No prior information,Routine awareness,Queued,2025-03-12T13:11:00+0000
+2025-02-05T02:20:00+0000,1,7,6,61,,Allergic reaction,94,140,125,25,,Responds to voice,247,36.4,,75,103,82,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-03-06T18:11:00+0000
+2025-09-28T15:01:00+0000,1,4,13,98,Male,Stroke symptoms,123,190,44,12,96,Alert,200,38.8,Epinephrine,95,161,90,Confused,Uncertain,Prepare now,Queued,2025-11-06T00:05:00+0000
+2025-04-04T03:10:00+0000,2,11,39,27,,Weakness with fever,139,126,71,9,87,Confused,170,37.4,Pain medication,68,82,92,Responds to voice,Yes,Prepare now,Queued,2025-08-24T12:40:00+0000
+2025-09-06T06:17:00+0000,2,0,9,93,Female,Chest discomfort,72,75,125,14,95,Confused,253,36.8,Epinephrine,74,149,97,Alert,Uncertain,Prepare now,Queued,2025-08-12T03:07:00+0000
+2025-08-22T12:06:00+0000,1,5,31,72,Female,Stroke symptoms,98,90,123,30,97,Responds to pain,215,40.0,Nitroglycerin,128,175,87,Responds to voice,Uncertain,Routine awareness,Queued,2025-09-01T13:11:00+0000
+2025-02-13T14:44:00+0000,2,3,20,58,Male,Allergic reaction,81,186,119,9,89,Alert,88,38.7,Diphenhydramine,102,164,90,Alert,Yes,Cannot assess,Needs Review,2025-03-23T00:34:00+0000
+2025-07-29T09:44:00+0000,1,12,35,73,Male,Low blood sugar,85,160,78,12,91,Responds to voice,209,35.9,Aspirin,84,191,90,Unresponsive,Uncertain,Preparation can wait,Queued,2025-09-04T02:23:00+0000
+2025-07-09T18:43:00+0000,1,0,43,89,Female,Chest discomfort,96,112,63,19,100,Alert,62,37.3,Aspirin,72,67,94,Unresponsive,No,Prepare now,Queued,2026-01-13T06:43:00+0000
+2025-07-25T05:25:00+0000,1,12,36,31,,Shortness of breath,90,118,54,19,94,Confused,32,,Glucose,138,105,96,,No prior information,Routine awareness,Queued,2025-08-12T10:03:00+0000
+2025-02-23T22:55:00+0000,1,8,15,63,,Shortness of breath,91,122,88,28,90,Responds to pain,24,38.4,Oxygen,131,80,82,Alert,Uncertain,Prepare now,Queued,2025-02-26T05:45:00+0000
+2025-11-25T04:25:00+0000,2,5,37,67,Male,Low blood sugar,91,148,109,25,,Unresponsive,221,40.0,Pain medication,120,60,96,Alert,No,Routine awareness,Queued,2025-04-10T02:15:00+0000
+2025-11-17T06:18:00+0000,2,11,24,78,Female,Allergic reaction,108,152,97,15,80,Unresponsive,37,36.7,Midazolam,80,138,92,Alert,No,Cannot assess,Needs Review,2025-12-23T18:03:00+0000
+2025-08-14T01:55:00+0000,2,3,13,77,,Motor vehicle collision,71,171,105,27,96,Confused,217,39.0,Diphenhydramine,86,98,98,Alert,Uncertain,Routine awareness,Queued,2025-09-22T00:24:00+0000
+2025-02-04T22:19:00+0000,1,13,18,80,Female,Allergic reaction,100,138,52,9,86,Confused,211,39.5,Pain medication,115,159,96,Unresponsive,Uncertain,Routine awareness,Queued,2025-02-27T12:19:00+0000
+2025-11-23T02:11:00+0000,2,9,22,18,Male,Abdominal pain,64,73,92,28,93,Alert,238,38.3,IV fluids,129,120,87,,Yes,Cannot assess,Queued,2025-12-25T14:03:00+0000
+2025-03-28T08:50:00+0000,2,14,11,77,,Chest discomfort,100,130,67,17,87,Responds to pain,122,39.7,Glucose,108,166,87,Alert,No,Prepare now,Needs Review,2025-04-29T13:33:00+0000
+2025-01-17T22:03:00+0000,1,0,18,56,,Shortness of breath,117,189,85,22,,Unresponsive,25,36.4,Oxygen,,130,96,Responds to pain,Uncertain,Prepare now,Queued,2025-04-27T22:51:00+0000
+2025-02-27T14:50:00+0000,1,6,24,39,Female,Fall,68,165,71,9,85,Unresponsive,81,37.9,Glucose,86,93,95,Responds to pain,Yes,Routine awareness,Needs Review,2025-03-15T21:40:00+0000
+2025-05-20T00:17:00+0000,1,11,18,35,Female,Chest discomfort,101,164,108,,99,Responds to voice,31,40.0,Midazolam,82,147,,Responds to voice,No prior information,Cannot assess,Needs Review,2025-05-26T03:46:00+0000
+2025-10-31T15:42:00+0000,2,9,12,,,Low blood sugar,109,174,57,16,98,Responds to voice,250,39.7,Nitroglycerin,62,113,86,Unresponsive,No,Preparation can wait,Queued,2025-11-14T13:15:00+0000
+2025-04-13T19:12:00+0000,1,10,29,79,Male,Low blood sugar,61,91,48,10,85,Confused,180,39.2,Aspirin,112,167,95,Unresponsive,No prior information,Routine awareness,Queued,2025-11-17T13:13:00+0000
+2025-07-03T10:46:00+0000,2,11,4,43,,Stroke symptoms,86,112,64,29,99,Alert,122,39.6,Diphenhydramine,78,175,82,Responds to voice,Yes,Routine awareness,Queued,2025-08-10T11:48:00+0000
+2025-10-08T05:55:00+0000,1,13,21,24,Male,Altered mental status,91,81,81,14,80,Responds to pain,165,39.2,Epinephrine,76,,82,Unresponsive,Uncertain,Prepare now,Needs Review,2025-09-23T08:00:00+0000
+2025-08-28T09:04:00+0000,2,15,7,40,Male,Low blood sugar,78,175,49,27,93,Responds to voice,141,38.0,,60,154,87,Responds to voice,No,Preparation can wait,Queued,2025-09-11T21:50:00+0000
+2025-11-20T01:26:00+0000,1,12,23,64,,Motor vehicle collision,62,93,87,18,79,Responds to voice,208,39.1,Pain medication,68,187,87,Responds to voice,No prior information,Cannot assess,Needs Review,2025-12-22T22:54:00+0000
+2025-10-07T18:29:00+0000,1,0,10,38,Male,Low blood sugar,130,167,42,27,95,Confused,250,35.9,Glucose,113,181,86,Responds to voice,No prior information,Preparation can wait,Queued,2025-11-12T23:03:00+0000
+2025-02-22T07:55:00+0000,1,5,13,52,,Stroke symptoms,110,130,107,17,96,Confused,177,37.5,,138,191,98,Alert,No,Routine awareness,Queued,2025-04-22T06:43:00+0000
+2025-08-08T19:07:00+0000,1,8,12,84,Female,Allergic reaction,134,69,105,27,94,Responds to voice,116,38.0,Oxygen,71,104,89,Unresponsive,No,Cannot assess,Queued,2025-09-19T21:26:00+0000
+2025-11-16T11:37:00+0000,2,0,37,46,Female,Allergic reaction,63,177,64,10,91,Responds to voice,189,37.5,Epinephrine,111,187,94,Responds to pain,Yes,Routine awareness,Queued,2025-11-25T22:34:00+0000
+2025-10-17T11:44:00+0000,2,3,17,,Female,Weakness with fever,81,102,110,19,91,Unresponsive,109,36.3,IV fluids,100,176,94,Alert,No,Cannot assess,Queued,2026-01-10T16:19:00+0000
+2025-05-25T21:57:00+0000,2,4,25,49,Male,Seizure,112,109,75,24,100,Confused,199,40.3,Diphenhydramine,151,111,92,Responds to pain,Yes,Preparation can wait,Needs Review,2025-05-30T01:08:00+0000
+2025-05-11T23:43:00+0000,2,13,39,75,,Motor vehicle collision,57,137,114,28,100,Alert,74,39.2,Glucose,116,145,98,,Uncertain,Routine awareness,Queued,2025-05-14T23:26:00+0000
+2025-06-09T17:53:00+0000,2,12,15,66,,Low blood sugar,97,72,104,21,80,Confused,96,36.9,,87,154,86,Confused,Yes,Preparation can wait,Needs Review,2025-06-28T19:04:00+0000
+2025-09-04T23:33:00+0000,1,15,22,68,Male,Altered mental status,81,134,50,23,88,Alert,30,37.3,Glucose,138,85,100,Alert,No prior information,Preparation can wait,Needs Review,2025-10-30T23:00:00+0000
+2025-04-16T08:42:00+0000,2,0,6,47,Male,Allergic reaction,115,166,56,23,85,Alert,114,36.8,,76,65,86,Confused,Uncertain,Routine awareness,Queued,2025-05-14T12:38:00+0000
+2025-09-11T22:12:00+0000,1,5,45,58,Female,Fall,102,74,42,15,96,Responds to pain,129,39.6,IV fluids,113,99,98,Responds to voice,Uncertain,Preparation can wait,Queued,2025-10-10T11:47:00+0000
+2025-10-19T23:56:00+0000,2,5,37,49,Male,Motor vehicle collision,116,68,78,21,90,Unresponsive,229,,,131,97,95,Confused,No,Prepare now,Queued,2025-11-04T11:02:00+0000
+2025-10-04T00:20:00+0000,1,14,4,28,Male,Shortness of breath,70,182,66,12,80,Alert,251,40.3,Oxygen,80,190,87,Confused,No,Preparation can wait,Queued,2025-10-26T14:46:00+0000
+2025-01-05T04:19:00+0000,2,7,40,76,Female,Stroke symptoms,83,85,91,30,79,Responds to voice,107,36.9,Glucose,89,121,,Responds to pain,No,Cannot assess,Queued,2025-01-09T14:23:00+0000
+2025-06-18T00:13:00+0000,1,8,39,61,Female,Altered mental status,120,134,78,20,89,Confused,215,39.1,Diphenhydramine,151,138,100,Confused,No prior information,Preparation can wait,Queued,2025-07-02T23:17:00+0000
+2025-07-05T05:51:00+0000,2,5,35,91,Male,Low blood sugar,100,162,57,15,85,Unresponsive,156,39.1,Midazolam,91,163,99,Alert,Uncertain,Cannot assess,Queued,2025-07-22T07:56:00+0000
+2025-09-22T14:23:00+0000,2,4,32,37,Female,Stroke symptoms,80,113,116,27,86,Responds to voice,229,39.4,,91,151,87,Unresponsive,Yes,Routine awareness,Needs Review,2025-06-03T12:01:00+0000
+2025-08-21T05:11:00+0000,1,8,30,95,Male,Weakness with fever,103,196,48,29,100,Confused,192,40.3,Aspirin,97,101,95,,Yes,Routine awareness,Needs Review,2025-09-01T07:02:00+0000
+2025-08-15T03:53:00+0000,1,4,7,55,,Weakness with fever,102,119,110,23,97,Alert,192,39.1,Aspirin,83,108,98,Responds to voice,No,Prepare now,Queued,2025-05-12T02:10:00+0000
+2025-02-10T00:43:00+0000,1,11,3,72,Male,Seizure,86,119,65,9,96,Responds to pain,246,37.7,Pain medication,88,162,100,Unresponsive,No prior information,Routine awareness,Queued,2025-03-09T18:58:00+0000
+2025-09-07T16:18:00+0000,1,3,7,,,Abdominal pain,115,180,98,12,89,Alert,185,37.0,Nitroglycerin,80,141,86,Alert,Yes,Preparation can wait,Queued,2025-09-19T09:10:00+0000
+2025-04-14T00:23:00+0000,1,3,24,39,,Seizure,65,82,71,26,99,Alert,211,39.4,Aspirin,112,153,88,Unresponsive,Uncertain,Routine awareness,Queued,2025-05-08T17:17:00+0000
+2025-12-07T22:08:00+0000,1,0,31,99,Female,Allergic reaction,116,111,101,16,93,Responds to pain,174,39.2,Pain medication,110,90,89,Responds to voice,No prior information,Cannot assess,Queued,2025-12-15T10:31:00+0000
+2025-03-15T05:09:00+0000,1,5,16,28,Male,Allergic reaction,93,160,48,22,79,Responds to pain,237,36.6,Aspirin,89,137,89,Responds to voice,Uncertain,Cannot assess,Needs Review,2025-04-19T22:58:00+0000
+2025-06-24T04:41:00+0000,2,5,29,34,Male,Stroke symptoms,57,68,118,9,,Responds to voice,87,40.3,Pain medication,85,135,86,,Uncertain,Preparation can wait,Needs Review,2025-05-11T16:31:00+0000
+2025-08-24T23:56:00+0000,1,12,23,62,Female,Fall,130,82,124,14,94,Confused,62,38.1,Glucose,110,151,98,Responds to voice,No prior information,Prepare now,Queued,2025-09-03T02:53:00+0000
+2025-05-03T02:45:00+0000,2,5,34,74,Female,Seizure,131,108,52,26,,Unresponsive,73,38.9,Midazolam,117,108,88,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-11-07T07:28:00+0000
+2025-11-22T13:47:00+0000,2,6,9,88,Female,Low blood sugar,111,116,,33,88,Unresponsive,178,37.9,Aspirin,81,119,91,Responds to pain,No prior information,Routine awareness,Needs Review,2025-11-28T14:16:00+0000
+2025-08-12T10:39:00+0000,2,9,45,66,,Allergic reaction,130,176,55,12,86,Responds to voice,219,37.0,Glucose,70,159,94,,Yes,Preparation can wait,Needs Review,2025-09-11T13:46:00+0000
+2025-07-27T13:59:00+0000,1,4,12,65,Male,Motor vehicle collision,87,121,55,12,97,Confused,225,40.3,Pain medication,116,105,86,Responds to pain,No prior information,Prepare now,Queued,2025-08-23T19:33:00+0000
+2025-08-17T09:44:00+0000,1,7,23,81,Male,Chest discomfort,69,125,77,17,88,Responds to voice,50,38.5,Aspirin,96,145,86,Alert,No,Preparation can wait,Queued,2025-09-16T00:35:00+0000
+2025-04-24T03:47:00+0000,2,10,20,74,Male,Stroke symptoms,74,87,51,13,91,Unresponsive,61,37.5,Aspirin,58,108,98,Alert,No,Cannot assess,Queued,2025-07-02T12:47:00+0000
+2025-12-09T16:05:00+0000,2,8,16,63,Male,Chest discomfort,109,148,51,23,87,Confused,184,37.9,IV fluids,88,165,92,Responds to pain,Yes,Cannot assess,Needs Review,2025-09-10T02:03:00+0000
+2025-07-20T10:17:00+0000,2,0,32,69,Female,Stroke symptoms,96,111,103,33,86,Confused,230,36.5,Albuterol,98,154,96,Confused,Yes,Prepare now,Needs Review,2025-02-01T13:54:00+0000
+2025-10-21T22:48:00+0000,2,11,39,46,,Low blood sugar,122,125,64,12,99,Unresponsive,228,39.9,Aspirin,96,65,86,Confused,Yes,Prepare now,Needs Review,2025-11-12T22:42:00+0000
+2025-07-08T13:20:00+0000,2,3,10,43,Female,Shortness of breath,96,190,100,,94,Alert,149,38.4,Nitroglycerin,91,67,100,Alert,No,Routine awareness,Queued,2025-05-22T05:56:00+0000
+2025-02-15T19:57:00+0000,2,11,45,70,Female,Abdominal pain,131,76,109,,86,Responds to pain,176,37.3,Oxygen,62,88,92,Confused,No,Cannot assess,Queued,2025-02-27T20:34:00+0000
+2025-07-21T19:31:00+0000,1,11,22,24,,Low blood sugar,87,182,103,25,100,Responds to voice,28,39.4,Nitroglycerin,82,105,99,Responds to pain,No prior information,Preparation can wait,Needs Review,2025-08-26T18:44:00+0000
+2025-12-20T21:52:00+0000,2,9,17,51,,Abdominal pain,63,128,120,25,97,Confused,73,39.7,Aspirin,88,117,89,,Yes,Cannot assess,Queued,2026-01-16T01:42:00+0000
+2025-03-12T02:42:00+0000,2,0,20,66,Female,Stroke symptoms,67,113,54,25,87,Confused,167,36.7,Oxygen,73,155,92,Confused,No,Routine awareness,Queued,2025-04-17T17:15:00+0000
+2025-08-28T08:09:00+0000,1,5,25,80,,Stroke symptoms,101,154,83,27,92,Responds to voice,234,39.0,Albuterol,120,85,90,,Yes,Routine awareness,Needs Review,2025-09-02T16:00:00+0000
+2025-07-31T11:47:00+0000,2,5,5,99,,Weakness with fever,90,67,99,27,87,Unresponsive,192,36.5,Pain medication,92,175,99,Alert,Uncertain,Prepare now,Needs Review,2025-08-05T06:12:00+0000
+2025-08-14T01:50:00+0000,2,10,20,46,,Motor vehicle collision,76,95,89,15,80,Alert,118,38.4,,116,179,93,Alert,No,Prepare now,Queued,2025-08-30T22:56:00+0000
+2025-09-04T12:09:00+0000,1,5,18,27,,Motor vehicle collision,64,196,99,22,,Alert,31,39.9,Aspirin,98,190,82,Alert,Yes,Preparation can wait,Queued,2025-10-01T02:06:00+0000
+2025-05-28T08:09:00+0000,1,4,22,54,Male,Allergic reaction,101,163,62,18,87,Alert,,35.9,Diphenhydramine,97,170,98,Unresponsive,Yes,Routine awareness,Queued,2025-06-11T09:17:00+0000
+2025-04-09T21:06:00+0000,1,9,12,33,,Stroke symptoms,110,118,60,11,80,Unresponsive,67,39.2,Glucose,98,162,98,Confused,Yes,Prepare now,Queued,2025-05-03T01:10:00+0000
+2025-06-06T06:28:00+0000,1,3,33,57,Male,Motor vehicle collision,138,141,112,17,87,Responds to pain,139,39.6,Oxygen,59,184,97,Alert,Yes,Preparation can wait,Queued,2025-05-31T03:55:00+0000
+2025-05-18T20:02:00+0000,1,14,28,98,,Chest discomfort,134,118,81,18,100,Responds to pain,96,38.7,Albuterol,132,94,82,Responds to pain,Uncertain,Cannot assess,Queued,2025-06-16T21:29:00+0000
+2025-06-06T13:39:00+0000,1,3,35,37,Female,Allergic reaction,135,90,66,20,85,Responds to pain,65,38.1,Oxygen,118,136,99,Alert,Yes,Routine awareness,Queued,2025-12-24T07:02:00+0000
+2025-10-22T22:55:00+0000,2,6,18,32,Female,Seizure,98,143,74,13,98,Alert,94,36.8,Glucose,118,120,94,Alert,No,Routine awareness,Queued,2025-07-21T08:43:00+0000
+2025-04-12T12:03:00+0000,2,3,27,64,Male,Stroke symptoms,112,152,72,27,93,Responds to pain,61,37.9,Aspirin,104,145,89,Responds to pain,Uncertain,Cannot assess,Needs Review,2025-11-26T07:34:00+0000
+2025-11-10T04:59:00+0000,1,11,21,40,Female,Shortness of breath,77,80,79,18,100,Confused,49,36.3,Midazolam,138,65,90,Unresponsive,No prior information,Cannot assess,Queued,2025-12-15T17:59:00+0000
+2025-06-04T21:23:00+0000,2,6,39,81,,Stroke symptoms,92,150,,29,99,Unresponsive,248,37.8,IV fluids,70,130,88,Responds to pain,No prior information,Prepare now,Queued,2025-06-27T19:49:00+0000
+2025-07-15T06:07:00+0000,2,9,8,24,Male,Seizure,63,79,48,18,100,Responds to pain,55,37.0,Glucose,72,144,98,Alert,No,Preparation can wait,Needs Review,2025-07-22T03:13:00+0000
+2025-07-08T08:04:00+0000,2,12,29,99,Male,Weakness with fever,97,,60,25,88,Alert,75,37.3,Midazolam,62,157,100,Responds to voice,Yes,Routine awareness,Queued,2025-07-28T20:57:00+0000
+2025-03-13T10:54:00+0000,2,10,9,81,Female,Altered mental status,68,156,111,10,79,Alert,254,38.0,Glucose,102,129,95,,Yes,Preparation can wait,Needs Review,2025-09-20T17:55:00+0000
+2025-10-24T04:01:00+0000,1,12,15,36,Female,Shortness of breath,86,158,48,27,85,Unresponsive,59,38.5,Nitroglycerin,96,99,89,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-10-21T18:20:00+0000
+2025-10-17T03:34:00+0000,2,4,8,67,Male,Shortness of breath,74,179,74,30,97,Confused,83,39.7,Nitroglycerin,72,119,90,Confused,Yes,Routine awareness,Queued,2025-11-13T17:23:00+0000
+2025-09-27T17:01:00+0000,1,8,30,30,Female,Fall,103,176,44,21,93,Alert,230,38.0,Nitroglycerin,96,98,99,Alert,Uncertain,Preparation can wait,Queued,2025-10-02T13:24:00+0000
+2025-12-19T21:53:00+0000,2,4,11,19,Female,Chest discomfort,70,173,75,10,94,Alert,110,39.8,Albuterol,110,129,98,Unresponsive,Yes,Preparation can wait,Queued,2026-01-04T21:48:00+0000
+2025-10-11T17:45:00+0000,1,13,24,61,Male,Seizure,88,183,104,12,85,Responds to voice,172,36.8,Nitroglycerin,146,105,86,Responds to voice,Uncertain,Prepare now,Needs Review,2025-11-18T12:54:00+0000
+2025-04-18T08:44:00+0000,2,14,14,60,Male,Allergic reaction,61,112,57,27,85,Unresponsive,112,37.6,Epinephrine,109,128,89,,Yes,Cannot assess,Queued,2025-05-13T23:45:00+0000
+2025-08-01T12:33:00+0000,2,7,26,83,Female,Stroke symptoms,123,131,109,27,92,Responds to voice,159,39.5,Diphenhydramine,60,121,90,Responds to pain,Yes,Preparation can wait,Queued,2025-08-29T14:09:00+0000
+2025-10-18T22:27:00+0000,1,0,20,64,,Allergic reaction,121,196,91,12,92,Confused,187,35.9,Diphenhydramine,70,153,91,Alert,No,Cannot assess,Needs Review,2025-11-09T02:44:00+0000
+2025-04-27T11:21:00+0000,2,14,26,65,Male,Stroke symptoms,115,,87,16,85,Responds to voice,116,39.1,Glucose,103,172,89,Confused,Yes,Prepare now,Needs Review,2026-01-06T03:10:00+0000
+2025-08-15T03:43:00+0000,2,13,18,21,Male,Fall,101,192,58,18,94,Confused,171,37.6,Diphenhydramine,106,111,95,Responds to pain,Yes,Preparation can wait,Queued,2025-09-25T17:47:00+0000
+2025-04-19T08:01:00+0000,2,14,25,64,Male,Chest discomfort,123,156,95,9,80,Confused,204,38.1,Oxygen,111,141,88,Responds to voice,No,Routine awareness,Needs Review,2025-05-15T17:27:00+0000
+2025-10-14T00:41:00+0000,1,6,13,54,Male,Seizure,95,109,109,14,98,Unresponsive,92,37.4,Epinephrine,86,103,96,Alert,No prior information,Preparation can wait,Queued,2025-10-28T07:37:00+0000
+2025-07-26T13:30:00+0000,1,6,37,84,,Altered mental status,77,119,81,27,80,Unresponsive,83,37.8,Diphenhydramine,84,170,100,Confused,No,Routine awareness,Needs Review,2025-08-21T08:56:00+0000
+2025-10-12T07:22:00+0000,2,13,8,83,,Allergic reaction,93,188,66,11,100,Responds to pain,229,37.9,Nitroglycerin,131,146,87,Alert,Yes,Cannot assess,Queued,2025-10-31T05:27:00+0000
+2025-07-15T02:03:00+0000,1,6,19,40,Male,Chest discomfort,80,125,111,13,97,Responds to voice,151,39.1,Oxygen,108,144,88,Responds to pain,Yes,Preparation can wait,Needs Review,2025-07-25T01:31:00+0000
+2025-04-05T05:35:00+0000,2,10,13,58,Male,Altered mental status,96,80,59,12,91,Confused,128,38.1,Midazolam,112,180,,Responds to pain,Yes,Prepare now,Queued,2025-04-14T21:31:00+0000
+2025-07-11T22:47:00+0000,2,7,43,46,Male,Seizure,116,160,99,30,94,Alert,114,36.7,Albuterol,93,93,92,Responds to voice,Yes,Prepare now,Queued,2025-07-27T11:49:00+0000
+2025-04-11T21:21:00+0000,1,9,28,90,,Altered mental status,93,148,95,14,97,Responds to pain,142,35.9,Aspirin,70,65,93,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-09-11T17:37:00+0000
+2025-08-21T01:08:00+0000,2,6,7,90,Female,Seizure,66,108,59,14,99,Alert,131,39.9,Pain medication,82,143,97,Alert,No,Cannot assess,Queued,2025-09-24T08:43:00+0000
+2025-08-09T07:00:00+0000,1,6,39,69,,Shortness of breath,85,137,96,29,94,Responds to voice,133,36.4,Aspirin,94,131,90,Confused,No prior information,Preparation can wait,Queued,2025-08-20T12:48:00+0000
+2025-07-03T04:18:00+0000,1,5,21,78,Female,Weakness with fever,143,124,81,20,90,Confused,61,38.0,IV fluids,88,119,100,Confused,No,Preparation can wait,Queued,2025-07-31T10:32:00+0000
+2025-01-06T02:58:00+0000,1,10,18,33,,Low blood sugar,126,94,120,27,79,Confused,83,38.7,Epinephrine,116,155,97,,No,Prepare now,Needs Review,2025-02-13T10:44:00+0000
+2025-11-25T10:13:00+0000,2,12,18,35,,Altered mental status,80,81,85,,88,Unresponsive,174,38.6,Diphenhydramine,76,99,90,Confused,Yes,Routine awareness,Queued,2025-12-15T13:53:00+0000
+2025-02-19T12:16:00+0000,1,6,41,57,,Chest discomfort,120,82,112,,,Responds to pain,62,36.1,,77,67,91,Confused,No prior information,Routine awareness,Queued,2025-02-15T07:01:00+0000
+2025-02-24T20:54:00+0000,2,7,3,31,Female,Shortness of breath,112,132,63,17,99,Responds to pain,57,38.1,Aspirin,89,103,93,Responds to voice,Yes,Routine awareness,Queued,2025-03-26T11:42:00+0000
+2025-03-18T04:41:00+0000,2,14,17,89,Female,Low blood sugar,62,66,80,20,92,Confused,134,37.6,Oxygen,81,120,98,Confused,Yes,Prepare now,Queued,2025-03-31T15:51:00+0000
+2025-03-13T13:49:00+0000,1,11,43,77,Male,Abdominal pain,100,97,92,9,97,Unresponsive,39,39.0,,108,163,88,Confused,No prior information,Preparation can wait,Queued,2025-03-19T14:17:00+0000
+2025-02-01T03:42:00+0000,1,15,22,94,,Weakness with fever,61,146,68,9,94,Responds to pain,178,37.2,Aspirin,75,190,97,Confused,Yes,Cannot assess,Needs Review,2025-07-27T16:26:00+0000
+2025-10-27T20:57:00+0000,1,5,29,78,,Low blood sugar,,169,59,30,87,Unresponsive,239,37.2,Pain medication,138,182,96,Alert,No,Cannot assess,Needs Review,2025-11-10T21:15:00+0000
+2025-08-08T13:48:00+0000,1,3,4,58,Female,Fall,130,166,122,17,100,Confused,72,39.0,,92,160,82,Confused,Yes,Cannot assess,Queued,2025-09-02T19:03:00+0000
+2025-02-04T10:24:00+0000,1,11,4,66,Male,Allergic reaction,134,125,69,16,94,Alert,185,36.1,Albuterol,106,134,97,Unresponsive,No prior information,Preparation can wait,Queued,2025-03-09T12:47:00+0000
+2025-07-22T20:58:00+0000,1,4,22,78,Male,Low blood sugar,115,104,52,11,94,Alert,175,38.0,Glucose,68,142,100,Responds to pain,Uncertain,Cannot assess,Needs Review,2025-08-15T08:48:00+0000
+2025-11-22T00:07:00+0000,2,8,27,83,Male,Stroke symptoms,83,143,72,10,86,Confused,69,35.9,Diphenhydramine,72,153,96,Confused,No,Cannot assess,Needs Review,2025-07-21T07:43:00+0000
+2025-06-14T05:38:00+0000,1,7,18,68,Male,Motor vehicle collision,104,110,98,23,86,Responds to voice,81,39.2,Oxygen,99,150,94,Responds to voice,No,Cannot assess,Queued,2025-06-26T03:07:00+0000
+2025-05-23T23:41:00+0000,1,13,20,78,,Seizure,73,92,80,27,94,Responds to pain,189,38.7,Midazolam,76,162,96,Responds to pain,No,Cannot assess,Needs Review,2025-06-12T23:29:00+0000
+2025-11-03T12:56:00+0000,2,15,17,67,,Allergic reaction,111,146,93,13,96,Responds to voice,202,36.8,Albuterol,112,96,100,Unresponsive,Uncertain,Prepare now,Queued,2025-12-12T01:11:00+0000
+2025-03-01T08:12:00+0000,1,0,8,69,Female,Seizure,69,113,123,15,79,Alert,65,36.7,Albuterol,86,67,87,Responds to voice,No prior information,Preparation can wait,Queued,2025-03-24T22:02:00+0000
+2025-07-13T05:03:00+0000,2,9,40,46,Female,Altered mental status,116,152,51,17,98,Alert,232,38.7,Diphenhydramine,82,145,96,Alert,No,Prepare now,Queued,2025-02-21T23:45:00+0000
+2025-05-06T14:19:00+0000,1,6,27,19,Female,Chest discomfort,65,153,52,33,98,Unresponsive,81,37.6,Nitroglycerin,131,182,92,Responds to pain,Yes,Preparation can wait,Queued,2025-03-05T09:13:00+0000
+2025-09-08T05:34:00+0000,1,11,27,91,,Motor vehicle collision,73,141,69,,94,Unresponsive,173,37.3,Epinephrine,109,159,,Alert,Yes,Prepare now,Queued,2025-09-24T14:53:00+0000
+2025-11-04T11:49:00+0000,2,12,27,79,,Abdominal pain,114,124,125,24,90,Responds to voice,48,37.2,Nitroglycerin,151,115,89,Alert,No,Preparation can wait,Queued,2025-11-24T13:52:00+0000
+2025-05-30T07:29:00+0000,2,7,43,48,Male,Low blood sugar,126,95,102,13,91,Alert,53,35.9,Aspirin,102,160,100,Unresponsive,Yes,Cannot assess,Queued,2025-06-13T17:02:00+0000
+2025-10-16T03:43:00+0000,1,14,37,61,Male,Allergic reaction,70,142,87,14,97,Responds to pain,159,37.3,Midazolam,91,100,97,Responds to pain,Uncertain,Routine awareness,Queued,2025-10-17T04:24:00+0000
+2025-12-22T20:56:00+0000,1,10,29,70,Male,Seizure,115,117,122,24,93,Confused,159,38.0,Glucose,68,127,97,Alert,Uncertain,Prepare now,Queued,2026-01-14T00:51:00+0000
+2025-03-15T05:24:00+0000,2,15,25,67,Female,Altered mental status,86,88,40,21,93,Unresponsive,198,39.2,Glucose,126,170,97,Confused,No,Prepare now,Queued,2025-01-16T22:52:00+0000
+2025-06-06T00:38:00+0000,1,4,3,83,Female,Altered mental status,73,147,100,18,86,Alert,169,39.8,Nitroglycerin,72,142,97,Unresponsive,Yes,Preparation can wait,Needs Review,2025-06-10T22:31:00+0000
+2025-03-03T00:07:00+0000,1,8,13,75,,Allergic reaction,90,154,82,20,79,Responds to pain,207,38.9,,84,97,92,Unresponsive,No,Cannot assess,Queued,2025-03-23T22:38:00+0000
+2025-04-17T03:27:00+0000,2,6,36,81,,Chest discomfort,73,87,48,14,90,Unresponsive,141,38.0,Oxygen,106,127,91,Responds to pain,Yes,Routine awareness,Needs Review,2025-05-04T12:57:00+0000
+2025-09-15T11:09:00+0000,1,7,16,83,Male,Allergic reaction,126,161,40,23,86,Alert,209,36.9,Albuterol,120,142,96,,No prior information,Prepare now,Queued,2025-09-30T00:17:00+0000
+2025-09-02T00:58:00+0000,2,6,21,75,Female,Low blood sugar,93,71,73,30,96,Responds to pain,181,36.6,Midazolam,101,191,82,Alert,Yes,Routine awareness,Queued,2025-10-22T05:52:00+0000
+2025-09-06T23:13:00+0000,1,3,8,25,Female,Seizure,92,184,76,20,99,Confused,145,40.3,,58,113,,Unresponsive,Uncertain,Preparation can wait,Queued,2025-09-13T21:23:00+0000
+2025-12-26T09:21:00+0000,1,14,39,57,,Allergic reaction,93,141,48,14,86,Confused,91,37.4,Pain medication,106,175,91,,No prior information,Cannot assess,Queued,2026-01-13T08:43:00+0000
+2025-12-30T02:05:00+0000,1,10,22,43,Male,Altered mental status,72,187,51,11,91,Responds to voice,232,39.7,IV fluids,138,171,97,Responds to voice,No prior information,Cannot assess,Needs Review,2026-01-08T09:08:00+0000
+2025-09-30T13:57:00+0000,1,7,39,65,Female,Altered mental status,70,172,72,12,88,Confused,31,38.9,Epinephrine,94,129,98,Unresponsive,Uncertain,Prepare now,Queued,2025-10-19T23:38:00+0000
+2025-11-28T21:29:00+0000,1,13,23,51,Female,Seizure,112,196,98,14,85,Unresponsive,186,38.8,Glucose,94,114,87,Responds to voice,No,Routine awareness,Needs Review,2025-12-31T23:04:00+0000
+2025-08-08T06:21:00+0000,2,12,14,89,Male,Stroke symptoms,106,153,99,23,93,Unresponsive,37,38.1,Albuterol,115,67,82,Unresponsive,Yes,Prepare now,Queued,2025-08-21T07:46:00+0000
+2025-05-08T06:01:00+0000,2,7,6,74,Female,Low blood sugar,106,95,66,18,87,Confused,202,39.4,,117,145,95,Responds to voice,Yes,Routine awareness,Queued,2025-06-11T13:00:00+0000
+2025-04-03T23:40:00+0000,2,9,19,55,,Stroke symptoms,112,184,124,22,94,Unresponsive,74,37.3,IV fluids,75,187,88,Confused,Yes,Preparation can wait,Queued,2025-04-11T19:03:00+0000
+2025-12-29T00:58:00+0000,2,7,20,35,Female,Stroke symptoms,71,88,122,19,97,Confused,101,39.3,Diphenhydramine,82,174,88,Confused,Uncertain,Cannot assess,Needs Review,2025-01-10T09:49:00+0000
+2025-12-29T01:22:00+0000,2,7,4,76,Male,Shortness of breath,92,130,79,21,96,Responds to pain,22,36.7,Aspirin,112,97,91,Alert,No,Routine awareness,Queued,2026-01-14T13:03:00+0000
+2025-03-31T22:39:00+0000,1,12,14,35,,Chest discomfort,116,124,124,14,80,Responds to pain,252,37.9,Nitroglycerin,103,84,92,Responds to voice,No prior information,Prepare now,Queued,2025-04-17T20:53:00+0000
+2025-09-28T20:23:00+0000,1,11,17,32,Female,Allergic reaction,,197,101,29,89,Confused,145,38.9,Nitroglycerin,131,136,91,Responds to pain,Uncertain,Preparation can wait,Needs Review,2025-11-06T23:13:00+0000
+2025-07-19T18:55:00+0000,2,4,30,59,Male,Allergic reaction,85,198,86,33,99,Confused,25,37.8,Diphenhydramine,59,105,91,Confused,Yes,Preparation can wait,Queued,2025-08-14T03:47:00+0000
+2025-12-08T06:53:00+0000,1,3,21,83,Male,Stroke symptoms,67,141,40,13,86,Confused,55,40.3,Albuterol,102,94,87,Responds to voice,Yes,Routine awareness,Needs Review,2025-08-26T22:50:00+0000
+2025-11-03T12:29:00+0000,1,11,11,65,,Altered mental status,80,126,95,19,98,Responds to voice,231,37.4,Epinephrine,110,129,82,Responds to pain,No prior information,Routine awareness,Queued,2025-11-26T13:02:00+0000
+2025-09-10T20:31:00+0000,2,4,31,94,Male,Seizure,83,135,58,12,,Responds to pain,165,39.2,,62,68,96,Alert,No,Routine awareness,Queued,2025-05-18T09:11:00+0000
+2025-04-18T00:04:00+0000,1,0,19,89,Female,Seizure,68,144,88,26,90,Alert,109,35.9,,78,191,98,Alert,No prior information,Preparation can wait,Queued,2025-07-07T23:08:00+0000
+2025-01-07T05:09:00+0000,1,10,18,81,Female,Low blood sugar,65,182,113,27,90,Responds to voice,188,36.9,Albuterol,78,99,92,Responds to pain,No prior information,Preparation can wait,Queued,2025-01-17T04:43:00+0000
+2025-07-30T17:13:00+0000,1,7,9,88,,Abdominal pain,99,130,103,17,99,Unresponsive,29,39.4,Nitroglycerin,88,112,99,,No prior information,Cannot assess,Needs Review,2025-09-06T07:30:00+0000
+2025-12-16T22:45:00+0000,2,6,6,55,Female,Motor vehicle collision,108,124,62,15,95,Alert,123,,Glucose,87,127,99,Unresponsive,Yes,Routine awareness,Queued,2025-04-13T14:42:00+0000
+2025-11-03T04:49:00+0000,2,0,25,41,,Shortness of breath,109,91,60,9,85,Responds to voice,173,39.9,,65,85,,Unresponsive,No prior information,Routine awareness,Queued,2025-11-12T19:27:00+0000
+2025-10-06T08:42:00+0000,2,9,5,92,Female,Allergic reaction,91,156,81,9,90,Responds to pain,250,39.4,Midazolam,96,123,97,Responds to voice,Uncertain,Prepare now,Queued,2025-11-04T18:11:00+0000
+2025-06-22T02:45:00+0000,1,7,35,71,Male,Allergic reaction,85,106,54,15,79,Unresponsive,143,39.3,Oxygen,95,124,89,Confused,Yes,Prepare now,Queued,2025-12-09T19:35:00+0000
+2025-09-04T06:47:00+0000,1,6,18,44,Female,Motor vehicle collision,134,116,110,33,93,Responds to voice,139,36.7,,132,190,99,Responds to pain,Yes,Cannot assess,Queued,2025-10-08T11:51:00+0000
+2025-02-24T16:00:00+0000,2,13,27,85,Male,Weakness with fever,123,158,,26,92,Confused,130,35.9,Oxygen,71,171,91,Confused,Yes,Routine awareness,Needs Review,2025-03-20T23:45:00+0000
+2025-07-17T13:44:00+0000,1,9,38,62,,Shortness of breath,111,94,83,29,95,Responds to voice,185,37.6,Epinephrine,108,101,90,Responds to voice,Uncertain,Cannot assess,Needs Review,2025-08-03T03:14:00+0000
+2025-04-07T23:09:00+0000,1,5,23,67,,Weakness with fever,123,,77,25,99,Unresponsive,163,38.8,Diphenhydramine,115,159,100,Unresponsive,No,Routine awareness,Queued,2025-08-11T02:40:00+0000
+2025-09-27T20:01:00+0000,2,7,5,81,Male,Motor vehicle collision,90,189,122,33,85,Responds to voice,162,39.2,Midazolam,109,109,93,Responds to pain,Yes,Cannot assess,Needs Review,2025-10-21T00:11:00+0000
+2025-03-20T17:06:00+0000,1,8,18,62,,Altered mental status,115,75,116,22,86,Responds to pain,123,38.6,Epinephrine,115,150,92,Unresponsive,No,Cannot assess,Needs Review,2025-07-18T15:59:00+0000
+2025-04-25T17:11:00+0000,2,15,20,82,Female,Shortness of breath,,153,44,21,86,Alert,48,39.4,Oxygen,94,98,98,Alert,No,Routine awareness,Queued,2025-05-10T01:40:00+0000
+2025-03-01T04:51:00+0000,1,4,43,51,Female,Weakness with fever,,150,,11,92,Responds to voice,193,38.1,,102,164,88,Responds to pain,No prior information,Cannot assess,Needs Review,2025-03-28T16:38:00+0000
+2025-04-03T04:42:00+0000,2,8,21,30,Male,Seizure,100,70,45,18,88,Confused,197,37.3,Nitroglycerin,106,102,94,Unresponsive,Yes,Prepare now,Queued,2025-05-10T16:41:00+0000
+2025-05-10T16:48:00+0000,2,14,29,39,Female,Shortness of breath,89,119,87,29,96,Responds to voice,175,36.1,Nitroglycerin,84,111,86,Unresponsive,Uncertain,Routine awareness,Queued,2025-02-12T21:00:00+0000
+2025-09-15T22:13:00+0000,2,3,21,59,Female,Abdominal pain,87,184,57,25,98,Responds to pain,79,39.7,Pain medication,123,132,94,Responds to pain,Uncertain,Cannot assess,Needs Review,2025-10-09T01:16:00+0000
+2025-03-26T02:50:00+0000,1,6,36,60,Male,Altered mental status,120,127,49,22,85,Responds to pain,188,38.4,Midazolam,79,180,98,,Yes,Preparation can wait,Needs Review,2025-04-02T02:19:00+0000
+2025-09-11T04:09:00+0000,1,3,19,63,Female,Low blood sugar,95,198,83,18,95,Confused,45,37.3,Aspirin,,153,91,Confused,Yes,Cannot assess,Queued,2025-09-19T20:39:00+0000
+2025-08-28T14:53:00+0000,1,15,7,64,,Abdominal pain,80,128,92,12,99,Confused,151,38.8,Nitroglycerin,115,167,82,Alert,Yes,Cannot assess,Queued,2025-12-10T23:57:00+0000
+2025-12-30T05:05:00+0000,1,3,24,41,Male,Low blood sugar,110,130,69,12,89,Confused,182,39.1,Midazolam,84,137,87,Confused,Yes,Preparation can wait,Queued,2025-02-15T23:20:00+0000
+2025-08-15T17:18:00+0000,1,14,22,24,Male,Weakness with fever,94,155,,19,98,Unresponsive,37,39.6,Pain medication,112,140,91,Confused,No,Preparation can wait,Queued,2025-09-16T03:57:00+0000
+2025-07-28T23:40:00+0000,2,0,18,38,Female,Seizure,71,66,75,14,95,Responds to voice,241,37.3,Oxygen,131,93,97,Confused,Yes,Preparation can wait,Queued,2025-09-04T04:24:00+0000
+2025-08-05T15:45:00+0000,1,15,39,99,Female,Fall,,115,60,25,100,Alert,235,37.2,Diphenhydramine,107,131,95,Responds to pain,No,Preparation can wait,Queued,2025-09-07T03:00:00+0000
+2025-06-28T05:41:00+0000,1,14,6,80,Male,Allergic reaction,69,140,124,12,98,Confused,243,36.6,,108,181,92,Unresponsive,No prior information,Preparation can wait,Queued,2025-01-28T15:21:00+0000
+2025-09-13T00:23:00+0000,2,10,18,52,Male,Seizure,108,124,79,15,79,Alert,240,39.0,,114,126,98,Confused,No prior information,Routine awareness,Queued,2025-07-20T19:13:00+0000
+2025-12-19T07:05:00+0000,1,4,37,29,Male,Allergic reaction,68,88,93,11,80,Responds to pain,124,39.9,Aspirin,71,146,87,Responds to voice,No,Preparation can wait,Queued,2026-01-08T01:14:00+0000
+2025-07-23T06:26:00+0000,1,13,19,33,Female,Allergic reaction,58,137,97,29,90,Alert,100,37.6,Nitroglycerin,58,80,95,,No,Preparation can wait,Queued,2025-08-22T22:13:00+0000
+2025-11-20T05:33:00+0000,2,8,5,28,Male,Abdominal pain,107,141,89,16,87,Responds to pain,219,37.5,Glucose,109,89,88,Responds to pain,Yes,Routine awareness,Queued,2025-12-23T03:44:00+0000
+2025-01-29T00:52:00+0000,1,4,4,30,Female,Seizure,78,126,92,11,95,Responds to pain,41,39.9,IV fluids,97,163,97,Responds to pain,No prior information,Routine awareness,Queued,2026-01-05T07:38:00+0000
+2025-01-20T09:46:00+0000,1,12,11,49,Male,Abdominal pain,122,181,59,16,87,Responds to pain,198,37.8,Aspirin,72,190,95,,No,Preparation can wait,Needs Review,2025-05-17T01:49:00+0000
+2025-02-09T06:46:00+0000,2,0,31,68,Female,Seizure,95,125,108,16,88,Responds to voice,169,39.5,Midazolam,100,166,94,Confused,No,Cannot assess,Queued,2025-11-29T12:52:00+0000
+2025-04-23T20:25:00+0000,1,0,26,51,Male,Allergic reaction,113,168,106,13,86,Alert,252,38.0,Albuterol,80,153,92,Responds to voice,No prior information,Preparation can wait,Queued,2025-05-19T23:15:00+0000
+2025-08-22T03:02:00+0000,2,4,14,99,,Abdominal pain,68,165,75,23,96,Alert,114,37.4,Nitroglycerin,113,157,86,Alert,Uncertain,Prepare now,Queued,2025-08-25T23:55:00+0000
+2025-05-22T19:37:00+0000,1,8,18,,Male,Stroke symptoms,88,168,108,26,100,Unresponsive,226,38.6,Midazolam,91,122,94,Unresponsive,No,Prepare now,Queued,2025-06-24T00:50:00+0000
+2025-10-10T00:24:00+0000,2,3,30,51,,Shortness of breath,77,102,109,25,,Alert,105,39.1,IV fluids,79,144,,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-10-28T01:36:00+0000
+2025-05-17T18:26:00+0000,2,14,18,52,Male,Weakness with fever,97,100,104,22,,Responds to voice,164,37.1,Nitroglycerin,76,113,96,Alert,No,Cannot assess,Needs Review,2025-06-04T05:37:00+0000
+2025-03-13T06:19:00+0000,2,15,10,53,,Allergic reaction,126,164,48,16,95,Alert,178,38.7,Glucose,117,105,91,,Yes,Preparation can wait,Needs Review,2025-08-16T22:37:00+0000
+2025-05-07T23:45:00+0000,2,5,22,50,,Low blood sugar,101,107,60,13,87,Responds to voice,146,40.3,Nitroglycerin,,65,97,Responds to pain,Yes,Routine awareness,Queued,2025-09-19T18:40:00+0000
+2025-01-10T03:09:00+0000,1,5,13,75,,Abdominal pain,108,67,67,23,92,Alert,224,39.2,Nitroglycerin,74,118,96,,Yes,Cannot assess,Queued,2025-02-20T03:49:00+0000
+2025-05-23T04:02:00+0000,1,5,30,18,Female,Weakness with fever,130,125,113,18,,Unresponsive,232,40.0,Diphenhydramine,106,146,92,,Yes,Prepare now,Queued,2025-09-17T13:38:00+0000
+2025-10-16T03:05:00+0000,2,11,7,98,Female,Allergic reaction,57,182,71,27,88,Responds to voice,146,36.5,Midazolam,106,102,100,,No prior information,Routine awareness,Queued,2025-11-12T02:36:00+0000
+2025-07-25T21:59:00+0000,1,9,36,31,Male,Shortness of breath,120,161,80,10,80,Unresponsive,234,39.3,Pain medication,87,175,93,Responds to voice,Uncertain,Cannot assess,Needs Review,2025-08-13T05:36:00+0000
+2025-03-15T02:34:00+0000,2,0,39,69,Female,Allergic reaction,103,69,88,,93,Responds to pain,63,38.3,Oxygen,151,124,92,Unresponsive,No prior information,Routine awareness,Queued,2025-03-31T10:20:00+0000
+2025-04-30T05:30:00+0000,1,12,30,79,,Chest discomfort,64,84,53,12,100,Confused,113,39.8,,128,82,,Alert,No,Cannot assess,Queued,2025-06-04T17:04:00+0000
+2025-05-21T12:36:00+0000,1,9,6,75,,Weakness with fever,86,75,65,22,95,Responds to voice,249,39.1,Diphenhydramine,111,123,91,Responds to voice,No,Cannot assess,Needs Review,2025-06-15T08:21:00+0000
+2025-02-09T05:02:00+0000,2,11,12,25,,Chest discomfort,143,99,112,15,79,Unresponsive,106,37.4,Oxygen,129,132,91,,No prior information,Preparation can wait,Needs Review,2025-02-20T07:01:00+0000
+2025-07-21T22:41:00+0000,2,13,31,,Male,Low blood sugar,81,116,52,23,79,Confused,185,37.5,Epinephrine,104,175,,,Uncertain,Prepare now,Needs Review,2025-11-10T10:42:00+0000
+2025-01-17T10:08:00+0000,2,12,35,53,Female,Stroke symptoms,75,184,110,15,89,Alert,26,37.6,Pain medication,73,140,97,Responds to voice,No,Routine awareness,Needs Review,2025-01-31T08:28:00+0000
+2025-12-12T04:21:00+0000,1,6,19,56,Male,Fall,139,143,48,9,90,Confused,122,36.3,Pain medication,108,169,87,Confused,No,Preparation can wait,Queued,2025-02-27T17:45:00+0000
+2025-10-31T07:30:00+0000,2,4,12,79,Female,Allergic reaction,86,138,65,26,91,Unresponsive,237,40.3,Oxygen,113,152,96,Alert,Yes,Routine awareness,Queued,2025-11-05T03:29:00+0000
+2025-01-24T02:44:00+0000,2,15,14,81,,Low blood sugar,90,196,91,12,89,Unresponsive,177,37.6,,79,139,93,Alert,Uncertain,Prepare now,Queued,2025-01-25T19:09:00+0000
+2025-03-09T22:48:00+0000,1,4,36,72,Male,Weakness with fever,110,140,101,13,89,Unresponsive,34,36.6,Aspirin,115,109,100,Responds to pain,No,Preparation can wait,Needs Review,2025-03-18T03:09:00+0000
+2025-01-11T03:26:00+0000,2,15,18,73,,Altered mental status,121,180,85,14,94,Responds to voice,104,38.0,Oxygen,100,161,,,Yes,Preparation can wait,Queued,2026-01-01T14:02:00+0000
+2025-11-08T00:56:00+0000,1,7,5,19,,Seizure,62,135,111,20,97,Alert,224,37.6,IV fluids,128,147,96,,No,Prepare now,Queued,2025-11-30T02:16:00+0000
+2025-12-17T17:40:00+0000,2,9,10,,Female,Motor vehicle collision,135,94,89,20,100,Unresponsive,181,40.3,Pain medication,132,105,89,Alert,No,Cannot assess,Queued,2026-01-03T16:24:00+0000
+2025-12-11T14:56:00+0000,1,10,36,74,Female,Low blood sugar,77,131,48,14,91,Responds to voice,36,37.0,Diphenhydramine,138,191,88,Responds to voice,No,Routine awareness,Queued,2026-01-01T09:56:00+0000
+2025-01-07T06:33:00+0000,1,6,20,54,Female,Allergic reaction,80,160,105,20,96,Alert,53,39.2,Albuterol,100,191,98,Confused,No prior information,Preparation can wait,Queued,2025-07-07T03:01:00+0000
+2025-10-02T23:01:00+0000,2,14,30,61,Female,Altered mental status,75,137,44,18,86,Alert,95,37.6,Oxygen,98,112,99,Alert,Yes,Preparation can wait,Queued,2025-10-15T13:54:00+0000
+2025-10-24T15:49:00+0000,2,10,39,63,Male,Stroke symptoms,116,151,110,14,97,Unresponsive,84,35.9,Diphenhydramine,108,159,88,Responds to voice,Yes,Cannot assess,Needs Review,2025-08-18T07:01:00+0000
+2025-05-31T14:04:00+0000,1,14,4,68,Male,Allergic reaction,61,127,120,29,96,Unresponsive,61,38.1,Nitroglycerin,93,191,93,Alert,Uncertain,Cannot assess,Queued,2025-06-11T13:58:00+0000
+2025-05-22T18:05:00+0000,2,7,3,58,,Fall,100,158,93,33,96,Alert,178,36.7,Epinephrine,114,155,87,Responds to voice,Yes,Routine awareness,Queued,2025-06-19T13:24:00+0000
+2025-10-16T11:18:00+0000,2,0,14,38,,Seizure,86,107,79,14,92,Responds to voice,102,38.0,Nitroglycerin,88,160,95,Alert,No,Cannot assess,Queued,2026-01-09T20:46:00+0000
+2025-02-06T15:09:00+0000,2,14,37,54,Female,Weakness with fever,143,110,65,28,96,Unresponsive,247,38.4,Glucose,95,166,87,Alert,No,Prepare now,Queued,2026-01-31T02:35:00+0000
+2025-02-09T00:55:00+0000,2,11,20,58,Male,Motor vehicle collision,77,155,118,15,79,Alert,233,37.2,IV fluids,91,142,94,Confused,No,Cannot assess,Queued,2025-02-19T09:41:00+0000
+2025-07-15T09:58:00+0000,1,14,26,21,,Stroke symptoms,93,98,48,25,,Unresponsive,129,36.7,Oxygen,60,142,82,Responds to voice,Yes,Routine awareness,Queued,2025-07-02T04:56:00+0000
+2025-08-19T16:17:00+0000,2,9,33,54,Female,Chest discomfort,80,83,68,29,97,Responds to pain,249,36.1,IV fluids,94,94,94,Alert,No,Preparation can wait,Queued,2025-09-08T10:50:00+0000
+2025-01-07T00:00:00+0000,2,9,19,49,Male,Shortness of breath,120,103,119,,98,Alert,152,38.0,Pain medication,72,99,87,Alert,No,Routine awareness,Queued,2025-02-13T17:47:00+0000
+2025-08-13T19:25:00+0000,2,3,22,90,,Chest discomfort,91,149,71,11,87,Responds to voice,146,38.8,Midazolam,111,126,97,,No,Cannot assess,Needs Review,2025-08-21T00:35:00+0000
+2025-11-18T22:05:00+0000,2,14,9,42,Female,Chest discomfort,67,136,120,25,88,Responds to voice,155,38.6,Midazolam,118,105,97,Responds to pain,No prior information,Prepare now,Queued,2025-12-13T14:41:00+0000
+2025-09-09T19:09:00+0000,2,11,8,34,,Chest discomfort,101,185,89,30,96,Responds to pain,90,36.8,,99,113,99,Responds to pain,No prior information,Cannot assess,Needs Review,2025-10-17T04:05:00+0000
+2025-08-24T13:38:00+0000,1,12,28,35,,Fall,87,171,75,10,79,Alert,185,39.5,Midazolam,65,133,91,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-09-23T00:39:00+0000
+2025-01-11T10:06:00+0000,2,5,8,62,Male,Altered mental status,106,110,53,15,91,Unresponsive,147,40.3,Diphenhydramine,77,134,91,Responds to pain,Yes,Prepare now,Queued,2025-01-16T23:20:00+0000
+2025-02-01T13:45:00+0000,1,0,27,65,Female,Motor vehicle collision,121,116,52,,99,Unresponsive,43,37.6,Diphenhydramine,95,103,88,Responds to voice,No prior information,Routine awareness,Queued,2025-11-30T11:35:00+0000
+2025-04-20T00:36:00+0000,2,13,36,69,Male,Fall,67,168,108,11,91,Alert,151,38.3,Midazolam,96,180,92,Alert,No,Routine awareness,Queued,2025-05-04T05:03:00+0000
+2025-03-25T02:55:00+0000,1,4,22,19,Female,Abdominal pain,118,70,118,19,87,Responds to voice,35,38.7,Aspirin,,171,97,Responds to voice,No,Preparation can wait,Needs Review,2025-04-09T19:02:00+0000
+2025-05-27T03:42:00+0000,2,11,45,42,Male,Abdominal pain,93,141,71,23,88,Responds to pain,182,39.4,Aspirin,75,153,86,,No prior information,Routine awareness,Needs Review,2025-12-21T09:33:00+0000
+2025-02-05T17:43:00+0000,2,8,39,66,Female,Motor vehicle collision,94,199,123,25,94,Confused,151,38.5,IV fluids,65,120,88,Unresponsive,Yes,Routine awareness,Queued,2025-03-08T07:44:00+0000
+2025-11-29T16:51:00+0000,1,15,41,,Female,Fall,91,101,52,18,91,Responds to voice,233,37.3,Aspirin,118,163,86,Unresponsive,No,Routine awareness,Queued,2026-01-01T12:15:00+0000
+2025-12-20T17:11:00+0000,2,13,5,54,Female,Abdominal pain,78,79,44,26,79,Unresponsive,177,37.5,Pain medication,79,,89,Unresponsive,Yes,Cannot assess,Needs Review,2025-03-31T09:27:00+0000
+2025-12-11T00:30:00+0000,2,5,31,74,,Motor vehicle collision,91,76,69,12,91,Confused,229,,Albuterol,77,112,100,Responds to pain,No,Preparation can wait,Queued,2026-01-03T04:40:00+0000
+2025-01-24T05:53:00+0000,2,3,15,80,Male,Low blood sugar,77,138,103,9,89,Unresponsive,33,38.7,IV fluids,98,182,93,Alert,Uncertain,Prepare now,Queued,2025-02-01T00:52:00+0000
+2025-12-26T21:00:00+0000,1,15,16,53,Female,Shortness of breath,135,193,64,,80,Responds to voice,76,38.0,Glucose,105,146,93,Unresponsive,No,Routine awareness,Needs Review,2025-12-23T17:35:00+0000
+2025-03-15T20:05:00+0000,1,3,41,74,,Seizure,94,107,44,16,86,Confused,186,39.0,Epinephrine,116,126,92,Responds to voice,Yes,Prepare now,Needs Review,2025-04-20T11:59:00+0000
+2025-02-22T02:31:00+0000,2,11,22,46,Female,Seizure,95,95,83,10,88,Responds to voice,81,38.9,,88,160,95,Responds to voice,Yes,Routine awareness,Queued,2025-12-21T18:03:00+0000
+2025-06-17T21:07:00+0000,2,7,16,79,,Allergic reaction,120,160,85,33,93,Confused,112,39.4,Pain medication,81,155,95,Unresponsive,Yes,Prepare now,Queued,2025-07-01T19:34:00+0000
+2025-07-23T07:03:00+0000,1,4,41,28,,Allergic reaction,138,77,109,26,79,Responds to pain,214,37.1,,132,121,88,Responds to voice,No,Prepare now,Needs Review,2025-08-13T04:51:00+0000
+2025-04-24T15:42:00+0000,1,4,17,90,Female,Stroke symptoms,89,164,107,22,96,Unresponsive,62,39.8,IV fluids,116,127,87,,No prior information,Prepare now,Queued,2025-04-05T06:17:00+0000
+2025-07-05T21:54:00+0000,2,4,4,53,,Fall,93,99,69,12,97,Responds to pain,122,37.1,Glucose,75,132,,Responds to pain,Yes,Preparation can wait,Queued,2025-07-20T15:10:00+0000
+2025-04-27T18:37:00+0000,2,15,40,65,Male,Chest discomfort,57,97,70,28,85,Confused,255,37.3,Aspirin,95,153,88,Unresponsive,Uncertain,Routine awareness,Queued,2025-05-03T23:28:00+0000
+2025-04-17T08:11:00+0000,2,15,31,43,,Abdominal pain,80,149,107,,95,Confused,232,36.5,Diphenhydramine,132,65,90,Responds to pain,Uncertain,Preparation can wait,Queued,2025-05-22T21:29:00+0000
+2025-05-19T21:00:00+0000,2,4,20,89,,Motor vehicle collision,102,78,106,20,93,Alert,72,39.6,IV fluids,101,148,94,Unresponsive,Yes,Preparation can wait,Queued,2025-09-19T07:39:00+0000
+2025-01-23T02:20:00+0000,2,13,28,90,Male,Weakness with fever,105,106,78,10,88,Responds to voice,184,36.7,Midazolam,96,175,99,,Uncertain,Routine awareness,Needs Review,2025-02-05T01:53:00+0000
+2025-10-11T06:26:00+0000,2,5,36,38,Male,Fall,79,84,108,13,88,Responds to pain,249,38.5,Aspirin,82,174,86,Unresponsive,Uncertain,Prepare now,Queued,2025-11-12T11:02:00+0000
+2025-12-23T17:32:00+0000,2,8,33,24,Female,Seizure,103,71,90,20,94,Responds to pain,40,37.1,Oxygen,68,176,99,Confused,No,Routine awareness,Queued,2025-04-13T08:38:00+0000
+2025-08-25T13:38:00+0000,1,0,16,70,Male,Stroke symptoms,130,186,110,27,100,Confused,34,39.5,Nitroglycerin,109,141,97,Responds to pain,Yes,Prepare now,Needs Review,2025-09-09T18:35:00+0000
+2025-09-03T14:36:00+0000,1,11,24,24,Male,Fall,74,182,113,17,92,Responds to voice,166,39.5,Glucose,101,93,98,Unresponsive,No prior information,Cannot assess,Needs Review,2025-10-02T06:37:00+0000
+2025-08-26T06:43:00+0000,1,6,40,27,Female,Seizure,106,157,99,13,86,Unresponsive,56,36.7,Albuterol,120,133,92,Confused,No,Routine awareness,Queued,2025-09-10T06:30:00+0000
+2025-09-04T17:47:00+0000,2,0,30,60,,Altered mental status,112,166,80,13,,Responds to pain,193,39.2,Pain medication,91,163,99,Alert,Uncertain,Cannot assess,Needs Review,2025-03-30T02:11:00+0000
+2025-01-30T23:35:00+0000,1,8,31,36,Male,Low blood sugar,113,184,114,9,86,Confused,200,37.9,Albuterol,108,90,87,Unresponsive,No,Routine awareness,Queued,2025-02-16T23:53:00+0000
+2025-12-04T13:24:00+0000,2,4,40,48,Male,Low blood sugar,134,166,97,26,100,Alert,74,39.3,IV fluids,96,170,94,Responds to voice,Yes,Routine awareness,Queued,2025-04-11T17:55:00+0000
+2025-02-11T14:57:00+0000,1,0,37,54,Female,Weakness with fever,107,76,80,20,94,Responds to pain,135,40.0,IV fluids,115,166,92,Alert,Yes,Cannot assess,Queued,2025-03-25T23:54:00+0000
+2025-07-13T10:39:00+0000,1,4,38,97,Female,Low blood sugar,95,180,103,33,99,Alert,217,36.7,Oxygen,75,125,86,Responds to pain,No,Cannot assess,Queued,2025-08-18T08:33:00+0000
+2025-01-08T08:08:00+0000,1,13,9,20,Female,Abdominal pain,58,144,78,27,96,Unresponsive,124,37.6,Midazolam,93,139,100,Unresponsive,Uncertain,Routine awareness,Queued,2025-11-24T08:20:00+0000
+2025-02-22T21:50:00+0000,1,10,19,,Male,Altered mental status,68,85,120,21,99,Responds to voice,85,37.6,Aspirin,70,159,99,Responds to voice,No prior information,Routine awareness,Queued,2025-01-10T14:37:00+0000
+2025-08-11T14:46:00+0000,2,3,36,50,Male,Chest discomfort,91,192,106,26,86,Alert,49,39.8,Oxygen,91,146,92,Alert,Yes,Prepare now,Needs Review,2025-09-13T12:31:00+0000
+2025-10-10T20:57:00+0000,2,7,27,68,Female,Allergic reaction,91,140,125,27,98,Unresponsive,225,36.1,IV fluids,116,149,100,Confused,Uncertain,Cannot assess,Needs Review,2025-11-07T12:31:00+0000
+2025-08-17T03:33:00+0000,1,15,22,24,Male,Seizure,107,143,114,30,91,Confused,81,39.9,Albuterol,120,181,,,No prior information,Cannot assess,Needs Review,2025-08-22T03:25:00+0000
+2025-06-08T02:12:00+0000,2,10,38,24,Female,Stroke symptoms,57,80,94,17,80,Responds to pain,160,38.7,,122,187,99,Unresponsive,Yes,Routine awareness,Needs Review,2025-10-22T13:54:00+0000
+2025-12-09T06:10:00+0000,1,5,20,94,Male,Fall,79,112,81,15,95,Unresponsive,181,38.6,Pain medication,97,126,100,Alert,Yes,Preparation can wait,Queued,2026-01-01T12:29:00+0000
+2025-08-09T03:05:00+0000,2,13,37,,Female,Allergic reaction,81,69,74,14,,Responds to pain,175,38.5,Midazolam,82,132,99,Responds to voice,No,Preparation can wait,Queued,2025-06-24T07:39:00+0000
+2025-10-10T22:41:00+0000,2,4,21,39,Female,Low blood sugar,117,141,56,27,88,Responds to voice,58,37.3,Glucose,109,118,98,Confused,Yes,Routine awareness,Queued,2025-10-13T13:49:00+0000
+2025-07-30T00:05:00+0000,2,11,22,72,Female,Weakness with fever,93,97,79,26,92,Responds to voice,177,38.9,Glucose,104,139,96,Responds to pain,No prior information,Routine awareness,Queued,2025-12-06T05:55:00+0000
+2025-08-17T20:24:00+0000,2,8,36,91,,Abdominal pain,93,198,111,11,86,Responds to pain,107,37.7,Albuterol,109,143,87,Responds to pain,Yes,Prepare now,Needs Review,2025-08-22T00:29:00+0000
+2025-07-23T07:39:00+0000,2,7,25,78,,Motor vehicle collision,98,162,106,30,88,Responds to pain,95,39.7,Oxygen,59,88,100,Responds to pain,Yes,Preparation can wait,Queued,2025-08-28T04:54:00+0000
+2025-04-08T07:17:00+0000,1,6,41,37,Male,Weakness with fever,97,120,66,30,88,Unresponsive,216,,Glucose,84,176,87,Unresponsive,Yes,Routine awareness,Queued,2025-05-09T00:30:00+0000
+2025-01-21T11:15:00+0000,1,4,3,64,Female,Chest discomfort,122,82,68,12,91,Alert,104,39.5,Glucose,81,96,82,Alert,No,Routine awareness,Queued,2025-02-07T21:56:00+0000
+2025-07-18T05:48:00+0000,2,15,34,95,,Fall,105,78,64,26,98,Unresponsive,177,37.9,Albuterol,67,112,95,Responds to voice,Uncertain,Routine awareness,Queued,2025-08-17T23:46:00+0000
+2025-11-02T21:46:00+0000,2,4,3,75,Female,Shortness of breath,104,,112,27,93,Alert,154,39.3,Oxygen,81,90,86,,No prior information,Preparation can wait,Queued,2025-09-09T12:44:00+0000
+2025-08-23T10:15:00+0000,2,11,37,91,,Fall,72,,57,14,94,Responds to voice,42,39.6,Pain medication,71,164,98,Unresponsive,Uncertain,Preparation can wait,Queued,2025-09-17T21:20:00+0000
+2025-09-01T10:19:00+0000,2,14,39,79,,Low blood sugar,65,190,97,20,96,Responds to pain,111,37.4,IV fluids,100,104,87,Responds to pain,No prior information,Preparation can wait,Queued,2025-09-25T01:20:00+0000
+2025-08-21T18:33:00+0000,2,4,13,69,Female,Abdominal pain,98,79,70,9,91,Alert,220,38.6,IV fluids,83,133,89,Alert,No,Preparation can wait,Queued,2025-10-01T13:18:00+0000
+2025-01-30T11:10:00+0000,2,15,19,98,,Stroke symptoms,61,73,44,18,95,Responds to voice,84,37.2,Oxygen,110,132,87,Alert,Yes,Preparation can wait,Queued,2025-02-01T22:22:00+0000
+2025-05-09T21:32:00+0000,1,7,40,68,Female,Allergic reaction,,173,58,33,89,Responds to voice,90,38.5,Glucose,122,67,88,Responds to pain,No,Preparation can wait,Needs Review,2025-06-08T07:03:00+0000
+2025-03-16T06:33:00+0000,1,0,5,72,Male,Motor vehicle collision,72,67,112,27,80,Confused,128,38.4,Glucose,100,133,91,Responds to pain,No,Preparation can wait,Queued,2025-11-22T06:10:00+0000
+2025-06-30T10:23:00+0000,2,7,41,77,Female,Chest discomfort,88,74,69,10,85,Responds to pain,48,37.4,Oxygen,109,82,91,Responds to voice,Yes,Routine awareness,Needs Review,2025-06-30T21:10:00+0000
+2025-01-07T08:15:00+0000,1,6,21,31,,Shortness of breath,74,111,88,17,91,Responds to voice,187,38.4,Oxygen,111,152,92,,Yes,Preparation can wait,Queued,2025-09-26T13:56:00+0000
+2025-04-03T02:36:00+0000,2,15,22,59,Male,Seizure,80,181,74,9,91,Alert,160,36.9,Albuterol,72,143,89,Responds to pain,Yes,Prepare now,Queued,2025-04-29T16:12:00+0000
+2025-03-10T08:52:00+0000,1,6,9,59,,Fall,72,72,111,28,87,Unresponsive,223,39.4,,118,143,99,,Yes,Cannot assess,Needs Review,2025-06-13T19:19:00+0000
+2025-04-26T03:53:00+0000,2,11,35,39,Male,Motor vehicle collision,110,174,98,30,80,Alert,74,38.4,Midazolam,120,80,82,Alert,No,Cannot assess,Needs Review,2025-05-18T01:14:00+0000
+2025-02-28T06:27:00+0000,1,5,33,53,,Allergic reaction,,128,96,29,96,Confused,36,,Albuterol,85,94,87,Responds to voice,No prior information,Cannot assess,Queued,2025-04-02T20:54:00+0000
+2025-03-04T13:45:00+0000,1,14,5,45,Male,Shortness of breath,77,144,56,9,87,Confused,215,36.3,Glucose,96,102,,Alert,Uncertain,Prepare now,Needs Review,2025-04-07T19:53:00+0000
+2025-05-10T22:52:00+0000,2,15,35,24,,Weakness with fever,130,69,61,33,86,Alert,224,37.8,Glucose,97,184,90,Responds to voice,Uncertain,Routine awareness,Queued,2025-06-06T10:24:00+0000
+2025-12-12T20:15:00+0000,2,9,7,32,Female,Altered mental status,123,179,56,12,98,Unresponsive,214,37.6,Epinephrine,111,148,82,Responds to pain,Yes,Preparation can wait,Queued,2025-09-04T17:51:00+0000
+2025-01-21T22:14:00+0000,2,3,40,73,Female,Altered mental status,65,125,109,22,86,Unresponsive,235,36.4,Oxygen,105,115,92,Alert,No,Preparation can wait,Needs Review,2025-02-22T00:43:00+0000
+2025-07-05T09:10:00+0000,1,5,39,89,Female,Abdominal pain,80,145,98,19,89,Responds to voice,250,37.9,Epinephrine,102,90,100,Responds to voice,Uncertain,Preparation can wait,Queued,2025-07-23T17:19:00+0000
+2025-11-23T22:55:00+0000,1,14,17,88,Male,Shortness of breath,100,114,112,25,80,Responds to pain,22,36.3,Glucose,110,104,99,Confused,No prior information,Cannot assess,Needs Review,2025-10-27T02:48:00+0000
+2025-10-29T21:38:00+0000,2,10,3,76,Female,Chest discomfort,104,113,52,9,92,Alert,51,39.1,Midazolam,111,131,91,Responds to voice,Yes,Prepare now,Queued,2025-12-10T14:41:00+0000
+2025-05-13T19:57:00+0000,1,5,16,48,Female,Chest discomfort,95,161,48,16,79,Unresponsive,83,36.3,Midazolam,105,103,95,Unresponsive,No,Prepare now,Needs Review,2025-05-22T00:51:00+0000
+2025-05-03T09:06:00+0000,1,5,29,51,,Altered mental status,104,194,105,25,86,Responds to voice,99,38.3,Aspirin,101,126,97,Responds to pain,Yes,Prepare now,Needs Review,2025-05-19T04:47:00+0000
+2025-08-12T10:52:00+0000,2,13,35,73,Male,Shortness of breath,123,153,90,19,97,Alert,153,37.2,Nitroglycerin,103,68,91,,Uncertain,Routine awareness,Queued,2025-09-04T04:02:00+0000
+2025-04-30T02:34:00+0000,2,15,10,59,Male,Weakness with fever,,94,40,30,90,Responds to voice,186,38.8,Aspirin,113,116,94,Alert,Yes,Prepare now,Needs Review,2025-05-13T07:32:00+0000
+2025-09-10T01:36:00+0000,2,15,5,20,Male,Allergic reaction,76,140,74,14,86,Unresponsive,130,39.2,Pain medication,132,137,100,Responds to pain,Yes,Routine awareness,Needs Review,2025-09-16T16:40:00+0000
+2025-06-08T21:47:00+0000,2,4,43,31,Male,Allergic reaction,66,127,69,22,92,Responds to pain,65,37.5,Oxygen,58,123,93,,No prior information,Preparation can wait,Queued,2025-06-18T01:16:00+0000
+2025-12-24T07:34:00+0000,2,14,3,26,Male,Abdominal pain,103,137,82,9,97,Alert,148,38.0,Epinephrine,102,120,82,,No prior information,Routine awareness,Queued,2025-06-12T22:32:00+0000
+2025-02-15T00:18:00+0000,2,7,14,76,Female,Stroke symptoms,94,127,63,,97,Responds to voice,,36.6,Oxygen,93,155,98,Responds to voice,Yes,Cannot assess,Needs Review,2025-04-13T01:23:00+0000
+2025-02-06T11:07:00+0000,2,15,22,82,Male,Allergic reaction,88,164,61,11,88,Responds to pain,76,37.8,IV fluids,68,135,86,Unresponsive,Uncertain,Cannot assess,Queued,2025-02-13T18:12:00+0000
+2025-08-15T16:55:00+0000,2,5,29,57,,Weakness with fever,116,183,74,27,98,Confused,183,38.4,Diphenhydramine,87,108,90,Alert,Yes,Prepare now,Queued,2025-05-15T23:52:00+0000
+2025-02-01T04:37:00+0000,2,4,25,54,Male,Fall,95,69,124,13,88,Responds to pain,242,39.1,Pain medication,91,60,,Alert,No,Cannot assess,Needs Review,2025-02-09T04:18:00+0000
+2025-10-27T22:12:00+0000,1,8,12,26,Female,Seizure,139,98,113,24,100,Responds to voice,239,36.6,,71,60,,Confused,Uncertain,Prepare now,Needs Review,2025-11-03T05:15:00+0000
+2025-01-02T04:28:00+0000,1,8,35,86,,Altered mental status,93,133,80,15,99,Responds to voice,137,39.7,Nitroglycerin,68,89,92,Unresponsive,Yes,Preparation can wait,Queued,2025-02-02T02:25:00+0000
+2025-08-27T14:04:00+0000,2,0,9,57,Male,Allergic reaction,86,149,113,19,,Unresponsive,165,,Aspirin,110,114,95,,Yes,Routine awareness,Queued,2025-02-21T15:54:00+0000
+2025-10-31T18:28:00+0000,1,5,8,,Male,Stroke symptoms,107,154,45,11,91,Alert,98,37.8,Nitroglycerin,71,127,82,Alert,No prior information,Preparation can wait,Queued,2025-07-30T10:28:00+0000
+2025-08-05T18:46:00+0000,1,4,17,38,Female,Shortness of breath,73,95,88,26,87,Confused,236,39.4,IV fluids,74,149,90,Alert,No,Prepare now,Queued,2025-08-13T11:44:00+0000
+2025-08-14T06:28:00+0000,1,10,45,20,,Weakness with fever,68,98,62,33,96,Responds to voice,242,37.3,Diphenhydramine,58,151,87,Unresponsive,No prior information,Preparation can wait,Queued,2025-09-03T17:25:00+0000
+2025-04-22T00:17:00+0000,1,10,23,32,Male,Chest discomfort,62,164,97,29,90,Responds to voice,144,39.0,Nitroglycerin,71,130,96,Unresponsive,No prior information,Prepare now,Queued,2025-04-26T16:15:00+0000
+2025-09-02T19:35:00+0000,2,15,11,30,,Shortness of breath,64,179,91,15,,Unresponsive,236,37.8,Albuterol,74,89,90,Responds to pain,Yes,Cannot assess,Needs Review,2025-10-01T19:35:00+0000
+2025-12-25T15:59:00+0000,1,6,9,,Male,Altered mental status,91,165,92,18,97,Confused,52,37.9,Albuterol,101,156,92,Unresponsive,Yes,Cannot assess,Queued,2026-01-14T17:42:00+0000
+2025-05-05T05:52:00+0000,2,7,23,73,Male,Fall,135,119,123,18,100,Confused,73,,Albuterol,78,153,96,Confused,Yes,Preparation can wait,Needs Review,2025-06-01T01:25:00+0000
+2025-06-16T21:34:00+0000,2,10,32,82,,Allergic reaction,,154,100,21,92,Unresponsive,41,36.7,Albuterol,92,156,89,Responds to pain,Yes,Prepare now,Queued,2025-06-24T23:38:00+0000
+2025-09-07T13:47:00+0000,2,12,43,95,Female,Motor vehicle collision,78,196,42,9,93,Responds to voice,123,40.0,Midazolam,87,155,92,Alert,No,Routine awareness,Queued,2025-09-20T10:03:00+0000
+2025-07-10T02:29:00+0000,1,11,45,19,Female,Fall,94,109,84,18,86,Responds to pain,57,36.7,Diphenhydramine,59,154,96,Unresponsive,No prior information,Preparation can wait,Queued,2025-07-22T09:22:00+0000
+2025-11-26T04:18:00+0000,2,7,40,64,Female,Seizure,88,138,118,33,95,Confused,140,39.3,Midazolam,112,,100,Responds to pain,Yes,Preparation can wait,Queued,2025-12-30T23:39:00+0000
+2025-01-31T15:14:00+0000,2,15,29,77,,Allergic reaction,88,157,49,18,86,Unresponsive,171,36.6,Midazolam,95,136,93,Alert,No,Cannot assess,Queued,2025-02-24T04:36:00+0000
+2025-09-05T16:01:00+0000,1,7,18,91,Male,Fall,79,184,122,33,86,Responds to voice,181,37.9,Midazolam,91,93,88,Responds to voice,No,Cannot assess,Needs Review,2025-09-24T00:44:00+0000
+2025-11-28T21:05:00+0000,1,4,20,42,,Altered mental status,117,129,77,15,99,Responds to voice,232,36.3,Aspirin,131,97,94,Alert,No,Prepare now,Queued,2025-12-11T19:09:00+0000
+2025-04-14T00:31:00+0000,1,10,31,21,Female,Stroke symptoms,123,168,40,9,96,Responds to voice,45,39.5,Aspirin,114,60,92,,Uncertain,Routine awareness,Queued,2026-01-09T14:34:00+0000
+2025-09-29T04:25:00+0000,1,14,40,44,,Allergic reaction,65,125,63,10,79,Responds to voice,205,39.8,Pain medication,91,169,99,Responds to pain,Uncertain,Prepare now,Queued,2025-10-23T17:09:00+0000
+2025-04-25T20:43:00+0000,2,13,18,24,,Seizure,91,160,,15,94,Confused,199,39.0,Nitroglycerin,106,147,96,Alert,No,Prepare now,Queued,2025-06-11T03:31:00+0000
+2025-09-05T05:56:00+0000,2,14,16,41,Female,Shortness of breath,107,124,75,16,,Unresponsive,252,36.1,Albuterol,103,122,100,Responds to pain,No prior information,Routine awareness,Queued,2025-10-28T12:03:00+0000
+2025-04-29T22:29:00+0000,2,6,37,59,,Abdominal pain,,162,62,28,79,Alert,254,37.9,Midazolam,100,109,100,Alert,Yes,Routine awareness,Needs Review,2025-05-13T16:20:00+0000
+2025-01-24T00:27:00+0000,2,14,38,,Female,Allergic reaction,74,132,68,18,99,Responds to pain,160,36.9,IV fluids,114,169,95,Unresponsive,Uncertain,Routine awareness,Queued,2025-02-27T21:14:00+0000
+2025-01-04T14:58:00+0000,2,4,12,79,Female,Abdominal pain,66,160,90,26,86,Confused,142,38.9,,131,138,,Confused,Yes,Routine awareness,Needs Review,2025-10-19T13:01:00+0000
+2025-10-09T20:29:00+0000,1,13,35,54,Male,Weakness with fever,93,160,79,28,80,Confused,163,38.6,Midazolam,59,84,97,Responds to pain,Yes,Preparation can wait,Needs Review,2025-10-19T03:24:00+0000
+2025-05-31T02:21:00+0000,2,6,41,43,Female,Fall,95,77,63,9,88,Responds to voice,212,37.6,Midazolam,98,112,89,,No,Preparation can wait,Queued,2025-06-10T07:56:00+0000
+2025-03-24T22:50:00+0000,1,8,33,93,Female,Shortness of breath,,151,58,29,95,Unresponsive,151,36.7,Diphenhydramine,87,157,95,Alert,Uncertain,Cannot assess,Needs Review,2025-04-08T21:23:00+0000
+2025-02-11T13:09:00+0000,1,0,27,20,Male,Motor vehicle collision,106,154,58,10,91,Unresponsive,228,36.9,Diphenhydramine,138,140,97,Confused,Yes,Preparation can wait,Queued,2025-03-22T13:08:00+0000
+2025-06-12T21:25:00+0000,2,11,34,41,Male,Motor vehicle collision,93,92,72,20,,Confused,68,37.0,Epinephrine,102,147,96,,No prior information,Prepare now,Queued,2025-04-03T11:01:00+0000
+2025-10-09T19:59:00+0000,2,5,18,66,,Abdominal pain,101,169,51,11,96,Responds to voice,80,38.4,Midazolam,96,84,86,Alert,Yes,Prepare now,Queued,2025-08-14T09:08:00+0000
+2025-08-31T21:00:00+0000,1,11,36,25,Male,Abdominal pain,101,75,92,11,94,Responds to voice,167,38.4,Nitroglycerin,97,160,99,Unresponsive,No prior information,Preparation can wait,Queued,2025-04-03T21:38:00+0000
+2025-10-20T03:10:00+0000,1,12,12,68,Female,Fall,102,102,64,15,97,Confused,109,39.4,Pain medication,138,165,97,Responds to voice,No prior information,Prepare now,Queued,2025-11-19T00:37:00+0000
+2025-10-13T03:59:00+0000,2,5,34,84,Female,Abdominal pain,93,122,84,30,96,Alert,97,36.4,Pain medication,151,158,99,,Uncertain,Routine awareness,Queued,2025-10-27T20:02:00+0000
+2025-10-02T15:57:00+0000,1,5,13,97,Male,Motor vehicle collision,120,81,104,13,88,Unresponsive,223,37.2,Diphenhydramine,60,109,,,Yes,Cannot assess,Queued,2025-08-18T21:37:00+0000
+2025-10-09T15:10:00+0000,2,6,36,69,Male,Chest discomfort,64,170,44,,87,Alert,105,36.8,Oxygen,87,153,98,,No,Cannot assess,Needs Review,2025-10-21T14:33:00+0000
+2025-05-31T04:23:00+0000,2,0,5,85,Female,Shortness of breath,62,118,61,15,98,Confused,200,38.4,Aspirin,89,127,87,Unresponsive,No prior information,Prepare now,Queued,2025-06-10T02:37:00+0000
+2025-05-02T08:22:00+0000,2,10,10,30,Female,Chest discomfort,78,123,83,16,89,Responds to voice,85,37.5,Albuterol,79,99,91,Responds to pain,Yes,Preparation can wait,Needs Review,2025-05-31T14:20:00+0000
+2025-01-06T12:58:00+0000,2,8,5,39,,Seizure,73,178,116,24,,Unresponsive,177,36.8,Glucose,129,157,82,,Yes,Preparation can wait,Queued,2025-02-02T11:09:00+0000
+2025-09-10T09:49:00+0000,2,8,23,73,,Abdominal pain,103,134,118,24,87,Responds to pain,47,38.3,Diphenhydramine,132,118,,,Yes,Routine awareness,Queued,2025-09-14T22:11:00+0000
+2025-11-13T16:52:00+0000,2,11,23,20,Male,Chest discomfort,107,198,120,,95,Unresponsive,239,37.2,Aspirin,113,148,99,,No prior information,Preparation can wait,Queued,2025-06-21T21:36:00+0000
+2025-03-27T17:46:00+0000,1,12,17,53,Male,Motor vehicle collision,81,106,84,23,,Responds to pain,,39.7,Epinephrine,80,160,87,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-04-27T10:29:00+0000
+2025-06-15T01:06:00+0000,1,4,13,86,,Fall,98,102,68,14,90,Responds to voice,202,40.3,Midazolam,105,147,95,Responds to pain,No prior information,Preparation can wait,Queued,2025-07-08T14:21:00+0000
+2025-01-09T02:39:00+0000,1,11,33,66,Female,Stroke symptoms,94,191,45,15,88,Responds to pain,101,37.2,Aspirin,88,96,97,Responds to pain,No prior information,Preparation can wait,Queued,2025-09-13T00:41:00+0000
+2025-08-26T09:24:00+0000,1,0,13,63,,Motor vehicle collision,81,131,123,27,80,Unresponsive,137,37.7,Midazolam,101,137,89,Responds to pain,No prior information,Cannot assess,Needs Review,2025-08-29T15:12:00+0000
+2025-09-28T14:52:00+0000,1,5,7,74,Male,Motor vehicle collision,105,197,123,23,94,Confused,179,38.6,Nitroglycerin,111,143,86,Alert,No,Routine awareness,Queued,2025-10-19T02:56:00+0000
+2025-02-24T05:12:00+0000,1,12,31,36,Male,Stroke symptoms,72,171,45,25,99,Confused,106,37.4,Glucose,73,137,86,Confused,Yes,Cannot assess,Queued,2025-03-29T08:03:00+0000
+2025-09-15T07:42:00+0000,2,13,34,73,Female,Fall,116,161,123,29,85,Responds to pain,160,37.7,Albuterol,72,147,88,Alert,No,Preparation can wait,Queued,2025-10-08T23:07:00+0000
+2025-03-07T04:58:00+0000,2,5,6,43,Male,Shortness of breath,84,126,44,16,95,Responds to pain,56,38.9,Oxygen,123,131,89,Alert,No,Preparation can wait,Queued,2025-11-06T22:25:00+0000
+2025-07-03T12:17:00+0000,1,12,14,76,,Low blood sugar,105,169,98,23,100,Unresponsive,33,36.4,IV fluids,83,153,96,Unresponsive,Uncertain,Routine awareness,Queued,2025-05-13T18:04:00+0000
+2025-10-27T21:37:00+0000,1,4,36,69,,Stroke symptoms,76,121,76,13,87,Alert,151,39.9,Nitroglycerin,87,126,97,Confused,Uncertain,Routine awareness,Needs Review,2025-11-02T14:20:00+0000
+2025-03-16T08:09:00+0000,2,7,4,36,Male,Motor vehicle collision,71,184,69,17,93,Confused,86,39.0,Epinephrine,106,96,87,Confused,Uncertain,Prepare now,Queued,2025-04-04T00:30:00+0000
+2025-01-15T11:20:00+0000,2,10,21,78,Male,Low blood sugar,83,94,98,24,99,Responds to pain,234,39.7,Aspirin,151,67,90,,Uncertain,Cannot assess,Needs Review,2025-02-03T17:19:00+0000
+2025-10-29T17:28:00+0000,1,6,40,28,Male,Seizure,139,124,76,30,80,Confused,138,39.2,Albuterol,112,67,96,Unresponsive,Yes,Routine awareness,Needs Review,2025-11-13T01:01:00+0000
+2025-03-08T10:47:00+0000,1,3,9,23,,Fall,130,194,107,27,100,Responds to pain,249,36.4,Diphenhydramine,77,162,88,Alert,No,Preparation can wait,Queued,2025-04-05T14:04:00+0000
+2025-02-14T20:43:00+0000,1,10,29,70,Female,Allergic reaction,83,104,44,25,89,Unresponsive,177,36.6,Aspirin,77,80,87,Responds to voice,No,Preparation can wait,Needs Review,2025-03-15T15:57:00+0000
+2025-06-22T04:13:00+0000,2,0,11,85,,Abdominal pain,75,75,73,9,86,Confused,89,36.6,Nitroglycerin,78,179,91,Responds to pain,Yes,Routine awareness,Queued,2025-08-06T00:44:00+0000
+2025-11-15T12:21:00+0000,2,7,40,60,Female,Low blood sugar,105,179,64,18,79,Alert,208,36.1,Glucose,97,182,82,,No,Cannot assess,Queued,2026-01-14T02:58:00+0000
+2025-11-01T08:05:00+0000,2,4,5,81,,Abdominal pain,83,176,110,12,98,Confused,82,40.3,Midazolam,89,149,100,Responds to pain,Yes,Routine awareness,Queued,2025-04-12T19:04:00+0000
+2025-05-29T14:18:00+0000,1,7,24,84,,Weakness with fever,109,87,104,28,93,Confused,220,36.6,IV fluids,116,151,93,Responds to pain,No,Prepare now,Queued,2025-06-09T04:40:00+0000
+2025-06-15T18:00:00+0000,2,7,16,63,,Fall,96,168,45,17,92,Unresponsive,178,38.6,,71,125,94,Confused,Uncertain,Routine awareness,Needs Review,2025-06-20T06:30:00+0000
+2025-06-28T03:58:00+0000,1,13,30,95,Male,Weakness with fever,61,104,101,12,93,Alert,88,37.6,Glucose,113,65,88,,No,Routine awareness,Queued,2025-12-25T08:46:00+0000
+2025-05-21T09:04:00+0000,1,13,11,71,Female,Stroke symptoms,101,78,101,21,87,Responds to pain,247,37.1,Epinephrine,71,104,99,Unresponsive,Uncertain,Routine awareness,Queued,2025-06-06T11:42:00+0000
+2025-06-05T23:56:00+0000,2,6,3,27,Female,Fall,120,165,59,22,94,Confused,165,37.3,Albuterol,115,108,90,Unresponsive,No,Routine awareness,Queued,2025-06-28T11:24:00+0000
+2025-07-22T02:42:00+0000,2,12,20,39,Female,Seizure,126,127,105,21,79,Unresponsive,94,39.2,IV fluids,67,141,86,,Yes,Prepare now,Queued,2025-09-19T21:27:00+0000
+2025-07-26T02:48:00+0000,2,14,3,83,,Allergic reaction,120,117,74,29,85,Responds to pain,202,37.1,Pain medication,83,135,82,Confused,Yes,Preparation can wait,Needs Review,2025-08-21T02:26:00+0000
+2025-08-28T01:11:00+0000,1,6,22,65,Female,Seizure,116,180,57,15,79,Responds to pain,173,36.1,Diphenhydramine,76,104,,Confused,No prior information,Preparation can wait,Queued,2025-10-09T00:40:00+0000
+2025-10-02T05:14:00+0000,2,11,41,29,Male,Shortness of breath,80,197,106,13,,Responds to pain,149,36.7,,103,134,97,Responds to voice,Uncertain,Preparation can wait,Needs Review,2025-12-16T13:58:00+0000
+2025-12-15T15:42:00+0000,2,15,30,58,,Shortness of breath,108,192,108,17,99,Responds to pain,171,39.9,Epinephrine,72,142,99,Responds to pain,Yes,Cannot assess,Queued,2025-12-16T18:49:00+0000
+2025-10-24T07:18:00+0000,2,8,20,68,Male,Abdominal pain,72,195,102,12,80,Unresponsive,64,37.8,Epinephrine,70,110,100,Confused,Uncertain,Cannot assess,Needs Review,2025-11-08T20:26:00+0000
+2025-05-02T07:57:00+0000,2,8,24,73,,Allergic reaction,80,180,55,21,99,Responds to voice,242,39.1,Diphenhydramine,101,119,,Unresponsive,Uncertain,Preparation can wait,Queued,2025-12-11T14:48:00+0000
+2025-06-03T19:05:00+0000,2,9,29,40,Female,Abdominal pain,110,192,101,9,98,Alert,221,37.6,Nitroglycerin,70,171,96,,Yes,Cannot assess,Needs Review,2025-06-23T02:09:00+0000
+2025-01-02T19:03:00+0000,1,8,4,98,Female,Shortness of breath,82,198,88,17,96,Unresponsive,61,39.9,Epinephrine,146,190,86,Unresponsive,No,Prepare now,Queued,2025-02-01T02:25:00+0000
+2025-06-16T23:46:00+0000,1,6,8,51,Male,Allergic reaction,101,112,74,33,99,Unresponsive,144,36.7,Pain medication,72,94,90,,Yes,Cannot assess,Queued,2025-07-06T09:50:00+0000
+2025-07-16T16:48:00+0000,2,15,14,71,Male,Shortness of breath,95,123,90,18,94,Responds to pain,124,37.3,Albuterol,120,154,96,Responds to voice,Uncertain,Preparation can wait,Queued,2025-08-10T21:03:00+0000
+2025-04-20T05:37:00+0000,2,14,22,50,,Stroke symptoms,121,184,77,22,100,Alert,29,38.9,Glucose,146,191,90,Unresponsive,Uncertain,Cannot assess,Queued,2025-07-14T08:18:00+0000
+2025-09-15T13:16:00+0000,1,3,34,90,Male,Motor vehicle collision,134,182,75,9,95,Unresponsive,162,,Epinephrine,86,171,93,Responds to voice,Yes,Cannot assess,Queued,2025-09-29T11:23:00+0000
+2025-06-23T13:27:00+0000,2,13,24,23,Female,Fall,103,66,99,21,80,Confused,238,39.3,Albuterol,129,114,88,Responds to pain,Yes,Prepare now,Queued,2025-08-02T09:44:00+0000
+2025-04-16T00:43:00+0000,2,8,15,85,Female,Fall,123,143,,27,79,Responds to voice,61,39.1,Pain medication,71,181,96,Unresponsive,Yes,Prepare now,Queued,2025-05-23T02:47:00+0000
+2025-11-11T10:48:00+0000,1,15,26,29,Female,Weakness with fever,85,103,99,28,94,Alert,135,38.4,Nitroglycerin,65,103,94,Alert,Yes,Routine awareness,Queued,2025-11-25T05:07:00+0000
+2025-10-25T02:50:00+0000,1,14,45,63,,Stroke symptoms,131,137,103,29,90,Responds to pain,159,38.4,Nitroglycerin,78,97,100,Responds to pain,Uncertain,Routine awareness,Queued,2025-05-11T07:50:00+0000
+2025-09-12T03:44:00+0000,1,7,13,79,Male,Weakness with fever,133,146,51,15,88,Alert,189,37.7,IV fluids,78,129,88,Unresponsive,Uncertain,Preparation can wait,Queued,2025-10-18T01:14:00+0000
+2025-01-26T00:51:00+0000,1,7,24,63,Female,Shortness of breath,63,86,89,33,92,Confused,98,37.7,IV fluids,92,130,94,Unresponsive,Uncertain,Prepare now,Queued,2025-02-05T17:56:00+0000
+2025-04-11T11:28:00+0000,2,4,17,60,Female,Shortness of breath,81,114,99,11,79,Responds to voice,162,38.7,Epinephrine,122,151,90,Confused,Yes,Cannot assess,Needs Review,2025-05-11T16:25:00+0000
+2025-08-26T19:56:00+0000,2,12,36,49,Female,Seizure,86,173,102,22,,Responds to pain,179,37.4,Nitroglycerin,83,134,,Alert,No,Preparation can wait,Queued,2025-09-09T13:42:00+0000
+2025-07-24T01:36:00+0000,2,7,20,42,,Altered mental status,111,65,42,12,99,Responds to pain,32,36.4,Pain medication,83,153,90,Responds to pain,Yes,Cannot assess,Queued,2025-08-11T02:59:00+0000
+2025-02-11T17:52:00+0000,2,6,6,64,Female,Stroke symptoms,75,93,63,18,,Responds to voice,165,37.3,Pain medication,105,85,87,Confused,No,Cannot assess,Needs Review,2025-03-27T00:46:00+0000
+2025-11-19T17:06:00+0000,2,6,19,44,Male,Fall,71,119,112,25,88,Responds to pain,188,39.2,Midazolam,115,175,97,Responds to pain,No prior information,Cannot assess,Queued,2025-04-30T18:44:00+0000
+2025-04-16T00:56:00+0000,1,13,27,42,Male,Fall,84,129,111,20,100,Responds to voice,124,39.3,Diphenhydramine,84,101,86,Confused,Uncertain,Routine awareness,Queued,2025-05-03T12:14:00+0000
+2025-09-25T02:10:00+0000,2,4,45,69,Female,Seizure,70,179,119,,79,Responds to pain,101,37.6,Glucose,77,148,89,Responds to voice,Yes,Preparation can wait,Needs Review,2025-10-21T09:29:00+0000
+2025-07-28T06:23:00+0000,1,15,21,69,Male,Chest discomfort,82,91,116,33,98,Alert,186,38.5,IV fluids,92,184,87,Responds to pain,Yes,Cannot assess,Needs Review,2025-08-06T23:40:00+0000
+2025-08-01T11:08:00+0000,1,12,20,87,Female,Abdominal pain,131,124,79,30,85,Unresponsive,62,39.0,,138,180,92,Responds to voice,No prior information,Routine awareness,Queued,2025-09-13T14:41:00+0000
+2025-08-06T16:02:00+0000,1,14,7,19,,Seizure,120,135,80,,96,Responds to pain,248,,,116,,91,Unresponsive,No prior information,Routine awareness,Queued,2025-08-23T16:02:00+0000
+2025-03-11T12:37:00+0000,2,9,22,64,Female,Chest discomfort,75,,54,11,80,Confused,64,36.8,Midazolam,113,181,97,Confused,No,Routine awareness,Needs Review,2025-05-09T01:02:00+0000
+2025-10-27T14:16:00+0000,2,7,18,33,Female,Seizure,82,132,73,23,90,Alert,204,39.2,Aspirin,79,125,91,Responds to pain,Yes,Routine awareness,Needs Review,2025-07-21T07:30:00+0000
+2025-01-26T00:12:00+0000,1,3,36,59,Female,Chest discomfort,108,125,118,,79,Responds to voice,77,37.4,,116,67,100,Alert,No,Preparation can wait,Needs Review,2025-02-27T22:15:00+0000
+2025-10-18T20:12:00+0000,1,9,4,26,,Chest discomfort,98,140,93,26,89,Responds to voice,150,37.5,Epinephrine,91,136,96,Responds to pain,No,Prepare now,Needs Review,2025-10-25T22:28:00+0000
+2025-02-06T13:19:00+0000,1,10,24,48,,Seizure,73,159,53,17,95,Confused,219,36.4,IV fluids,146,125,98,Responds to pain,No prior information,Prepare now,Queued,2025-03-11T15:52:00+0000
+2025-09-30T07:26:00+0000,2,13,10,84,Female,Allergic reaction,111,112,111,15,97,Responds to pain,134,37.2,Midazolam,76,147,94,,Uncertain,Cannot assess,Needs Review,2025-07-06T06:30:00+0000
+2025-02-22T22:25:00+0000,2,8,4,21,Female,Shortness of breath,110,103,116,20,87,Confused,198,37.0,Albuterol,100,184,86,Responds to pain,Yes,Preparation can wait,Needs Review,2025-03-22T01:50:00+0000
+2025-11-05T07:48:00+0000,1,10,15,70,Male,Stroke symptoms,138,112,116,12,85,Unresponsive,180,37.3,Diphenhydramine,83,100,97,,No,Routine awareness,Needs Review,2025-11-25T16:34:00+0000
+2025-08-22T14:48:00+0000,2,14,3,35,,Chest discomfort,79,190,102,18,96,Unresponsive,166,37.8,Epinephrine,90,99,91,Responds to voice,Yes,Cannot assess,Needs Review,2025-09-08T09:34:00+0000
+2025-05-14T11:21:00+0000,2,0,35,91,Male,Weakness with fever,85,76,101,30,80,Confused,25,36.4,,74,96,99,Unresponsive,No prior information,Prepare now,Queued,2025-06-01T02:43:00+0000
+2025-05-23T19:06:00+0000,1,15,31,35,Female,Abdominal pain,110,188,67,18,90,Unresponsive,147,37.4,Aspirin,89,149,92,Confused,Yes,Routine awareness,Needs Review,2025-06-26T21:35:00+0000
+2025-04-12T06:49:00+0000,1,6,25,26,,Allergic reaction,74,143,102,9,97,Responds to pain,172,39.6,Pain medication,74,122,97,Responds to voice,No,Routine awareness,Queued,2025-05-03T10:29:00+0000
+2025-11-03T09:53:00+0000,2,6,24,75,Female,Shortness of breath,101,159,99,12,97,Unresponsive,123,37.7,Diphenhydramine,102,174,94,Unresponsive,Yes,Routine awareness,Queued,2025-11-12T23:33:00+0000
+2025-06-03T22:09:00+0000,2,12,21,36,,Seizure,67,174,84,26,93,Alert,235,37.3,Diphenhydramine,79,144,82,Responds to pain,No,Preparation can wait,Queued,2025-12-27T23:43:00+0000
+2025-01-24T04:38:00+0000,1,6,15,87,,Seizure,64,92,96,33,100,Responds to voice,191,39.4,IV fluids,95,163,91,Alert,No,Cannot assess,Needs Review,2025-02-17T12:12:00+0000
+2025-09-19T10:05:00+0000,2,14,31,75,Male,Shortness of breath,105,146,114,24,89,Confused,249,37.6,Epinephrine,81,96,96,Alert,No,Routine awareness,Needs Review,2025-02-15T14:18:00+0000
+2025-10-15T09:49:00+0000,2,7,45,76,Female,Low blood sugar,77,187,53,29,,Confused,111,37.5,IV fluids,98,172,95,Unresponsive,Yes,Prepare now,Queued,2025-11-24T21:19:00+0000
+2025-01-03T22:02:00+0000,2,12,6,39,Female,Weakness with fever,83,67,100,16,79,Alert,64,37.4,Glucose,84,135,95,Responds to voice,No,Preparation can wait,Needs Review,2025-01-31T02:21:00+0000
+2025-07-28T16:55:00+0000,1,8,29,50,Male,Weakness with fever,92,155,102,27,80,Unresponsive,30,38.0,Nitroglycerin,100,60,98,Responds to voice,No,Preparation can wait,Queued,2025-08-23T20:25:00+0000
+2025-07-12T08:17:00+0000,2,11,28,33,,Fall,66,166,44,30,93,Responds to voice,36,37.1,Epinephrine,113,112,92,Responds to voice,Yes,Preparation can wait,Queued,2025-11-10T22:02:00+0000
+2025-07-31T20:38:00+0000,1,4,37,79,,Seizure,81,154,56,,95,Responds to pain,90,,Albuterol,71,113,,Unresponsive,No,Cannot assess,Needs Review,2025-09-12T20:10:00+0000
+2025-08-17T19:22:00+0000,2,3,16,49,Female,Allergic reaction,110,136,66,26,100,Unresponsive,218,37.4,Epinephrine,113,180,97,Responds to pain,Uncertain,Preparation can wait,Needs Review,2025-02-11T08:45:00+0000
+2025-12-26T03:29:00+0000,1,11,30,18,Female,Stroke symptoms,88,123,87,16,99,Alert,86,37.8,,62,126,87,Unresponsive,No prior information,Cannot assess,Needs Review,2026-01-12T17:50:00+0000
+2025-10-23T00:25:00+0000,2,13,30,56,,Seizure,113,152,91,29,92,Unresponsive,224,37.8,Epinephrine,71,103,99,Confused,Yes,Cannot assess,Queued,2025-11-09T13:43:00+0000
+2025-01-15T20:19:00+0000,1,0,37,,Female,Weakness with fever,134,191,97,9,100,Confused,225,36.4,Oxygen,116,109,91,Responds to pain,No,Cannot assess,Queued,2025-06-07T21:12:00+0000
+2025-12-25T22:19:00+0000,1,3,35,23,Female,Fall,76,83,124,29,,Confused,100,37.4,Epinephrine,81,153,94,Responds to pain,Uncertain,Preparation can wait,Needs Review,2025-12-29T08:06:00+0000
+2025-10-11T02:24:00+0000,1,5,15,24,Female,Chest discomfort,81,166,60,17,86,Responds to pain,103,38.9,Aspirin,74,187,98,Confused,Uncertain,Routine awareness,Queued,2025-10-30T04:55:00+0000
+2025-12-29T01:00:00+0000,2,15,8,19,Female,Altered mental status,83,73,120,24,92,Responds to pain,61,36.5,Nitroglycerin,113,114,91,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-05-20T15:21:00+0000
+2025-03-19T05:19:00+0000,2,3,17,71,Male,Low blood sugar,122,98,100,9,91,Responds to pain,252,37.3,Glucose,90,116,93,Unresponsive,No prior information,Prepare now,Queued,2025-07-13T01:05:00+0000
+2025-07-05T10:33:00+0000,1,4,35,18,Female,Allergic reaction,143,73,51,19,91,Unresponsive,236,37.1,Albuterol,114,96,90,Responds to voice,No,Cannot assess,Queued,2025-09-24T23:38:00+0000
+2025-06-18T12:47:00+0000,1,8,13,89,Male,Allergic reaction,88,162,81,9,94,Responds to voice,135,37.4,Epinephrine,105,117,96,Responds to pain,No prior information,Prepare now,Queued,2025-02-26T12:39:00+0000
+2025-05-21T15:30:00+0000,2,12,25,91,,Seizure,110,146,52,16,94,Responds to pain,75,38.0,Oxygen,60,131,100,Confused,Yes,Routine awareness,Queued,2025-06-20T11:20:00+0000
+2025-09-04T15:15:00+0000,2,8,6,74,Male,Allergic reaction,138,124,114,21,87,Responds to pain,40,36.4,IV fluids,89,103,93,,Uncertain,Cannot assess,Needs Review,2025-10-02T18:21:00+0000
+2025-02-22T13:18:00+0000,2,14,6,28,,Weakness with fever,101,182,97,24,91,Confused,109,38.4,Midazolam,87,157,89,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-02-24T21:42:00+0000
+2025-06-30T18:53:00+0000,1,11,12,85,,Altered mental status,66,117,72,14,97,Responds to pain,184,38.7,Albuterol,80,114,96,,No,Preparation can wait,Queued,2025-07-27T00:58:00+0000
+2025-01-09T21:46:00+0000,1,7,18,48,,Allergic reaction,84,101,68,28,91,Confused,198,39.5,Nitroglycerin,91,141,86,Responds to voice,No prior information,Cannot assess,Queued,2025-01-14T00:09:00+0000
+2025-04-04T17:34:00+0000,1,0,16,79,,Low blood sugar,93,184,50,16,99,Responds to pain,149,39.7,Albuterol,138,90,99,Confused,Yes,Prepare now,Needs Review,2025-05-26T18:01:00+0000
+2025-03-05T13:31:00+0000,1,13,10,94,Female,Allergic reaction,133,193,82,12,99,Confused,216,39.8,Aspirin,128,131,95,Unresponsive,Uncertain,Prepare now,Queued,2025-04-04T03:54:00+0000
+2025-09-07T00:33:00+0000,1,11,29,33,Male,Fall,109,122,123,27,92,Responds to voice,154,38.0,Nitroglycerin,91,67,91,,No,Cannot assess,Queued,2025-09-11T15:58:00+0000
+2025-05-11T11:12:00+0000,2,6,11,71,,Stroke symptoms,98,153,92,10,89,Confused,178,37.9,Midazolam,87,103,89,Alert,No,Routine awareness,Needs Review,2025-05-26T11:10:00+0000
+2025-07-02T00:12:00+0000,2,10,39,43,Male,Weakness with fever,86,150,103,26,90,Unresponsive,36,39.8,Oxygen,105,122,100,Confused,No prior information,Prepare now,Queued,2025-08-12T19:52:00+0000
+2025-07-17T22:04:00+0000,2,6,36,72,Female,Seizure,61,127,77,22,85,Alert,211,39.1,,87,109,89,,No,Routine awareness,Needs Review,2025-08-27T07:11:00+0000
+2025-01-17T22:04:00+0000,2,12,40,25,Female,Motor vehicle collision,101,188,111,15,100,Responds to pain,130,39.4,Diphenhydramine,100,169,89,,Yes,Routine awareness,Queued,2025-03-03T23:18:00+0000
+2025-01-25T21:18:00+0000,1,6,7,71,Male,Altered mental status,94,200,40,10,88,Confused,108,37.5,Nitroglycerin,146,96,96,Confused,No prior information,Cannot assess,Queued,2025-02-04T19:40:00+0000
+2025-01-23T11:08:00+0000,2,4,16,53,Male,Fall,81,87,79,30,88,Alert,220,38.7,IV fluids,82,139,100,Alert,No,Routine awareness,Queued,2025-02-06T17:55:00+0000
+2025-02-05T00:20:00+0000,2,0,17,89,Female,Allergic reaction,69,110,102,28,97,Responds to pain,44,39.3,Glucose,99,108,89,Confused,No,Cannot assess,Needs Review,2025-03-15T06:42:00+0000
+2025-07-27T01:08:00+0000,2,3,39,51,,Stroke symptoms,76,118,58,15,89,Unresponsive,61,36.9,Diphenhydramine,67,117,92,,No,Preparation can wait,Needs Review,2025-08-28T04:48:00+0000
+2025-03-13T10:21:00+0000,2,5,34,40,,Abdominal pain,91,115,113,10,91,Unresponsive,190,38.1,Glucose,131,68,98,Responds to voice,No,Routine awareness,Queued,2025-04-14T03:46:00+0000
+2025-04-28T04:52:00+0000,2,4,16,20,Female,Motor vehicle collision,78,71,74,24,100,Responds to pain,,36.7,Diphenhydramine,108,172,86,Responds to pain,Yes,Preparation can wait,Queued,2025-08-20T11:23:00+0000
+2025-05-08T20:04:00+0000,2,0,6,93,Female,Abdominal pain,57,192,104,26,97,Unresponsive,85,36.6,Diphenhydramine,89,67,92,Unresponsive,No prior information,Prepare now,Queued,2025-06-10T09:43:00+0000
+2025-10-28T02:57:00+0000,2,3,34,48,Male,Fall,118,108,80,11,88,Responds to voice,108,,Aspirin,79,179,,Responds to pain,Uncertain,Prepare now,Queued,2025-11-08T13:44:00+0000
+2025-02-08T06:47:00+0000,2,11,14,49,Female,Low blood sugar,122,105,40,10,97,Confused,237,36.9,Albuterol,95,161,98,Alert,No,Preparation can wait,Queued,2025-03-11T09:45:00+0000
+2025-06-12T01:29:00+0000,1,15,20,81,Male,Low blood sugar,85,78,99,9,85,Responds to pain,224,38.9,Pain medication,104,96,91,Responds to voice,No,Cannot assess,Needs Review,2025-07-07T06:03:00+0000
+2025-11-12T16:19:00+0000,1,5,26,19,,Low blood sugar,84,127,97,26,92,Alert,250,39.3,Pain medication,83,167,94,,Yes,Prepare now,Queued,2025-11-24T22:42:00+0000
+2025-07-08T21:30:00+0000,2,9,13,54,Female,Allergic reaction,92,85,44,15,92,Responds to voice,196,38.1,,71,127,96,Responds to voice,Uncertain,Routine awareness,Needs Review,2025-07-10T17:47:00+0000
+2025-10-09T18:32:00+0000,2,6,24,83,Male,Fall,135,70,116,19,,Responds to voice,72,36.3,Glucose,85,,95,Alert,No,Routine awareness,Queued,2026-01-22T08:55:00+0000
+2025-12-12T20:45:00+0000,2,15,7,18,,Fall,85,77,,18,88,Alert,199,39.0,Glucose,85,131,88,Responds to voice,Uncertain,Prepare now,Queued,2026-01-13T05:16:00+0000
+2025-04-17T05:12:00+0000,1,5,22,18,Male,Weakness with fever,71,170,40,14,99,Responds to voice,155,37.7,Pain medication,62,111,97,,Yes,Prepare now,Needs Review,2025-05-01T05:32:00+0000
+2025-08-12T09:57:00+0000,2,11,3,78,,Abdominal pain,96,143,110,11,86,Alert,131,39.3,Diphenhydramine,96,108,98,Unresponsive,No,Prepare now,Queued,2025-07-16T01:38:00+0000
+2025-02-17T08:15:00+0000,1,13,24,93,Female,Shortness of breath,135,65,94,29,86,Confused,207,36.9,Midazolam,112,136,91,Confused,Uncertain,Prepare now,Needs Review,2025-12-20T09:54:00+0000
+2025-11-28T05:03:00+0000,1,0,24,99,Male,Seizure,93,167,94,16,79,Unresponsive,110,38.7,Midazolam,87,82,95,,No prior information,Prepare now,Needs Review,2025-12-11T15:02:00+0000
+2025-07-24T05:22:00+0000,1,15,38,23,Male,Stroke symptoms,116,138,71,17,87,Unresponsive,37,36.4,Epinephrine,97,190,86,Confused,Yes,Preparation can wait,Queued,2025-05-19T10:55:00+0000
+2025-10-01T14:05:00+0000,1,12,24,58,Male,Low blood sugar,77,180,100,14,92,Responds to pain,205,36.4,Albuterol,97,68,98,Responds to pain,No prior information,Prepare now,Queued,2025-04-29T13:16:00+0000
+2025-05-25T11:41:00+0000,2,13,24,89,Female,Shortness of breath,103,72,76,10,97,Responds to pain,187,38.5,Nitroglycerin,87,165,90,Alert,No,Cannot assess,Needs Review,2025-06-20T16:26:00+0000
+2025-11-22T20:27:00+0000,2,3,15,,Female,Seizure,78,120,118,19,80,Confused,47,38.0,,114,144,98,Confused,No,Preparation can wait,Queued,2025-12-24T14:26:00+0000
+2025-08-24T20:13:00+0000,2,0,15,69,,Altered mental status,122,124,73,24,98,Confused,186,37.7,Midazolam,81,140,92,,Yes,Routine awareness,Queued,2025-05-11T05:39:00+0000
+2025-11-17T20:59:00+0000,1,12,28,25,Male,Stroke symptoms,62,200,85,23,98,Alert,160,37.2,Oxygen,86,170,82,Responds to voice,No prior information,Routine awareness,Queued,2025-12-11T17:31:00+0000
+2025-07-01T22:11:00+0000,2,11,23,,Female,Stroke symptoms,126,109,89,24,90,Responds to pain,243,36.8,Diphenhydramine,80,187,98,Confused,Yes,Cannot assess,Needs Review,2025-07-24T03:52:00+0000
+2025-02-22T03:34:00+0000,1,8,33,41,,Low blood sugar,101,107,83,25,99,Unresponsive,142,38.6,Midazolam,70,153,91,Responds to voice,No,Prepare now,Queued,2025-02-25T01:15:00+0000
+2025-07-29T21:37:00+0000,1,9,33,62,Male,Altered mental status,92,103,44,28,87,Alert,179,40.0,Glucose,90,135,96,Responds to voice,Uncertain,Preparation can wait,Queued,2025-12-21T15:46:00+0000
+2025-11-25T09:55:00+0000,2,7,35,35,Male,Shortness of breath,90,158,105,25,93,Responds to pain,119,39.8,Nitroglycerin,87,113,92,Responds to pain,Yes,Cannot assess,Needs Review,2025-12-12T10:59:00+0000
+2025-02-21T20:44:00+0000,2,6,43,19,Female,Shortness of breath,91,126,86,26,95,Unresponsive,25,36.8,Aspirin,100,142,97,Responds to voice,Yes,Preparation can wait,Queued,2025-03-06T18:01:00+0000
+2025-10-02T16:26:00+0000,2,13,22,70,,Shortness of breath,101,119,61,25,92,Confused,182,36.4,Aspirin,85,157,98,,Uncertain,Preparation can wait,Queued,2025-10-19T12:32:00+0000
+2025-12-23T15:09:00+0000,2,5,5,,Male,Weakness with fever,90,66,42,11,90,Alert,30,36.6,Diphenhydramine,84,166,97,Alert,No,Preparation can wait,Queued,2026-01-15T19:49:00+0000
+2025-03-03T21:10:00+0000,1,0,12,76,,Weakness with fever,133,110,80,18,98,Unresponsive,183,36.1,Pain medication,112,98,97,Responds to voice,No prior information,Cannot assess,Queued,2025-03-12T14:51:00+0000
+2025-10-05T11:39:00+0000,1,12,26,87,Female,Stroke symptoms,63,176,78,27,91,Unresponsive,150,36.1,Epinephrine,88,130,96,Responds to pain,No prior information,Preparation can wait,Queued,2025-10-10T20:22:00+0000
+2025-09-08T02:06:00+0000,2,3,21,47,Female,Abdominal pain,139,118,113,33,100,Alert,113,39.3,Midazolam,96,130,97,Alert,No,Routine awareness,Queued,2025-02-16T13:28:00+0000
+2025-05-17T03:30:00+0000,1,14,32,23,Female,Abdominal pain,111,179,109,29,89,Alert,112,39.2,IV fluids,94,139,90,,No prior information,Preparation can wait,Queued,2025-05-03T13:54:00+0000
+2025-07-22T23:09:00+0000,2,13,5,,Female,Abdominal pain,68,152,,30,99,Alert,131,38.8,Midazolam,111,165,96,Responds to voice,Yes,Cannot assess,Queued,2025-08-22T17:00:00+0000
+2025-01-29T15:39:00+0000,2,4,14,53,,Motor vehicle collision,90,75,73,15,85,Responds to voice,84,39.7,Midazolam,60,137,96,Unresponsive,Yes,Preparation can wait,Needs Review,2025-02-14T04:38:00+0000
+2025-07-17T17:34:00+0000,2,9,24,30,,Shortness of breath,102,90,97,,,Alert,214,37.7,Aspirin,105,84,100,Confused,No,Cannot assess,Needs Review,2025-04-22T02:13:00+0000
+2025-11-09T00:44:00+0000,2,3,37,85,Female,Weakness with fever,65,128,118,27,80,Responds to voice,206,35.9,Glucose,116,134,87,Confused,No,Preparation can wait,Queued,2025-12-20T00:20:00+0000
+2025-01-29T01:03:00+0000,2,4,38,98,Male,Low blood sugar,73,131,116,19,98,Responds to voice,254,38.0,Glucose,90,90,91,Alert,No,Preparation can wait,Queued,2025-12-05T22:01:00+0000
+2025-12-29T18:05:00+0000,1,3,32,45,,Stroke symptoms,100,146,118,12,92,Alert,58,37.7,Pain medication,115,152,82,Confused,Yes,Preparation can wait,Queued,2025-02-13T16:08:00+0000
+2025-06-16T23:10:00+0000,1,3,13,92,Female,Shortness of breath,69,194,113,12,93,Responds to voice,71,39.0,Pain medication,73,159,94,Responds to voice,Yes,Cannot assess,Needs Review,2025-06-27T23:39:00+0000
+2025-12-24T16:58:00+0000,2,8,4,30,Male,Seizure,143,,50,11,87,Unresponsive,140,,Pain medication,99,127,86,Responds to pain,Yes,Preparation can wait,Queued,2026-01-27T07:37:00+0000
+2025-06-20T23:35:00+0000,2,7,5,86,,Motor vehicle collision,109,82,103,9,,Unresponsive,47,39.5,Midazolam,89,,99,Alert,Yes,Preparation can wait,Queued,2025-12-04T21:24:00+0000
+2025-04-16T06:18:00+0000,1,9,3,53,Male,Abdominal pain,93,82,77,14,91,Alert,68,39.7,Nitroglycerin,104,158,,Responds to pain,No prior information,Preparation can wait,Queued,2025-06-25T10:39:00+0000
+2025-07-03T19:47:00+0000,2,12,16,24,,Weakness with fever,70,200,79,21,98,Responds to pain,75,37.9,Glucose,128,89,93,Alert,No,Routine awareness,Queued,2025-09-29T12:27:00+0000
+2025-11-23T03:40:00+0000,2,7,31,66,Female,Low blood sugar,131,196,82,22,90,Confused,26,39.6,Midazolam,89,161,97,Unresponsive,Yes,Prepare now,Needs Review,2025-11-26T09:14:00+0000
+2025-07-22T12:06:00+0000,2,5,43,69,,Shortness of breath,98,176,87,26,97,Responds to pain,108,39.6,Midazolam,112,176,87,Alert,Yes,Cannot assess,Needs Review,2025-08-26T20:45:00+0000
+2025-01-12T12:36:00+0000,1,8,33,78,Female,Abdominal pain,118,65,86,19,91,Responds to pain,236,38.0,Nitroglycerin,,89,90,Alert,Uncertain,Preparation can wait,Queued,2025-02-01T01:36:00+0000
+2025-09-17T00:02:00+0000,2,4,15,71,Female,Low blood sugar,76,135,69,12,79,Responds to voice,200,38.7,Glucose,70,172,94,Alert,No,Preparation can wait,Queued,2025-09-25T04:11:00+0000
+2025-12-06T23:10:00+0000,1,8,33,65,Female,Motor vehicle collision,86,113,106,25,93,Responds to pain,159,38.0,Epinephrine,72,144,82,Responds to pain,No prior information,Routine awareness,Queued,2025-12-15T09:21:00+0000
+2025-03-30T11:44:00+0000,2,15,38,65,Male,Allergic reaction,133,122,98,9,96,Responds to voice,249,38.3,IV fluids,120,143,88,Responds to pain,Yes,Cannot assess,Needs Review,2025-05-10T12:23:00+0000
+2025-10-13T05:44:00+0000,1,0,30,54,Male,Shortness of breath,108,87,80,,95,Confused,231,38.1,IV fluids,126,110,90,Confused,Yes,Prepare now,Queued,2025-10-26T03:52:00+0000
+2025-09-26T03:31:00+0000,1,11,14,73,Male,Altered mental status,68,108,101,19,,Responds to voice,174,37.9,Aspirin,108,150,89,Responds to pain,No prior information,Routine awareness,Queued,2025-10-24T02:45:00+0000
+2025-10-02T23:54:00+0000,2,4,11,30,Female,Shortness of breath,89,183,80,26,98,Alert,248,36.3,Albuterol,101,110,82,Unresponsive,Yes,Cannot assess,Needs Review,2025-04-30T01:37:00+0000
+2025-08-11T01:08:00+0000,1,12,6,30,Male,Allergic reaction,110,156,78,12,96,Alert,28,37.5,Albuterol,118,146,88,Responds to pain,No prior information,Cannot assess,Needs Review,2025-08-23T03:20:00+0000
+2025-02-14T14:05:00+0000,2,5,12,69,Male,Low blood sugar,58,115,89,9,97,Confused,48,37.6,Aspirin,76,112,95,Alert,No,Prepare now,Queued,2025-08-25T00:46:00+0000
+2025-11-21T22:07:00+0000,1,12,34,34,Female,Motor vehicle collision,121,175,116,16,85,Responds to pain,196,36.8,,59,101,92,Responds to pain,No prior information,Routine awareness,Queued,2025-12-15T10:47:00+0000
+2025-09-16T06:18:00+0000,2,4,19,94,Female,Weakness with fever,74,142,98,26,96,Responds to pain,248,37.4,Diphenhydramine,72,103,95,Responds to pain,Yes,Preparation can wait,Queued,2025-12-15T16:08:00+0000
+2025-10-31T16:49:00+0000,1,6,22,89,Female,Shortness of breath,135,65,112,18,90,Unresponsive,249,37.4,Oxygen,114,132,86,Responds to pain,Yes,Prepare now,Needs Review,2025-11-06T02:57:00+0000
+2025-09-28T18:56:00+0000,2,10,12,63,Female,Seizure,88,91,51,17,98,Alert,125,36.4,,82,133,,Responds to pain,Yes,Preparation can wait,Queued,2025-11-06T11:47:00+0000
+2025-03-09T01:13:00+0000,1,8,18,49,Male,Abdominal pain,85,179,86,23,95,Alert,98,37.8,Diphenhydramine,96,139,96,Alert,Uncertain,Prepare now,Needs Review,2025-04-09T19:22:00+0000
+2025-05-19T15:38:00+0000,2,3,11,99,Female,Allergic reaction,85,106,64,15,99,Responds to voice,182,37.8,Albuterol,91,67,86,Unresponsive,Uncertain,Cannot assess,Needs Review,2026-01-05T18:23:00+0000
+2025-10-13T00:10:00+0000,1,11,32,38,Male,Shortness of breath,111,155,76,27,91,Unresponsive,26,39.8,,,159,87,Confused,No prior information,Preparation can wait,Queued,2025-03-27T22:41:00+0000
+2025-09-03T07:44:00+0000,1,7,33,76,,Altered mental status,69,140,109,12,79,Responds to pain,228,39.3,IV fluids,101,136,89,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-11-23T13:43:00+0000
+2025-08-13T19:10:00+0000,2,14,23,33,,Low blood sugar,115,69,106,13,100,Unresponsive,196,37.1,Epinephrine,138,176,92,,Yes,Cannot assess,Queued,2025-09-01T00:08:00+0000
+2025-06-17T18:13:00+0000,2,0,12,51,Male,Chest discomfort,92,79,69,27,94,Alert,68,36.9,Albuterol,112,135,94,Confused,Uncertain,Routine awareness,Queued,2025-09-16T17:29:00+0000
+2025-02-07T01:06:00+0000,1,8,36,87,Female,Abdominal pain,73,154,79,33,88,Responds to voice,41,37.3,Aspirin,93,144,95,Alert,Uncertain,Preparation can wait,Queued,2025-07-05T22:22:00+0000
+2025-06-25T11:15:00+0000,1,14,19,63,Female,Abdominal pain,117,115,101,22,93,Unresponsive,28,39.8,Diphenhydramine,98,121,98,Unresponsive,No prior information,Routine awareness,Queued,2025-07-11T02:48:00+0000
+2025-08-23T01:12:00+0000,2,0,15,34,Female,Stroke symptoms,68,190,52,11,93,Alert,62,36.8,Glucose,128,141,90,Unresponsive,No,Preparation can wait,Queued,2025-09-05T01:16:00+0000
+2025-05-08T13:18:00+0000,2,7,33,37,,Altered mental status,58,133,50,14,87,Alert,110,37.2,Aspirin,77,174,92,Alert,No,Routine awareness,Queued,2025-05-14T05:37:00+0000
+2025-07-15T16:56:00+0000,2,7,32,41,Female,Abdominal pain,81,96,105,28,94,Unresponsive,127,40.0,Glucose,106,149,93,Unresponsive,Yes,Cannot assess,Needs Review,2025-07-25T18:31:00+0000
+2025-03-15T11:59:00+0000,1,8,33,64,Female,Allergic reaction,58,66,103,29,,Responds to voice,89,38.9,,71,170,96,Confused,No prior information,Cannot assess,Needs Review,2025-03-31T21:39:00+0000
+2025-09-07T01:08:00+0000,1,7,15,74,Female,Seizure,108,76,72,30,91,Alert,162,35.9,Albuterol,108,127,93,,No prior information,Prepare now,Queued,2025-08-06T02:07:00+0000
+2025-07-09T08:30:00+0000,2,9,15,85,Female,Low blood sugar,131,175,45,14,85,Alert,52,36.5,Midazolam,138,65,91,Unresponsive,No prior information,Routine awareness,Queued,2025-08-19T12:57:00+0000
+2025-04-09T23:13:00+0000,1,15,22,74,Female,Weakness with fever,90,83,87,,80,Unresponsive,184,38.7,Albuterol,112,131,86,Responds to voice,No,Routine awareness,Needs Review,2025-05-12T09:02:00+0000
+2025-06-07T06:43:00+0000,2,12,29,37,Female,Abdominal pain,67,189,50,,80,Responds to pain,143,36.9,Glucose,82,162,89,Alert,Uncertain,Routine awareness,Needs Review,2025-06-17T10:45:00+0000
+2025-02-16T03:16:00+0000,2,9,10,23,Male,Abdominal pain,114,97,65,18,80,Alert,109,39.4,,78,119,98,Alert,No,Routine awareness,Needs Review,2025-03-11T18:56:00+0000
+2025-12-16T15:34:00+0000,1,11,40,89,Female,Allergic reaction,80,89,53,33,100,Alert,94,37.3,IV fluids,75,111,82,Confused,No prior information,Preparation can wait,Needs Review,2025-10-12T12:37:00+0000
+2025-01-27T19:43:00+0000,1,5,21,85,Female,Seizure,114,135,94,20,100,Responds to pain,79,37.0,IV fluids,109,154,100,Unresponsive,No,Routine awareness,Queued,2025-02-16T04:04:00+0000
+2025-12-01T23:47:00+0000,2,10,4,40,,Allergic reaction,126,66,124,29,99,Alert,128,39.1,Aspirin,103,172,82,,Yes,Routine awareness,Queued,2025-08-15T14:29:00+0000
+2025-12-12T08:46:00+0000,2,11,39,72,,Low blood sugar,88,116,124,30,96,Alert,230,36.3,Albuterol,103,,90,Responds to pain,No prior information,Prepare now,Queued,2026-01-06T07:15:00+0000
+2025-07-20T01:03:00+0000,1,3,4,50,,Fall,103,66,100,21,86,Responds to pain,77,35.9,Midazolam,74,126,92,Responds to pain,Uncertain,Routine awareness,Queued,2025-05-24T11:15:00+0000
+2025-09-22T09:46:00+0000,1,14,6,49,,Stroke symptoms,65,73,59,21,100,Responds to pain,121,39.5,Diphenhydramine,85,135,89,,No prior information,Cannot assess,Queued,2025-10-30T17:44:00+0000
+2025-12-13T12:23:00+0000,2,13,31,95,Male,Stroke symptoms,105,131,119,26,86,Responds to voice,236,37.7,Diphenhydramine,138,134,92,,Uncertain,Routine awareness,Queued,2025-04-05T12:46:00+0000
+2025-01-13T00:52:00+0000,2,3,40,23,,Low blood sugar,58,73,45,28,93,Unresponsive,40,38.3,IV fluids,97,165,89,,No,Cannot assess,Needs Review,2025-05-04T04:30:00+0000
+2025-12-05T01:21:00+0000,1,12,41,26,,Weakness with fever,126,200,90,16,87,Responds to pain,245,39.8,Glucose,65,88,86,Alert,No,Preparation can wait,Needs Review,2025-09-21T20:39:00+0000
+2025-05-22T20:08:00+0000,2,4,26,78,Male,Abdominal pain,93,171,73,24,80,Alert,133,39.1,Oxygen,105,165,87,,Uncertain,Prepare now,Needs Review,2025-06-13T18:41:00+0000
+2025-12-06T00:53:00+0000,2,14,8,84,Male,Low blood sugar,97,172,106,12,86,Confused,168,38.9,IV fluids,131,124,98,Confused,Yes,Prepare now,Needs Review,2025-11-18T09:59:00+0000
+2025-04-16T09:59:00+0000,2,5,34,48,Female,Fall,58,149,45,,98,Unresponsive,62,39.6,Midazolam,100,179,95,Alert,No,Routine awareness,Queued,2025-04-20T08:11:00+0000
+2025-03-17T02:51:00+0000,1,11,34,89,,Abdominal pain,71,144,122,26,79,Alert,33,38.1,Nitroglycerin,106,141,88,Responds to pain,No prior information,Prepare now,Queued,2025-04-05T07:37:00+0000
+2025-03-06T13:37:00+0000,1,7,16,22,Female,Low blood sugar,108,118,90,19,96,Unresponsive,59,37.1,Midazolam,59,157,88,,No prior information,Cannot assess,Queued,2025-11-25T10:16:00+0000
+2025-12-02T07:47:00+0000,1,7,24,91,Male,Chest discomfort,111,158,109,17,95,Unresponsive,195,,Glucose,59,,87,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-12-26T19:51:00+0000
+2025-07-24T12:09:00+0000,1,5,4,34,Female,Stroke symptoms,113,184,92,20,95,Confused,128,37.2,IV fluids,122,103,89,Confused,No,Routine awareness,Queued,2025-03-18T11:48:00+0000
+2025-07-25T22:18:00+0000,1,6,33,31,Male,Stroke symptoms,131,134,82,21,89,Unresponsive,166,38.8,Diphenhydramine,132,138,89,Responds to pain,Yes,Prepare now,Queued,2025-08-12T23:49:00+0000
+2025-11-21T02:38:00+0000,2,7,14,91,Female,Motor vehicle collision,83,92,88,17,93,Unresponsive,202,39.2,Glucose,151,169,96,Confused,Uncertain,Prepare now,Queued,2025-11-26T01:41:00+0000
+2025-11-13T23:41:00+0000,2,14,13,21,Female,Chest discomfort,108,156,67,15,88,Responds to pain,107,39.7,Nitroglycerin,146,,99,Unresponsive,Uncertain,Prepare now,Needs Review,2025-12-06T13:27:00+0000
+2025-04-19T02:29:00+0000,2,6,23,75,,Chest discomfort,85,100,90,28,99,Alert,131,35.9,Albuterol,88,115,99,Alert,Uncertain,Prepare now,Queued,2025-05-21T00:36:00+0000
+2025-09-01T04:07:00+0000,2,6,21,69,Male,Low blood sugar,92,92,97,26,98,Responds to pain,69,39.6,IV fluids,76,167,100,Alert,Yes,Cannot assess,Needs Review,2025-05-15T07:28:00+0000
+2025-10-01T04:54:00+0000,2,15,33,77,Female,Weakness with fever,91,134,123,25,96,Alert,68,39.9,Pain medication,116,137,90,Alert,No,Preparation can wait,Queued,2025-10-12T02:01:00+0000
+2025-04-20T07:09:00+0000,1,4,21,32,Female,Altered mental status,64,85,112,21,89,Unresponsive,102,38.4,Glucose,92,93,89,Unresponsive,No,Routine awareness,Needs Review,2025-06-24T05:11:00+0000
+2025-07-07T09:13:00+0000,2,8,26,68,Male,Motor vehicle collision,74,69,74,,98,Alert,176,37.7,Pain medication,62,124,87,Alert,No,Routine awareness,Queued,2025-04-10T09:56:00+0000
+2025-09-28T20:36:00+0000,2,6,5,95,,Weakness with fever,66,168,101,20,89,Responds to voice,108,36.7,IV fluids,97,110,98,Unresponsive,Yes,Preparation can wait,Queued,2025-09-25T07:58:00+0000
+2025-05-04T09:30:00+0000,2,0,41,48,,Seizure,118,137,91,27,100,Unresponsive,137,38.8,IV fluids,126,123,90,Unresponsive,No prior information,Prepare now,Queued,2025-12-13T09:04:00+0000
+2025-08-31T08:09:00+0000,1,3,6,88,Female,Stroke symptoms,130,74,125,11,,Responds to voice,62,38.4,Aspirin,109,130,100,Alert,Yes,Prepare now,Queued,2025-09-16T12:48:00+0000
+2025-04-28T22:16:00+0000,1,9,31,53,,Stroke symptoms,73,92,52,18,92,Alert,115,37.5,Albuterol,,114,88,Alert,No prior information,Routine awareness,Queued,2025-10-19T07:11:00+0000
+2025-10-07T06:15:00+0000,1,11,25,69,Female,Shortness of breath,99,112,63,20,92,Unresponsive,218,39.4,Pain medication,138,114,,Responds to voice,Uncertain,Preparation can wait,Queued,2025-10-11T09:43:00+0000
+2025-06-24T01:39:00+0000,1,0,22,30,Male,Seizure,61,175,119,19,87,Responds to pain,212,36.9,Midazolam,111,98,100,,No prior information,Routine awareness,Queued,2025-08-09T19:10:00+0000
+2025-06-17T08:50:00+0000,1,11,5,,Male,Abdominal pain,110,96,105,20,89,Confused,101,38.4,Nitroglycerin,101,161,94,Unresponsive,No prior information,Preparation can wait,Needs Review,2025-07-25T17:30:00+0000
+2025-11-06T09:41:00+0000,2,7,9,59,Female,Weakness with fever,71,198,107,21,89,Alert,112,37.0,Epinephrine,112,80,87,Responds to voice,Yes,Routine awareness,Queued,2025-12-13T17:46:00+0000
+2025-06-06T13:58:00+0000,2,12,16,91,Male,Abdominal pain,93,161,103,23,99,Alert,51,39.1,Midazolam,97,122,,Responds to pain,No,Preparation can wait,Queued,2025-08-23T15:58:00+0000
+2025-12-05T23:46:00+0000,1,6,26,39,Male,Shortness of breath,70,118,120,15,85,Responds to pain,62,38.6,IV fluids,86,182,91,,Yes,Preparation can wait,Needs Review,2026-01-09T11:28:00+0000
+2025-08-08T05:53:00+0000,1,11,3,42,Female,Weakness with fever,78,66,65,,80,Alert,120,39.8,,109,110,91,,No,Prepare now,Queued,2025-08-14T12:38:00+0000
+2025-12-03T12:11:00+0000,1,14,3,95,Male,Low blood sugar,64,98,49,19,97,Alert,234,38.3,Oxygen,96,103,99,Unresponsive,No prior information,Cannot assess,Needs Review,2025-12-21T00:37:00+0000
+2025-06-01T15:15:00+0000,1,3,30,76,,Weakness with fever,77,138,98,16,100,Alert,251,38.3,Diphenhydramine,87,171,93,Unresponsive,No,Cannot assess,Queued,2025-06-04T12:37:00+0000
+2025-04-17T20:07:00+0000,2,4,32,60,Male,Weakness with fever,88,160,120,9,96,Alert,,37.1,Oxygen,72,182,100,Alert,No,Preparation can wait,Queued,2025-05-13T15:12:00+0000
+2025-02-16T20:35:00+0000,2,11,15,31,Female,Allergic reaction,107,170,50,14,88,Alert,35,37.0,Nitroglycerin,84,167,90,Responds to pain,No prior information,Prepare now,Queued,2025-10-25T03:38:00+0000
+2025-10-23T07:22:00+0000,1,15,37,36,Female,Seizure,93,71,94,22,89,Responds to voice,112,37.0,Pain medication,113,134,96,Responds to pain,Uncertain,Prepare now,Queued,2025-09-21T00:50:00+0000
+2025-01-20T20:37:00+0000,1,10,45,89,Male,Motor vehicle collision,123,169,55,16,79,Unresponsive,64,37.7,Epinephrine,65,80,98,Responds to voice,No prior information,Preparation can wait,Needs Review,2025-01-19T19:24:00+0000
+2025-12-04T04:24:00+0000,1,6,31,50,Male,Abdominal pain,,73,122,28,89,Responds to pain,77,39.2,Albuterol,126,181,89,Unresponsive,Yes,Preparation can wait,Needs Review,2025-12-25T17:37:00+0000
+2025-06-25T01:56:00+0000,1,13,16,47,Male,Stroke symptoms,143,150,77,28,85,Alert,79,38.9,Pain medication,109,123,95,,No,Prepare now,Queued,2025-07-15T11:54:00+0000
+2025-10-02T15:09:00+0000,2,14,22,80,Male,Low blood sugar,81,125,50,15,90,Responds to pain,162,36.7,Nitroglycerin,104,131,99,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-11-09T08:25:00+0000
+2025-05-13T08:10:00+0000,2,7,43,61,Male,Weakness with fever,63,98,77,15,87,Unresponsive,110,38.3,Midazolam,76,88,97,,No,Prepare now,Queued,2025-03-02T09:23:00+0000
+2025-01-29T06:47:00+0000,1,13,19,28,,Fall,94,126,55,16,85,Responds to voice,165,39.8,Nitroglycerin,92,162,90,Responds to pain,Yes,Preparation can wait,Needs Review,2025-02-22T22:38:00+0000
+2025-08-28T19:41:00+0000,1,5,24,,Male,Fall,100,96,113,16,95,Alert,154,39.4,Glucose,103,119,82,Responds to voice,Uncertain,Cannot assess,Needs Review,2025-09-01T18:06:00+0000
+2025-05-19T10:20:00+0000,2,14,3,75,,Weakness with fever,,165,114,16,89,Responds to pain,56,37.7,Aspirin,128,85,82,Unresponsive,Uncertain,Preparation can wait,Queued,2025-06-15T19:26:00+0000
+2025-03-08T04:57:00+0000,2,15,29,57,,Low blood sugar,74,154,87,16,95,Confused,151,39.2,Oxygen,122,158,88,Responds to voice,Uncertain,Routine awareness,Queued,2025-03-17T01:40:00+0000
+2025-08-15T23:16:00+0000,2,10,32,24,,Seizure,57,143,71,29,80,Responds to voice,171,39.9,Epinephrine,77,146,94,Confused,No prior information,Prepare now,Queued,2025-08-24T16:08:00+0000
+2025-01-22T08:57:00+0000,2,15,15,64,,Chest discomfort,87,66,73,28,93,Responds to voice,238,38.7,Pain medication,72,93,92,,Yes,Prepare now,Queued,2025-02-03T00:59:00+0000
+2025-11-22T06:31:00+0000,1,11,32,,Female,Seizure,122,88,60,27,95,Alert,134,39.1,Albuterol,123,85,88,Responds to voice,No prior information,Preparation can wait,Queued,2025-11-25T15:16:00+0000
+2025-04-18T17:56:00+0000,2,3,20,60,Male,Allergic reaction,94,168,94,19,97,Responds to pain,134,38.3,Glucose,92,159,99,Unresponsive,No prior information,Prepare now,Queued,2025-12-04T14:51:00+0000
+2025-02-07T18:56:00+0000,2,5,23,84,,Altered mental status,97,153,98,19,80,Responds to voice,103,37.1,Nitroglycerin,146,175,96,Confused,No,Cannot assess,Queued,2025-03-22T08:35:00+0000
+2025-05-22T17:16:00+0000,2,7,27,64,,Allergic reaction,80,107,108,19,96,Responds to voice,63,39.4,,90,161,100,,No,Routine awareness,Queued,2025-06-02T12:04:00+0000
+2025-06-04T11:25:00+0000,1,5,13,38,,Stroke symptoms,71,70,53,15,91,Responds to voice,179,40.3,Glucose,87,85,94,Responds to voice,Uncertain,Prepare now,Queued,2025-06-20T01:27:00+0000
+2025-01-22T07:35:00+0000,1,12,32,48,Male,Allergic reaction,61,148,50,30,93,Responds to pain,151,39.7,Aspirin,118,120,94,Responds to voice,No prior information,Cannot assess,Queued,2025-08-19T04:47:00+0000
+2025-07-04T10:56:00+0000,1,5,39,39,,Shortness of breath,80,81,51,28,85,Confused,63,38.1,Albuterol,71,117,95,,Yes,Cannot assess,Needs Review,2025-08-12T11:45:00+0000
+2025-03-16T09:37:00+0000,1,4,13,46,,Allergic reaction,68,175,79,14,88,Confused,205,36.1,Epinephrine,76,118,95,Confused,Uncertain,Routine awareness,Needs Review,2025-02-23T04:17:00+0000
+2025-12-06T06:20:00+0000,1,3,34,98,,Seizure,58,174,106,29,88,Alert,130,37.8,Pain medication,,117,90,Unresponsive,Uncertain,Routine awareness,Needs Review,2025-05-14T16:52:00+0000
+2025-01-21T06:41:00+0000,2,11,36,84,Male,Chest discomfort,93,86,45,17,90,Responds to voice,163,37.3,Oxygen,60,133,93,Alert,No,Cannot assess,Needs Review,2025-02-04T04:44:00+0000
+2025-11-05T14:41:00+0000,1,7,29,86,Female,Stroke symptoms,134,102,124,15,93,Responds to voice,36,37.6,Oxygen,123,191,96,Confused,Yes,Cannot assess,Needs Review,2025-11-09T11:08:00+0000
+2025-11-27T10:14:00+0000,2,7,30,76,,Fall,78,109,100,21,86,Responds to voice,201,38.8,Pain medication,109,165,100,Responds to pain,No,Preparation can wait,Needs Review,2025-12-23T13:32:00+0000
+2025-03-22T23:36:00+0000,1,12,16,18,,Fall,97,163,106,20,89,Responds to pain,54,37.9,Diphenhydramine,87,129,99,,Yes,Preparation can wait,Queued,2025-04-20T06:30:00+0000
+2025-04-07T14:29:00+0000,2,0,37,30,Male,Stroke symptoms,85,81,54,14,94,Alert,203,38.7,Aspirin,91,142,97,Responds to voice,No prior information,Preparation can wait,Queued,2025-09-11T21:47:00+0000
+2025-08-11T04:52:00+0000,2,8,9,85,,Chest discomfort,100,178,114,33,,Responds to voice,222,37.6,Nitroglycerin,120,113,99,Responds to voice,Yes,Prepare now,Queued,2025-09-16T14:53:00+0000
+2025-06-14T09:17:00+0000,2,15,16,28,,Stroke symptoms,79,102,84,30,86,Alert,89,36.8,Glucose,100,89,96,Alert,Uncertain,Prepare now,Needs Review,2026-01-10T15:40:00+0000
+2025-01-30T23:45:00+0000,1,3,14,89,,Fall,73,71,102,22,85,Confused,218,39.1,Oxygen,138,117,99,Alert,Yes,Cannot assess,Needs Review,2025-05-29T19:07:00+0000
+2025-05-20T06:10:00+0000,1,4,33,44,,Shortness of breath,131,168,92,14,99,Responds to voice,233,38.9,Albuterol,93,93,,,No prior information,Routine awareness,Queued,2025-04-06T13:57:00+0000
+2025-07-21T19:44:00+0000,2,7,34,28,Female,Allergic reaction,116,119,79,27,86,Responds to voice,175,36.1,Glucose,93,166,94,,No prior information,Preparation can wait,Queued,2025-08-11T21:06:00+0000
+2025-08-03T07:11:00+0000,1,15,34,89,Female,Allergic reaction,122,75,110,18,97,Responds to voice,240,36.3,Oxygen,116,154,99,Responds to voice,No,Routine awareness,Queued,2025-10-26T15:53:00+0000
+2025-09-02T06:29:00+0000,2,8,12,51,Female,Fall,90,134,114,23,93,Unresponsive,40,38.0,Epinephrine,114,118,88,Alert,No,Routine awareness,Queued,2025-10-28T20:00:00+0000
+2025-07-22T16:22:00+0000,1,10,6,91,,Seizure,106,194,62,33,94,Confused,55,36.5,Glucose,103,164,92,Unresponsive,No prior information,Routine awareness,Queued,2025-08-22T19:21:00+0000
+2025-02-24T16:01:00+0000,2,13,14,76,,Shortness of breath,111,69,55,19,90,Confused,191,36.3,Pain medication,92,176,89,Unresponsive,Yes,Cannot assess,Needs Review,2025-03-12T18:24:00+0000
+2025-11-15T17:22:00+0000,2,6,12,47,Male,Altered mental status,102,184,103,19,88,Confused,27,39.6,Diphenhydramine,94,191,87,Unresponsive,Yes,Prepare now,Queued,2025-12-07T19:51:00+0000
+2025-08-01T21:42:00+0000,2,11,41,78,Female,Abdominal pain,64,107,60,28,86,Unresponsive,55,39.5,Midazolam,109,182,93,Alert,No,Cannot assess,Queued,2025-09-01T20:08:00+0000
+2025-01-22T18:17:00+0000,2,10,33,,Female,Chest discomfort,103,151,48,30,94,Responds to voice,107,39.1,Epinephrine,102,174,97,,Yes,Preparation can wait,Queued,2025-02-20T11:58:00+0000
+2025-01-03T10:54:00+0000,2,3,37,47,Female,Fall,94,117,75,25,97,Responds to voice,37,37.2,Albuterol,94,180,93,Responds to voice,Uncertain,Routine awareness,Queued,2025-02-03T23:02:00+0000
+2025-10-19T05:35:00+0000,1,7,22,97,,Seizure,57,101,123,10,90,Responds to voice,182,36.8,Midazolam,106,65,88,,No prior information,Cannot assess,Needs Review,2025-10-31T02:01:00+0000
+2025-11-26T04:31:00+0000,2,13,39,33,Male,Seizure,82,108,99,18,86,Unresponsive,150,39.6,,117,98,88,,Uncertain,Prepare now,Needs Review,2025-12-18T19:56:00+0000
+2025-01-20T05:50:00+0000,2,4,30,47,,Weakness with fever,,167,107,14,89,Responds to voice,198,36.5,Oxygen,110,90,87,Unresponsive,Yes,Preparation can wait,Queued,2025-02-03T22:18:00+0000
+2025-10-29T16:41:00+0000,1,7,4,55,,Weakness with fever,118,183,73,17,80,Responds to pain,53,37.1,Pain medication,105,147,95,Unresponsive,Uncertain,Cannot assess,Needs Review,2025-12-12T06:34:00+0000
+2025-10-16T06:41:00+0000,2,6,25,95,Male,Altered mental status,118,176,87,21,88,Unresponsive,114,39.0,Midazolam,109,100,97,Responds to pain,No prior information,Prepare now,Queued,2025-08-26T07:26:00+0000
+2025-03-14T18:07:00+0000,1,9,21,72,Male,Fall,94,85,49,13,90,Alert,132,36.8,,103,124,91,Alert,No prior information,Prepare now,Queued,2025-04-04T23:01:00+0000
+2025-12-24T18:26:00+0000,1,4,5,77,Female,Allergic reaction,99,73,69,30,97,Confused,227,,Diphenhydramine,151,134,100,,No prior information,Preparation can wait,Queued,2026-01-10T18:51:00+0000
+2025-08-05T07:41:00+0000,2,13,16,,Male,Stroke symptoms,97,121,82,,80,Responds to pain,30,36.6,IV fluids,107,122,88,Responds to pain,Yes,Prepare now,Queued,2025-09-09T17:23:00+0000
+2025-10-15T17:41:00+0000,1,6,6,85,,Shortness of breath,121,92,60,28,90,Responds to pain,227,38.8,Oxygen,77,127,94,Responds to pain,Yes,Prepare now,Needs Review,2025-11-10T11:06:00+0000
+2025-09-27T18:21:00+0000,2,12,10,64,Female,Fall,103,132,55,12,100,Alert,106,40.0,Midazolam,104,96,93,Confused,Yes,Cannot assess,Queued,2025-10-01T10:24:00+0000
+2025-06-01T04:43:00+0000,2,15,25,49,,Stroke symptoms,139,156,65,,80,Responds to voice,171,37.3,Glucose,98,130,82,Unresponsive,Uncertain,Preparation can wait,Needs Review,2025-07-05T16:15:00+0000
+2025-12-18T16:39:00+0000,2,4,19,57,,Seizure,97,126,103,11,85,Confused,44,36.6,Oxygen,75,169,95,Responds to pain,Yes,Preparation can wait,Needs Review,2026-01-02T22:27:00+0000
+2025-01-30T17:17:00+0000,1,10,22,38,Female,Stroke symptoms,95,114,112,23,99,Confused,182,38.0,Pain medication,,104,98,Confused,Uncertain,Preparation can wait,Queued,2025-02-23T19:49:00+0000
+2025-09-01T16:04:00+0000,1,7,40,,Female,Shortness of breath,91,170,81,13,93,Confused,149,37.6,Nitroglycerin,93,146,96,,No prior information,Cannot assess,Queued,2025-10-01T11:07:00+0000
+2025-10-27T21:56:00+0000,2,12,23,33,Female,Weakness with fever,88,107,123,21,96,Responds to voice,216,39.4,Aspirin,118,112,94,Unresponsive,No prior information,Preparation can wait,Queued,2025-11-07T16:01:00+0000
+2025-03-31T10:17:00+0000,2,7,4,83,Male,Weakness with fever,133,80,103,20,91,Unresponsive,141,36.3,Diphenhydramine,101,97,91,Confused,Uncertain,Preparation can wait,Queued,2025-05-11T18:32:00+0000
+2025-07-30T15:07:00+0000,1,9,4,65,Male,Low blood sugar,126,142,48,29,,Responds to pain,147,38.1,Oxygen,128,141,92,Responds to voice,No,Cannot assess,Needs Review,2025-06-21T20:49:00+0000
+2025-04-30T09:53:00+0000,2,11,39,70,Male,Fall,97,115,103,23,85,Confused,38,38.4,Aspirin,83,176,88,Responds to voice,Yes,Preparation can wait,Needs Review,2025-06-07T20:52:00+0000
+2025-02-06T01:23:00+0000,1,7,12,75,Female,Stroke symptoms,102,175,50,21,88,Unresponsive,192,38.5,Diphenhydramine,91,170,87,,No prior information,Routine awareness,Needs Review,2025-11-07T22:51:00+0000
+2025-04-19T21:52:00+0000,2,13,17,37,Female,Stroke symptoms,121,182,52,29,100,Confused,72,36.5,IV fluids,93,170,97,Unresponsive,Yes,Routine awareness,Needs Review,2025-05-04T15:04:00+0000
+2025-10-15T21:25:00+0000,2,14,29,81,,Altered mental status,71,151,61,27,79,Responds to voice,191,38.0,Pain medication,73,68,100,Responds to pain,No prior information,Preparation can wait,Needs Review,2025-10-26T21:19:00+0000
+2025-08-13T22:26:00+0000,2,13,8,,,Abdominal pain,58,126,103,12,98,Responds to pain,109,39.2,Albuterol,,174,99,Responds to voice,No,Routine awareness,Queued,2025-09-05T14:51:00+0000
+2025-09-22T07:47:00+0000,2,14,14,81,Male,Low blood sugar,102,86,67,23,94,Responds to pain,88,37.2,Midazolam,88,88,95,Responds to voice,No,Cannot assess,Needs Review,2025-10-04T04:59:00+0000
+2025-09-07T07:09:00+0000,2,10,28,89,Female,Allergic reaction,77,119,68,10,89,Alert,249,36.6,Glucose,67,116,93,,Yes,Prepare now,Queued,2025-09-06T08:55:00+0000
+2025-07-13T21:11:00+0000,2,5,27,19,Male,Low blood sugar,121,130,77,,96,Confused,113,39.4,IV fluids,110,97,99,Confused,No,Prepare now,Queued,2025-07-24T06:05:00+0000
+2025-06-07T12:04:00+0000,1,0,40,71,,Altered mental status,108,164,112,23,93,Confused,234,39.0,Albuterol,,,,,No prior information,Prepare now,Queued,2025-06-28T12:53:00+0000
+2025-12-23T07:34:00+0000,1,5,45,95,,Seizure,131,89,116,27,100,Responds to pain,75,39.9,Pain medication,110,190,94,Responds to voice,No prior information,Preparation can wait,Needs Review,2025-09-14T17:57:00+0000
+2025-04-09T12:13:00+0000,2,9,45,78,,Shortness of breath,109,92,76,10,85,Alert,30,36.7,Aspirin,123,116,82,Unresponsive,No,Routine awareness,Needs Review,2025-05-23T20:54:00+0000
+2025-05-05T16:43:00+0000,2,6,25,42,,Chest discomfort,110,101,116,24,85,Unresponsive,237,36.1,Epinephrine,98,169,97,Responds to voice,Yes,Cannot assess,Needs Review,2025-05-10T05:10:00+0000
+2025-12-19T21:23:00+0000,2,10,28,51,Male,Altered mental status,139,156,84,9,100,Responds to voice,56,39.4,Glucose,108,143,93,Confused,No prior information,Prepare now,Queued,2025-04-05T07:11:00+0000
+2025-03-24T17:20:00+0000,2,4,38,92,Female,Motor vehicle collision,80,147,82,24,93,Alert,200,38.3,,129,97,100,Confused,No prior information,Prepare now,Queued,2025-05-01T00:05:00+0000
+2025-03-19T19:50:00+0000,1,11,38,28,,Shortness of breath,81,150,90,23,87,Alert,129,37.1,Epinephrine,74,139,82,,No,Routine awareness,Queued,2025-07-26T04:48:00+0000
+2025-02-25T20:29:00+0000,1,0,40,45,Male,Chest discomfort,123,87,72,33,80,Confused,169,39.7,,98,123,87,Responds to voice,No prior information,Preparation can wait,Queued,2025-03-29T20:06:00+0000
+2025-04-19T13:01:00+0000,2,14,17,70,,Chest discomfort,123,195,63,16,94,Responds to voice,165,38.8,IV fluids,112,161,98,,Yes,Cannot assess,Needs Review,2025-05-27T22:52:00+0000
+2025-02-10T18:02:00+0000,1,9,20,85,,Abdominal pain,66,99,52,23,90,Unresponsive,247,37.4,Pain medication,92,143,95,Responds to pain,No prior information,Prepare now,Queued,2025-02-28T06:59:00+0000
+2025-08-15T08:50:00+0000,1,9,12,72,Female,Motor vehicle collision,73,127,61,26,94,Confused,58,38.3,Diphenhydramine,138,101,100,Unresponsive,Uncertain,Routine awareness,Queued,2025-06-02T02:48:00+0000
+2025-07-20T16:36:00+0000,1,0,41,35,Female,Fall,134,131,113,11,98,Responds to voice,148,38.6,Epinephrine,59,102,,Responds to voice,No prior information,Cannot assess,Queued,2025-08-09T09:25:00+0000
+2025-09-08T20:48:00+0000,2,6,16,20,Female,Motor vehicle collision,102,194,40,22,99,Responds to voice,38,,Nitroglycerin,85,161,98,Responds to voice,Yes,Preparation can wait,Queued,2025-09-17T02:49:00+0000
+2025-06-28T14:10:00+0000,1,15,13,18,Female,Weakness with fever,57,182,76,27,89,Alert,71,38.0,Nitroglycerin,120,162,,Confused,Uncertain,Preparation can wait,Needs Review,2025-07-20T21:17:00+0000
+2025-03-05T19:22:00+0000,2,15,8,18,,Chest discomfort,61,150,93,15,88,Responds to pain,72,36.3,Oxygen,116,97,93,Alert,No,Cannot assess,Queued,2025-07-18T07:39:00+0000
+2025-03-09T23:40:00+0000,2,14,9,36,Female,Abdominal pain,109,119,118,28,98,Responds to pain,169,40.3,Pain medication,89,176,88,,Yes,Routine awareness,Queued,2025-03-19T02:42:00+0000
+2025-08-01T00:17:00+0000,2,7,28,45,Female,Stroke symptoms,105,72,63,20,92,Unresponsive,239,37.6,Albuterol,90,120,99,Confused,No prior information,Cannot assess,Needs Review,2025-08-14T15:53:00+0000
+2025-06-23T16:50:00+0000,2,5,21,78,Female,Weakness with fever,82,173,112,21,96,Responds to pain,135,39.1,,67,84,86,Responds to pain,Yes,Cannot assess,Needs Review,2025-08-04T15:29:00+0000
+2025-07-16T08:33:00+0000,1,8,23,80,,Low blood sugar,102,161,76,27,95,Alert,72,39.8,Albuterol,96,141,87,Alert,Uncertain,Preparation can wait,Queued,2025-08-05T15:56:00+0000
+2025-07-13T04:20:00+0000,1,8,19,91,,Shortness of breath,134,97,116,26,100,Alert,102,37.0,Diphenhydramine,103,165,97,,Yes,Routine awareness,Queued,2025-06-03T19:33:00+0000
+2025-01-03T08:37:00+0000,2,15,6,47,Male,Shortness of breath,77,197,105,18,91,Alert,136,37.3,Oxygen,104,100,92,Alert,No,Prepare now,Queued,2025-02-03T12:50:00+0000
+2025-11-27T00:00:00+0000,2,4,15,72,Female,Chest discomfort,133,124,96,25,95,Alert,161,39.6,Albuterol,109,148,99,Responds to voice,Yes,Routine awareness,Queued,2025-12-25T00:55:00+0000
+2025-06-21T08:47:00+0000,2,8,26,74,,Shortness of breath,131,108,101,24,96,Responds to pain,101,40.3,Epinephrine,78,125,88,Unresponsive,Uncertain,Routine awareness,Queued,2025-06-26T21:43:00+0000
+2025-07-09T10:39:00+0000,1,13,16,94,,Seizure,99,113,86,27,86,Confused,68,38.6,Glucose,82,180,99,Responds to pain,Yes,Cannot assess,Queued,2025-08-10T19:42:00+0000
+2025-07-05T13:45:00+0000,2,14,24,82,Male,Shortness of breath,79,66,51,12,96,Alert,220,36.8,IV fluids,146,119,82,Confused,Uncertain,Cannot assess,Needs Review,2025-07-28T13:04:00+0000
+2025-11-29T16:09:00+0000,1,10,34,91,,Altered mental status,104,69,84,11,85,Confused,215,39.1,Oxygen,71,155,98,Alert,Yes,Routine awareness,Queued,2025-12-12T09:15:00+0000
+2025-10-06T23:17:00+0000,2,10,12,31,Male,Abdominal pain,101,164,118,30,89,Responds to pain,50,38.8,Oxygen,92,104,88,Responds to voice,Yes,Preparation can wait,Queued,2025-10-19T22:43:00+0000
+2025-12-15T15:54:00+0000,2,9,10,71,Female,Shortness of breath,97,195,86,28,80,Confused,191,37.3,Albuterol,84,136,82,Responds to pain,No,Cannot assess,Needs Review,2026-01-05T06:25:00+0000
+2025-05-06T22:47:00+0000,1,11,7,80,,Weakness with fever,112,181,61,15,87,Responds to voice,219,37.0,Glucose,99,84,100,Confused,No prior information,Routine awareness,Queued,2025-02-18T14:22:00+0000
+2025-08-17T03:39:00+0000,2,9,41,24,,Weakness with fever,57,175,116,27,97,Responds to pain,30,36.6,Pain medication,104,153,100,Alert,No,Routine awareness,Queued,2025-09-21T00:27:00+0000
+2025-07-30T23:28:00+0000,1,4,35,57,Female,Weakness with fever,,110,116,13,79,Alert,133,36.3,Glucose,84,96,95,,No prior information,Cannot assess,Needs Review,2025-09-09T09:33:00+0000
+2025-11-17T12:08:00+0000,2,5,28,80,Male,Fall,85,157,100,26,99,Unresponsive,227,39.7,Epinephrine,151,110,98,Alert,No,Preparation can wait,Queued,2025-12-17T05:26:00+0000
+2025-11-15T09:26:00+0000,1,12,9,26,Female,Fall,62,117,120,33,79,Responds to voice,138,36.9,Diphenhydramine,107,147,99,Confused,Yes,Cannot assess,Needs Review,2025-12-08T16:53:00+0000
+2025-05-19T23:19:00+0000,2,6,20,83,,Weakness with fever,139,129,120,16,89,Confused,214,36.9,Epinephrine,99,115,92,Alert,Yes,Routine awareness,Queued,2025-05-24T11:41:00+0000
+2025-03-27T03:06:00+0000,2,9,38,54,,Low blood sugar,113,84,101,13,89,Responds to pain,33,38.4,Diphenhydramine,99,110,96,Responds to pain,Yes,Cannot assess,Queued,2025-05-04T18:24:00+0000
+2025-04-13T00:07:00+0000,2,14,38,73,Female,Fall,86,193,,25,95,Responds to pain,76,39.5,Glucose,93,157,99,Responds to pain,No prior information,Prepare now,Queued,2025-05-10T23:13:00+0000
+2025-07-10T21:11:00+0000,1,13,29,18,Female,Seizure,66,71,104,15,93,Alert,150,38.9,Aspirin,58,171,97,Responds to pain,No,Routine awareness,Queued,2025-08-10T17:22:00+0000
+2025-07-26T03:07:00+0000,2,12,9,,Male,Allergic reaction,135,132,100,25,91,Responds to voice,166,38.4,Albuterol,100,181,93,,No,Cannot assess,Needs Review,2025-08-19T18:24:00+0000
+2025-06-25T01:21:00+0000,1,5,36,55,Female,Fall,126,185,96,27,97,Confused,101,36.4,Epinephrine,115,132,93,Unresponsive,No,Preparation can wait,Queued,2025-07-31T02:46:00+0000
+2025-08-23T16:42:00+0000,2,7,3,75,,Seizure,72,131,90,25,88,Unresponsive,,37.0,Oxygen,76,129,97,Responds to voice,Yes,Prepare now,Queued,2025-08-12T16:56:00+0000
+2025-10-30T14:52:00+0000,1,5,29,19,Female,Allergic reaction,102,137,51,23,96,Confused,193,39.5,IV fluids,84,108,88,Unresponsive,No,Prepare now,Queued,2025-09-22T09:55:00+0000
+2025-04-01T03:51:00+0000,2,13,14,68,Female,Stroke symptoms,126,135,40,19,90,Responds to voice,35,39.8,Epinephrine,62,102,,Confused,Yes,Routine awareness,Needs Review,2025-01-28T14:47:00+0000
+2025-10-06T20:12:00+0000,2,9,45,27,Male,Shortness of breath,115,179,109,10,99,Alert,123,35.9,Midazolam,85,142,90,Confused,No,Prepare now,Queued,2025-10-14T22:20:00+0000
+2025-03-31T21:33:00+0000,1,11,25,88,,Altered mental status,104,145,81,22,97,Confused,35,39.2,Oxygen,83,184,88,Responds to voice,No prior information,Cannot assess,Needs Review,2025-08-04T22:34:00+0000
+2025-02-09T15:26:00+0000,2,8,45,73,Male,Abdominal pain,67,73,125,11,94,Confused,34,37.0,Midazolam,113,94,94,Alert,Yes,Preparation can wait,Queued,2025-09-05T15:06:00+0000
+2025-09-12T03:47:00+0000,1,15,41,63,Female,Motor vehicle collision,64,158,106,24,90,Responds to pain,109,38.1,Epinephrine,131,181,93,Alert,Yes,Cannot assess,Needs Review,2025-09-21T18:09:00+0000
+2025-04-17T02:01:00+0000,2,10,12,83,Male,Low blood sugar,98,85,63,18,100,Unresponsive,168,37.0,Pain medication,132,167,,,No prior information,Cannot assess,Queued,2025-05-16T16:30:00+0000
+2025-06-09T03:51:00+0000,2,6,12,33,,Low blood sugar,112,143,108,28,,Responds to voice,225,38.0,IV fluids,118,139,98,Responds to pain,No prior information,Cannot assess,Needs Review,2026-01-26T05:05:00+0000
+2025-08-16T21:26:00+0000,2,13,27,38,Male,Abdominal pain,101,121,84,18,85,Responds to voice,115,,Midazolam,83,179,96,Responds to voice,No,Routine awareness,Needs Review,2025-09-06T02:01:00+0000
+2025-12-01T00:38:00+0000,2,4,11,74,,Abdominal pain,113,193,49,11,96,Confused,204,38.5,Diphenhydramine,100,152,87,Confused,Yes,Prepare now,Queued,2026-01-02T07:59:00+0000
+2025-06-01T23:35:00+0000,2,0,4,20,Male,Abdominal pain,58,108,80,25,80,Responds to voice,233,37.1,Midazolam,123,132,97,Confused,Yes,Cannot assess,Needs Review,2025-06-17T01:11:00+0000
