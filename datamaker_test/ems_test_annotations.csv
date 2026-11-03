@@ -1,0 +1,1001 @@
+case_id,report_time_utc,update_number,elapsed_minutes,eta_minutes,age,sex,chief_complaint,heart_rate,systolic_bp,diastolic_bp,resp_rate,spo2_pct,mental_status,glucose_mg_dl,temp_c,intervention,prior_heart_rate,prior_systolic_bp,prior_spo2_pct,prior_mental_status,meaningful_change,attention_category,app_case_status,reviewer_id,reviewed_at_utc
+SYN0001,2025-08-28T19:12:00Z,2,12,8,64,Female,Chest discomfort,81,149,84,,97,Alert,,,None,86,,,Alert,No,Preparation can wait,Queued,REV03,2025-09-06T03:47:00Z
+SYN0002,2025-05-16T13:35:00Z,2,11,8,52,Female,Shortness of breath,95,150,97,20,93,Confused,,,Albuterol,105,,90,Responds to voice,Yes,Preparation can wait,Queued,REV01,2025-06-03T14:39:00Z
+SYN0003,2025-04-18T15:31:00Z,1,0,6,54,Female,Allergic reaction,116,122,78,,95,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV01,2025-05-23T23:05:00Z
+SYN0004,2025-05-20T03:58:00Z,1,0,15,60,Female,Abdominal pain,101,130,83,18,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-06-27T07:47:00Z
+SYN0005,2025-01-19T18:39:00Z,1,0,13,73,Female,Weakness with fever,101,136,82,17,93,Responds to voice,126,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-02-21T03:36:00Z
+SYN0006,2025-04-15T17:39:00Z,1,0,7,56,Male,Altered mental status,100,132,79,23,88,Unresponsive,126,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-05-22T20:27:00Z
+SYN0007,2025-05-21T03:25:00Z,1,0,8,42,Male,Altered mental status,70,,,13,96,Confused,57,37.0,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-06-25T05:40:00Z
+SYN0008,2025-05-12T05:42:00Z,1,0,7,58,Female,Altered mental status,99,111,71,25,91,Responds to pain,51,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-05-20T05:49:00Z
+SYN0009,2025-03-24T03:59:00Z,2,10,19,71,Female,Fall,100,145,97,17,97,Alert,112,,Pain medication,90,136,,Alert,No,Routine awareness,Queued,REV02,2025-04-10T04:53:00Z
+SYN0010,2025-07-11T21:32:00Z,2,13,12,61,Female,Chest discomfort,,150,83,15,95,Alert,,,Nitroglycerin,89,164,95,Alert,No,Preparation can wait,Queued,REV03,2025-07-28T06:28:00Z
+SYN0011,2025-06-02T13:23:00Z,1,0,16,57,,Low blood sugar,79,132,78,,96,Responds to voice,35,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-06-28T18:41:00Z
+SYN0012,2025-02-01T07:52:00Z,1,0,27,72,Male,Weakness with fever,85,148,82,14,97,Alert,,38.6,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-02-26T13:38:00Z
+SYN0013,2025-06-13T14:33:00Z,1,0,22,51,Female,Shortness of breath,104,144,90,25,,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-26T23:49:00Z
+SYN0014,2025-10-14T07:57:00Z,1,0,12,51,Male,Shortness of breath,88,139,78,22,95,Alert,119,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-17T17:49:00Z
+SYN0015,2025-08-18T02:22:00Z,1,0,8,68,Female,Chest discomfort,88,155,98,19,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-12T07:34:00Z
+SYN0016,2025-09-08T22:31:00Z,1,0,21,53,Male,Chest discomfort,95,132,76,18,96,Alert,134,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-17T06:47:00Z
+SYN0017,2025-08-24T21:16:00Z,1,0,8,53,Male,Stroke symptoms,85,156,96,16,97,Alert,123,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-08-30T00:57:00Z
+SYN0018,2025-05-29T03:41:00Z,2,6,10,59,Male,Weakness with fever,101,109,64,20,96,Alert,,39.1,None,96,110,97,Alert,No,Preparation can wait,Queued,REV03,2025-07-01T08:04:00Z
+SYN0019,2025-08-31T00:18:00Z,1,0,21,,Female,Shortness of breath,117,122,80,23,92,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-17T03:50:00Z
+SYN0020,2025-07-14T13:18:00Z,1,0,8,58,Female,Chest discomfort,99,169,109,16,99,Alert,,,Nitroglycerin,,,,,No prior information,Routine awareness,Queued,REV03,2025-08-20T16:10:00Z
+SYN0021,2025-12-19T22:17:00Z,1,0,20,65,Female,Altered mental status,109,,,,92,Responds to voice,95,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV01,2026-01-14T00:21:00Z
+SYN0022,2025-04-16T14:36:00Z,2,10,9,87,Male,Fall,84,138,77,20,94,Alert,,,None,85,,95,Alert,Uncertain,Routine awareness,Queued,REV02,2025-05-20T20:55:00Z
+SYN0023,2025-04-25T00:26:00Z,1,0,19,,Female,Allergic reaction,86,142,87,,96,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV04,2025-05-17T10:18:00Z
+SYN0024,2025-05-02T18:37:00Z,1,0,23,82,Female,Fall,77,132,74,23,95,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-05-16T19:39:00Z
+SYN0025,2025-11-28T20:12:00Z,1,0,23,45,Female,Motor vehicle collision,,,,24,,Alert,,,None,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-12-22T03:17:00Z
+SYN0026,2025-01-17T15:35:00Z,1,0,10,71,Female,Shortness of breath,88,136,86,18,92,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-01-30T16:35:00Z
+SYN0027,2025-06-03T10:44:00Z,2,13,16,91,Female,Fall,98,,,18,97,Alert,79,,Pain medication,106,155,95,Alert,No,Routine awareness,Queued,REV04,2025-06-07T13:03:00Z
+SYN0028,2025-07-30T13:23:00Z,1,0,10,73,Male,Weakness with fever,,103,67,24,93,Responds to voice,117,39.4,IV fluids,,,,,No prior information,Routine awareness,Queued,REV03,2025-09-04T14:19:00Z
+SYN0029,2025-10-13T14:15:00Z,1,0,11,76,Male,Stroke symptoms,95,146,96,17,94,Alert,105,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-11-16T14:25:00Z
+SYN0030,2025-06-17T23:31:00Z,2,3,12,64,Male,Shortness of breath,95,125,83,23,95,Alert,,,Oxygen,99,122,91,Responds to voice,Uncertain,Preparation can wait,Queued,REV03,2025-07-05T07:00:00Z
+SYN0031,2025-09-27T08:05:00Z,2,11,19,81,Female,Shortness of breath,90,143,85,20,93,Alert,169,,Albuterol,88,137,95,Alert,No,Preparation can wait,Queued,REV03,2025-10-22T09:25:00Z
+SYN0032,2025-04-28T01:47:00Z,1,0,9,70,Male,Low blood sugar,97,124,81,15,97,Alert,44,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-06-07T11:03:00Z
+SYN0033,2025-02-14T19:13:00Z,1,0,34,62,Female,Allergic reaction,100,115,69,24,95,Alert,,36.8,Epinephrine,,,,,No prior information,Prepare now,Queued,REV02,2025-02-25T01:36:00Z
+SYN0034,2025-11-08T07:12:00Z,1,0,15,68,Male,Fall,99,127,79,,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-18T15:48:00Z
+SYN0035,2025-02-04T05:30:00Z,2,10,17,74,Female,Abdominal pain,84,146,85,17,96,Alert,136,,Pain medication,100,129,95,Alert,Yes,Routine awareness,Queued,REV01,2025-02-19T09:29:00Z
+SYN0036,2025-10-09T05:26:00Z,1,0,29,65,Female,Shortness of breath,87,134,80,24,91,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV04,2025-10-29T11:33:00Z
+SYN0037,2025-03-18T08:27:00Z,1,0,20,37,Female,Allergic reaction,92,,,17,,Alert,,,Epinephrine,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-04-02T09:40:00Z
+SYN0038,2025-01-06T21:38:00Z,1,0,22,67,,Stroke symptoms,76,166,102,17,95,Alert,121,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-02-04T07:03:00Z
+SYN0039,2025-06-30T14:49:00Z,2,3,17,54,Female,Altered mental status,69,133,81,17,99,Confused,154,,None,60,,99,Alert,Yes,Preparation can wait,Queued,REV04,2025-08-08T22:35:00Z
+SYN0040,2025-11-22T07:08:00Z,1,0,7,65,,Shortness of breath,99,120,70,17,96,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV03,2025-12-18T14:19:00Z
+SYN0041,2025-04-24T10:54:00Z,1,0,7,,,Stroke symptoms,96,191,118,18,100,Alert,179,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-05T17:20:00Z
+SYN0042,2025-11-30T12:47:00Z,1,0,8,48,Female,Altered mental status,99,150,98,12,96,Confused,,,Glucose,,,,,No prior information,Routine awareness,Queued,REV02,2025-12-12T19:44:00Z
+SYN0043,2025-05-10T21:49:00Z,2,3,8,71,Female,Chest discomfort,98,154,92,12,97,Alert,,,Aspirin,104,151,95,Alert,No,Preparation can wait,Queued,REV01,2025-05-28T01:46:00Z
+SYN0044,2025-08-17T17:26:00Z,2,5,32,45,Female,Altered mental status,95,144,82,15,98,Confused,157,,None,93,147,97,Confused,No,Preparation can wait,Queued,REV04,2025-09-13T02:19:00Z
+SYN0045,2025-12-15T13:17:00Z,2,9,23,69,Female,Fall,93,164,91,21,94,Alert,,,Pain medication,94,153,93,Alert,No,Routine awareness,Queued,REV03,2026-01-12T16:13:00Z
+SYN0046,2025-08-05T11:18:00Z,1,0,7,,Male,Chest discomfort,97,141,88,17,95,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV01,2025-09-06T13:19:00Z
+SYN0047,2025-10-20T02:00:00Z,1,0,18,18,Male,Abdominal pain,89,89,57,19,95,Alert,,,IV fluids,,,,,No prior information,Prepare now,Queued,REV04,2025-10-28T02:16:00Z
+SYN0048,2025-07-10T03:30:00Z,2,10,27,,,Abdominal pain,84,100,62,19,95,Alert,132,,None,81,94,96,Alert,No,Routine awareness,Queued,REV04,2025-08-16T05:19:00Z
+SYN0049,2025-09-27T21:07:00Z,2,13,32,53,Female,Altered mental status,86,127,86,23,97,Confused,80,,Glucose,96,131,95,Responds to voice,Yes,Preparation can wait,Queued,REV04,2025-10-27T23:18:00Z
+SYN0050,2025-03-25T14:23:00Z,2,8,24,33,Female,Motor vehicle collision,78,127,76,18,97,Confused,,,IV fluids,79,130,96,Confused,Uncertain,Preparation can wait,Queued,REV04,2025-04-22T14:31:00Z
+SYN0051,2025-12-24T18:18:00Z,1,0,20,57,Female,Fall,93,158,96,19,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2026-01-16T01:44:00Z
+SYN0052,2025-05-22T10:53:00Z,1,0,18,62,Female,Low blood sugar,91,141,79,13,95,Alert,33,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-06-15T14:29:00Z
+SYN0053,2025-08-02T19:51:00Z,2,4,13,,Female,Chest discomfort,94,168,113,,95,Alert,,,Aspirin,94,166,95,Alert,No,Preparation can wait,Queued,REV02,2025-08-16T05:27:00Z
+SYN0054,2025-05-18T13:14:00Z,1,0,6,,Female,Shortness of breath,91,141,77,18,92,Responds to voice,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV01,2025-06-08T17:25:00Z
+SYN0055,2025-11-02T19:05:00Z,1,0,8,80,Male,Stroke symptoms,85,140,82,20,94,Alert,85,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-11-28T19:58:00Z
+SYN0056,2025-09-21T07:38:00Z,1,0,14,53,,Motor vehicle collision,72,141,86,18,98,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-10-04T08:44:00Z
+SYN0057,2025-01-13T06:54:00Z,2,6,18,18,Male,Seizure,111,115,68,22,92,Responds to pain,75,37.0,Midazolam,104,118,95,Responds to voice,Yes,Prepare now,Queued,REV02,2025-02-20T16:20:00Z
+SYN0058,2025-11-16T12:26:00Z,1,0,14,83,Female,Weakness with fever,109,,,13,,Alert,124,38.9,None,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-11-26T20:16:00Z
+SYN0059,2025-04-27T18:47:00Z,1,0,18,18,Male,Seizure,95,120,74,12,96,Alert,125,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-06-04T01:07:00Z
+SYN0060,2025-08-13T17:49:00Z,1,0,31,56,Female,Shortness of breath,104,155,102,24,96,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-22T21:52:00Z
+SYN0061,2025-08-17T22:45:00Z,2,15,16,,Female,Abdominal pain,83,104,65,18,97,Alert,,,None,82,105,97,Alert,No,Routine awareness,Queued,REV01,2025-08-25T06:09:00Z
+SYN0062,2025-03-22T19:28:00Z,2,12,21,18,Female,Motor vehicle collision,94,106,67,20,,Responds to voice,,,IV fluids,100,104,98,Responds to voice,No,Preparation can wait,Queued,REV02,2025-04-22T00:13:00Z
+SYN0063,2025-04-26T21:19:00Z,2,9,13,73,Female,Fall,83,142,96,,96,Alert,,,Pain medication,82,146,96,Alert,No,Routine awareness,Queued,REV04,2025-05-12T00:02:00Z
+SYN0064,2025-01-01T02:29:00Z,1,0,23,37,Male,Seizure,97,,,16,,Alert,31,,Midazolam,,,,,No prior information,Prepare now,Queued,REV03,2025-01-11T08:45:00Z
+SYN0065,2025-06-19T08:53:00Z,1,0,10,18,Male,Seizure,95,108,67,19,92,Alert,224,,Midazolam,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-27T11:03:00Z
+SYN0066,2025-10-11T17:49:00Z,1,0,14,47,Male,Chest discomfort,89,147,86,22,97,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-16T03:45:00Z
+SYN0067,2025-04-01T01:48:00Z,1,0,6,69,Male,Altered mental status,82,118,77,18,97,Confused,129,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-05-09T04:33:00Z
+SYN0068,2025-09-09T03:08:00Z,1,0,13,18,Female,Seizure,83,137,77,24,92,Unresponsive,161,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-09-13T10:10:00Z
+SYN0069,2025-04-22T14:39:00Z,1,0,25,79,Female,Shortness of breath,105,140,86,14,94,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV01,2025-05-09T22:29:00Z
+SYN0070,2025-11-01T09:01:00Z,2,7,15,48,Female,Shortness of breath,97,157,90,17,92,Alert,,,Oxygen,99,153,92,Alert,No,Routine awareness,Queued,REV04,2025-12-09T09:52:00Z
+SYN0071,2025-12-25T15:59:00Z,2,9,13,61,Male,Weakness with fever,120,66,42,16,92,Responds to pain,,39.2,IV fluids,105,89,96,Responds to voice,Uncertain,Prepare now,Queued,REV02,2026-01-14T22:36:00Z
+SYN0072,2025-02-09T18:16:00Z,1,0,12,78,Female,Chest discomfort,96,,,,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-03-06T19:57:00Z
+SYN0073,2025-07-03T12:30:00Z,2,11,12,76,Female,Chest discomfort,76,153,90,17,98,Alert,,,Aspirin,74,149,97,Alert,No,Preparation can wait,Queued,REV01,2025-07-23T15:00:00Z
+SYN0074,2025-08-08T01:48:00Z,2,14,18,65,Male,Weakness with fever,88,118,78,18,,Alert,98,38.1,None,85,121,95,Alert,No,Routine awareness,Queued,REV04,2025-08-31T10:28:00Z
+SYN0075,2025-11-03T04:42:00Z,1,0,14,85,,Altered mental status,98,130,79,15,96,Alert,137,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-28T08:06:00Z
+SYN0076,2025-04-30T01:00:00Z,1,0,10,45,Female,Motor vehicle collision,61,126,82,,,Responds to voice,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-09T02:36:00Z
+SYN0077,2025-03-25T12:15:00Z,1,0,7,66,Female,Shortness of breath,83,153,98,20,95,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV02,2025-04-03T19:19:00Z
+SYN0078,2025-07-16T16:03:00Z,1,0,15,91,Female,Fall,91,154,92,13,,Alert,140,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-08-17T18:48:00Z
+SYN0079,2025-07-23T08:34:00Z,1,0,9,85,Male,Weakness with fever,103,93,52,18,95,Alert,126,38.4,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-08-25T13:20:00Z
+SYN0080,2025-10-22T07:02:00Z,2,13,21,,Female,Altered mental status,100,140,91,22,94,Responds to voice,106,37.3,None,94,136,95,Confused,Yes,Preparation can wait,Queued,REV04,2025-11-21T10:50:00Z
+SYN0081,2025-11-07T09:44:00Z,1,0,10,,Female,Altered mental status,88,120,66,15,96,Responds to voice,92,36.7,Glucose,,,,,No prior information,Preparation can wait,Queued,REV04,2025-12-15T10:33:00Z
+SYN0082,2025-02-13T02:10:00Z,2,5,16,64,Female,Abdominal pain,95,,,15,,Alert,,,None,107,127,95,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-03-25T02:29:00Z
+SYN0083,2025-05-31T16:07:00Z,2,8,6,,,Stroke symptoms,92,169,95,14,,Responds to pain,135,,None,83,175,97,Responds to voice,Yes,Prepare now,Queued,REV03,2025-07-04T00:07:00Z
+SYN0084,2025-01-20T00:38:00Z,1,0,11,25,Female,Allergic reaction,94,,,12,,Responds to voice,,,Epinephrine,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-02-11T08:26:00Z
+SYN0085,2025-04-04T11:51:00Z,2,7,13,59,Male,Shortness of breath,121,142,93,18,96,Alert,,,Oxygen,115,,95,Alert,No,Preparation can wait,Queued,REV01,2025-04-30T21:04:00Z
+SYN0086,2025-11-18T11:29:00Z,2,12,9,,Female,Stroke symptoms,87,167,105,18,95,Responds to voice,151,,None,87,174,94,Responds to voice,No,Prepare now,Queued,REV01,2025-12-06T17:57:00Z
+SYN0087,2025-08-02T05:23:00Z,2,13,24,45,Female,Seizure,76,126,83,14,96,Alert,92,,None,73,130,96,Alert,No,Routine awareness,Queued,REV01,2025-08-21T12:26:00Z
+SYN0088,2025-07-26T20:34:00Z,2,12,11,40,Male,Seizure,98,120,79,16,97,Alert,115,,None,95,117,97,Alert,No,Routine awareness,Queued,REV03,2025-08-11T23:38:00Z
+SYN0089,2025-06-15T17:18:00Z,2,6,26,73,Female,Fall,109,171,106,30,90,Alert,135,,None,109,,91,Alert,Uncertain,Prepare now,Queued,REV03,2025-06-20T20:45:00Z
+SYN0090,2025-10-25T15:15:00Z,1,0,16,74,Female,Fall,88,140,77,,97,Alert,139,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-29T18:00:00Z
+SYN0091,2025-06-17T04:48:00Z,1,0,8,,Female,Motor vehicle collision,99,119,79,19,97,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV01,2025-07-24T14:45:00Z
+SYN0092,2025-02-24T12:00:00Z,2,11,32,88,Male,Shortness of breath,99,133,87,24,95,Alert,,,Albuterol,95,125,96,Alert,No,Preparation can wait,Queued,REV04,2025-03-14T16:33:00Z
+SYN0093,2025-09-06T03:41:00Z,1,0,28,54,Female,Shortness of breath,87,117,66,25,94,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV03,2025-10-06T05:17:00Z
+SYN0094,2025-12-24T10:53:00Z,2,4,10,63,Female,Weakness with fever,70,127,77,17,96,Alert,,39.9,IV fluids,73,126,96,Alert,No,Preparation can wait,Queued,REV02,2025-12-29T14:52:00Z
+SYN0095,2025-04-26T12:20:00Z,1,0,16,55,Male,Allergic reaction,,,,16,,Alert,130,,Epinephrine,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-05-26T16:37:00Z
+SYN0096,2025-01-02T08:01:00Z,1,0,14,43,Male,Abdominal pain,79,,,14,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-02-06T16:09:00Z
+SYN0097,2025-12-25T16:42:00Z,1,0,10,50,Female,Shortness of breath,95,163,110,26,93,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV04,2026-01-31T18:33:00Z
+SYN0098,2025-11-03T15:25:00Z,1,0,8,75,,Shortness of breath,101,144,83,,,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-11T18:51:00Z
+SYN0099,2025-06-27T21:19:00Z,2,9,17,73,Female,Weakness with fever,78,98,54,15,96,Confused,,40.0,IV fluids,88,97,96,Confused,No,Preparation can wait,Queued,REV03,2025-07-30T23:39:00Z
+SYN0100,2025-08-10T17:19:00Z,2,15,29,95,Female,Altered mental status,,,,,,Responds to voice,148,36.1,Glucose,99,143,93,Responds to voice,Uncertain,Cannot assess,Needs Review,REV04,2025-09-11T19:38:00Z
+SYN0101,2025-11-05T16:35:00Z,2,3,11,18,Male,Motor vehicle collision,85,98,63,,96,Alert,,,IV fluids,85,104,95,Alert,No,Routine awareness,Queued,REV04,2025-12-06T00:00:00Z
+SYN0102,2025-04-07T12:38:00Z,1,0,20,60,Female,Abdominal pain,92,122,70,,94,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-04-30T13:22:00Z
+SYN0103,2025-11-05T23:47:00Z,2,3,20,18,Male,Seizure,72,128,81,10,96,Confused,123,,Midazolam,77,119,96,Confused,No,Preparation can wait,Queued,REV02,2025-11-26T09:39:00Z
+SYN0104,2025-06-08T01:25:00Z,1,0,5,76,,Shortness of breath,95,181,122,20,94,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-07-10T03:26:00Z
+SYN0105,2025-05-28T21:25:00Z,1,0,31,41,Female,Low blood sugar,90,135,80,17,,Responds to voice,57,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-06-01T02:29:00Z
+SYN0106,2025-08-24T23:33:00Z,1,0,9,62,Male,Chest discomfort,103,156,87,20,98,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV04,2025-09-02T02:47:00Z
+SYN0107,2025-07-28T13:59:00Z,1,0,8,,Female,Weakness with fever,88,114,71,17,95,Alert,140,39.4,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-08-14T21:30:00Z
+SYN0108,2025-10-10T01:26:00Z,2,5,11,57,Female,Chest discomfort,80,114,69,13,96,Alert,,,Nitroglycerin,90,112,93,Alert,Yes,Preparation can wait,Queued,REV02,2025-10-19T08:29:00Z
+SYN0109,2025-07-11T11:29:00Z,2,11,10,,,Abdominal pain,91,124,75,12,98,Alert,,,None,96,132,97,Alert,No,Routine awareness,Queued,REV03,2025-08-16T17:57:00Z
+SYN0110,2025-01-28T14:07:00Z,1,0,16,39,Female,Allergic reaction,100,98,54,15,93,Alert,,,Diphenhydramine,,,,,No prior information,Preparation can wait,Queued,REV03,2025-02-17T19:37:00Z
+SYN0111,2025-06-07T15:24:00Z,1,0,6,81,Male,Chest discomfort,95,172,106,20,93,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-15T01:04:00Z
+SYN0112,2025-06-22T16:20:00Z,1,0,20,76,Female,Stroke symptoms,,159,93,15,95,Alert,138,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-06-25T20:24:00Z
+SYN0113,2025-03-02T12:30:00Z,1,0,10,99,Male,Altered mental status,99,153,94,16,94,Alert,134,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV04,2025-03-22T13:57:00Z
+SYN0114,2025-10-23T13:53:00Z,1,0,19,70,Male,Chest discomfort,83,,,22,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-12-01T16:11:00Z
+SYN0115,2025-02-14T05:55:00Z,2,12,18,69,Female,Chest discomfort,62,166,101,17,97,Alert,,,None,67,167,97,Alert,No,Preparation can wait,Queued,REV01,2025-03-16T14:30:00Z
+SYN0116,2025-04-13T22:37:00Z,1,0,6,74,,Shortness of breath,96,148,84,24,93,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV02,2025-05-15T00:12:00Z
+SYN0117,2025-06-27T04:02:00Z,1,0,8,64,Female,Altered mental status,86,112,70,12,,Alert,158,,Glucose,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-21T07:05:00Z
+SYN0118,2025-11-18T12:52:00Z,1,0,18,64,Female,Stroke symptoms,62,177,118,19,98,Alert,129,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-12-20T19:55:00Z
+SYN0119,2025-09-15T22:35:00Z,1,0,10,83,Female,Fall,77,153,94,15,94,Alert,121,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-09-30T04:20:00Z
+SYN0120,2025-08-14T15:08:00Z,2,4,11,73,Male,Low blood sugar,120,138,80,25,91,Alert,142,,Glucose,116,137,90,Unresponsive,Yes,Routine awareness,Queued,REV02,2025-09-14T17:36:00Z
+SYN0121,2025-01-19T22:46:00Z,1,0,22,64,Male,Altered mental status,87,138,78,14,95,Responds to pain,106,36.4,None,,,,,No prior information,Prepare now,Queued,REV02,2025-02-04T02:09:00Z
+SYN0122,2025-07-04T08:35:00Z,1,0,11,69,Female,Shortness of breath,104,,,26,,Alert,,,None,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-07-18T15:54:00Z
+SYN0123,2025-07-06T22:56:00Z,1,0,11,54,,Shortness of breath,93,106,70,17,95,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-12T23:38:00Z
+SYN0124,2025-07-02T00:25:00Z,1,0,18,58,Female,Abdominal pain,,98,58,21,95,Alert,144,37.3,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-07-27T09:18:00Z
+SYN0125,2025-02-27T06:38:00Z,1,0,9,56,Male,Seizure,143,138,77,28,87,Unresponsive,,37.4,Midazolam,,,,,No prior information,Prepare now,Queued,REV03,2025-03-20T10:02:00Z
+SYN0126,2025-02-13T22:15:00Z,1,0,13,87,Male,Fall,87,122,80,14,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-03-24T02:11:00Z
+SYN0127,2025-02-06T13:20:00Z,1,0,17,48,Female,Weakness with fever,95,,,24,,Alert,,,IV fluids,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-03-14T19:48:00Z
+SYN0128,2025-11-12T12:24:00Z,2,11,10,84,Male,Fall,74,148,81,16,95,Alert,132,,None,82,154,95,Alert,No,Routine awareness,Queued,REV03,2025-11-24T19:31:00Z
+SYN0129,2025-07-24T10:48:00Z,2,5,5,61,Female,Chest discomfort,107,128,84,19,94,Alert,,,None,94,131,94,Alert,Uncertain,Preparation can wait,Queued,REV02,2025-08-12T11:06:00Z
+SYN0130,2025-08-23T05:09:00Z,2,14,24,86,Male,Weakness with fever,92,96,58,17,97,Alert,110,39.0,IV fluids,95,94,97,Alert,No,Preparation can wait,Queued,REV04,2025-09-08T12:08:00Z
+SYN0131,2025-07-05T17:51:00Z,1,0,13,62,Male,Altered mental status,79,144,86,13,99,Confused,167,37.5,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-08-11T03:39:00Z
+SYN0132,2025-04-15T09:13:00Z,2,4,11,,Female,Motor vehicle collision,104,135,77,23,98,Alert,,,None,103,,98,Alert,No,Preparation can wait,Queued,REV03,2025-04-30T16:28:00Z
+SYN0133,2025-04-13T09:06:00Z,1,0,12,50,Male,Chest discomfort,66,157,91,16,93,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-08T17:22:00Z
+SYN0134,2025-06-18T13:06:00Z,2,9,20,97,Male,Fall,89,138,81,15,95,Alert,,,Pain medication,88,140,95,Alert,No,Routine awareness,Queued,REV02,2025-07-28T13:50:00Z
+SYN0135,2025-10-31T15:41:00Z,1,0,5,74,,Chest discomfort,111,134,79,,92,Alert,130,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-01T18:24:00Z
+SYN0136,2025-08-10T23:09:00Z,1,0,19,73,Female,Weakness with fever,123,135,91,14,97,Alert,123,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-09-06T05:32:00Z
+SYN0137,2025-09-14T19:20:00Z,2,3,5,50,Male,Chest discomfort,86,140,94,16,97,Alert,,,None,90,145,97,Alert,No,Preparation can wait,Queued,REV03,2025-10-08T20:41:00Z
+SYN0138,2025-12-05T05:41:00Z,2,7,11,40,Female,Motor vehicle collision,,77,50,19,93,Alert,87,,None,91,93,96,Alert,Yes,Prepare now,Queued,REV01,2025-12-14T14:19:00Z
+SYN0139,2025-07-22T21:37:00Z,1,0,12,57,Male,Chest discomfort,95,137,84,17,96,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-08-05T04:54:00Z
+SYN0140,2025-07-18T04:11:00Z,1,0,20,38,Female,Allergic reaction,95,85,55,18,95,Alert,,,Diphenhydramine,,,,,No prior information,Prepare now,Queued,REV03,2025-08-08T07:43:00Z
+SYN0141,2025-01-22T13:23:00Z,2,11,11,48,Male,Seizure,97,129,78,17,94,Confused,182,,Midazolam,90,138,92,Confused,No,Preparation can wait,Queued,REV04,2025-02-28T23:12:00Z
+SYN0142,2025-03-16T11:10:00Z,1,0,34,92,Male,Weakness with fever,138,,,21,,Responds to pain,87,38.5,None,,,,,No prior information,Prepare now,Queued,REV04,2025-03-31T14:58:00Z
+SYN0143,2025-12-25T23:01:00Z,1,0,13,29,Male,Allergic reaction,99,110,65,,94,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV02,2026-01-06T02:54:00Z
+SYN0144,2025-10-09T22:13:00Z,1,0,7,68,,Chest discomfort,97,111,66,21,94,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-10-28T04:07:00Z
+SYN0145,2025-06-24T21:12:00Z,2,9,12,48,Female,Weakness with fever,,123,79,19,94,Alert,104,39.8,IV fluids,105,,94,Alert,No,Preparation can wait,Queued,REV03,2025-07-21T23:15:00Z
+SYN0146,2025-04-02T06:26:00Z,2,4,24,75,Male,Chest discomfort,82,,,,,Alert,,,Nitroglycerin,89,138,93,Alert,Uncertain,Cannot assess,Needs Review,REV04,2025-04-21T08:36:00Z
+SYN0147,2025-03-06T05:24:00Z,1,0,11,42,Female,Abdominal pain,89,121,68,15,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-17T06:45:00Z
+SYN0148,2025-05-27T14:42:00Z,2,12,12,72,Male,Shortness of breath,89,148,96,21,94,Alert,,,None,88,140,,Alert,No,Routine awareness,Queued,REV02,2025-06-28T23:57:00Z
+SYN0149,2025-05-20T17:09:00Z,2,10,12,81,Female,Stroke symptoms,74,161,101,18,96,Alert,116,,None,81,160,96,Alert,No,Prepare now,Queued,REV04,2025-06-13T20:03:00Z
+SYN0150,2025-03-15T17:16:00Z,1,0,16,46,,Abdominal pain,87,135,87,18,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-04-06T22:18:00Z
+SYN0151,2025-09-16T16:32:00Z,2,4,14,83,Female,Fall,65,150,97,,94,Alert,,,None,58,,95,Alert,No,Routine awareness,Queued,REV02,2025-09-26T00:56:00Z
+SYN0152,2025-01-14T05:32:00Z,2,12,22,83,Male,Stroke symptoms,93,157,94,13,95,Alert,105,,None,87,165,95,Alert,No,Prepare now,Queued,REV01,2025-02-02T09:25:00Z
+SYN0153,2025-06-25T10:54:00Z,1,0,15,51,Female,Chest discomfort,106,130,75,19,94,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-02T16:58:00Z
+SYN0154,2025-09-17T00:17:00Z,2,3,7,44,Female,Motor vehicle collision,100,111,68,18,98,Alert,103,,None,101,100,98,Alert,No,Routine awareness,Queued,REV02,2025-10-03T03:39:00Z
+SYN0155,2025-04-19T05:46:00Z,1,0,14,64,Male,Stroke symptoms,88,157,98,20,92,Alert,101,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-14T15:42:00Z
+SYN0156,2025-12-15T18:13:00Z,2,10,13,76,Female,Low blood sugar,94,,,16,97,Alert,44,,Glucose,93,128,97,Alert,No,Prepare now,Queued,REV02,2025-12-22T18:49:00Z
+SYN0157,2025-03-09T13:04:00Z,1,0,24,65,Female,Fall,62,109,69,17,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-03-15T20:52:00Z
+SYN0158,2025-02-09T12:13:00Z,1,0,9,59,Female,Motor vehicle collision,96,137,82,21,94,Confused,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-02-28T20:59:00Z
+SYN0159,2025-02-03T07:33:00Z,1,0,9,,Female,Shortness of breath,69,144,84,21,93,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV04,2025-03-12T10:45:00Z
+SYN0160,2025-11-29T12:13:00Z,1,0,17,,Female,Chest discomfort,82,144,84,,97,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2026-01-01T17:47:00Z
+SYN0161,2025-11-19T05:37:00Z,2,15,14,84,Female,Stroke symptoms,75,174,111,15,98,Confused,98,,None,90,170,95,Responds to pain,Yes,Prepare now,Queued,REV02,2025-12-15T09:54:00Z
+SYN0162,2025-08-22T05:44:00Z,2,5,6,74,,Shortness of breath,87,,,23,93,Alert,,,Oxygen,99,158,91,Alert,No,Preparation can wait,Queued,REV01,2025-08-27T10:34:00Z
+SYN0163,2025-03-22T01:16:00Z,1,0,9,60,Male,Motor vehicle collision,80,124,79,18,94,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-28T10:22:00Z
+SYN0164,2025-09-08T10:23:00Z,2,8,16,77,Male,Shortness of breath,,137,81,29,88,Alert,164,,Oxygen,151,138,82,Alert,Yes,Prepare now,Queued,REV01,2025-10-17T12:26:00Z
+SYN0165,2025-02-02T12:06:00Z,1,0,12,52,Male,Low blood sugar,77,127,79,19,97,Alert,33,,Glucose,,,,,No prior information,Prepare now,Queued,REV02,2025-02-16T17:50:00Z
+SYN0166,2025-06-29T13:16:00Z,1,0,10,91,Female,Fall,88,,,17,95,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-20T19:18:00Z
+SYN0167,2025-03-26T05:53:00Z,1,0,17,71,Female,Chest discomfort,98,167,101,16,94,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-04-11T15:28:00Z
+SYN0168,2025-07-22T02:40:00Z,2,5,17,78,,Weakness with fever,90,103,65,,97,Alert,,38.9,IV fluids,90,103,96,Alert,No,Preparation can wait,Queued,REV03,2025-08-16T10:48:00Z
+SYN0169,2025-11-24T03:06:00Z,2,9,28,51,Female,Abdominal pain,93,,,13,,Alert,,,IV fluids,110,113,,Alert,Yes,Cannot assess,Needs Review,REV04,2025-12-03T09:17:00Z
+SYN0170,2025-11-25T06:38:00Z,1,0,17,22,Male,Allergic reaction,112,106,59,22,93,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV01,2025-12-09T09:41:00Z
+SYN0171,2025-10-07T09:31:00Z,1,0,7,70,Male,Stroke symptoms,,160,99,18,95,Responds to pain,,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-10-29T18:19:00Z
+SYN0172,2025-08-27T02:39:00Z,2,12,12,62,,Low blood sugar,91,,,16,97,Alert,104,,Glucose,87,131,,Alert,No,Routine awareness,Queued,REV01,2025-10-04T05:52:00Z
+SYN0173,2025-12-10T21:17:00Z,2,5,36,64,Female,Abdominal pain,92,154,87,15,97,Alert,,,None,95,159,96,Alert,Uncertain,Routine awareness,Queued,REV02,2026-01-13T22:10:00Z
+SYN0174,2025-04-13T07:27:00Z,2,13,11,48,Male,Chest discomfort,85,,,16,96,Alert,,,Nitroglycerin,87,151,98,Alert,No,Preparation can wait,Queued,REV03,2025-04-20T15:59:00Z
+SYN0175,2025-06-24T12:03:00Z,1,0,18,79,Male,Shortness of breath,90,146,83,25,91,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-15T12:49:00Z
+SYN0176,2025-03-09T02:12:00Z,1,0,11,50,Male,Chest discomfort,84,140,91,12,94,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-04-04T12:05:00Z
+SYN0177,2025-11-01T14:11:00Z,2,11,8,76,Female,Fall,82,144,81,16,96,Alert,,,None,84,,95,Alert,No,Routine awareness,Queued,REV03,2025-11-21T17:38:00Z
+SYN0178,2025-10-04T08:01:00Z,2,13,12,,Female,Chest discomfort,99,120,75,15,96,Alert,,,Nitroglycerin,117,132,,Alert,Yes,Preparation can wait,Queued,REV01,2025-10-08T16:16:00Z
+SYN0179,2025-11-16T14:59:00Z,2,8,15,,Female,Stroke symptoms,105,,,22,,Alert,98,,None,113,161,90,Alert,Uncertain,Prepare now,Queued,REV04,2025-11-20T00:08:00Z
+SYN0180,2025-11-30T11:22:00Z,1,0,18,55,Male,Shortness of breath,92,149,97,21,92,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV03,2026-01-03T20:31:00Z
+SYN0181,2025-11-29T15:57:00Z,1,0,15,36,Female,Chest discomfort,77,136,91,,97,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV01,2026-01-05T16:16:00Z
+SYN0182,2025-11-15T17:42:00Z,1,0,28,47,Female,Motor vehicle collision,107,122,78,14,97,Alert,129,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-12-04T19:22:00Z
+SYN0183,2025-11-22T23:32:00Z,1,0,15,42,,Abdominal pain,89,104,65,14,98,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-12-16T06:05:00Z
+SYN0184,2025-06-18T04:14:00Z,1,0,9,37,Male,Altered mental status,71,151,97,10,94,Responds to voice,137,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-07-13T10:02:00Z
+SYN0185,2025-02-06T03:23:00Z,1,0,5,73,Female,Fall,115,117,73,19,92,Responds to voice,,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-03-06T03:58:00Z
+SYN0186,2025-08-26T23:17:00Z,1,0,26,70,Male,Shortness of breath,111,162,93,23,91,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV02,2025-09-23T03:32:00Z
+SYN0187,2025-04-14T05:16:00Z,2,5,7,35,Female,Allergic reaction,100,104,69,17,93,Alert,,,Epinephrine,91,108,96,Alert,Yes,Prepare now,Queued,REV03,2025-05-07T08:04:00Z
+SYN0188,2025-05-27T07:44:00Z,1,0,11,80,Male,Shortness of breath,80,,,20,,Alert,,37.5,Albuterol,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-06-09T09:41:00Z
+SYN0189,2025-07-16T08:23:00Z,1,0,9,49,Male,Low blood sugar,66,126,70,15,98,Alert,29,,Glucose,,,,,No prior information,Prepare now,Queued,REV02,2025-07-19T17:48:00Z
+SYN0190,2025-07-27T01:18:00Z,1,0,7,78,,Fall,94,123,81,15,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-08-28T03:58:00Z
+SYN0191,2025-11-11T06:26:00Z,2,9,7,78,Male,Chest discomfort,110,,,17,97,Alert,118,,None,111,,98,Alert,No,Preparation can wait,Queued,REV04,2025-12-21T15:31:00Z
+SYN0192,2025-12-26T20:47:00Z,1,0,23,60,Male,Seizure,99,110,62,,93,Responds to pain,104,,Midazolam,,,,,No prior information,Prepare now,Queued,REV04,2026-01-13T01:52:00Z
+SYN0193,2025-03-19T05:49:00Z,2,9,15,81,Male,Weakness with fever,99,96,58,19,94,Confused,111,,IV fluids,91,101,,Confused,No,Preparation can wait,Queued,REV03,2025-03-24T06:42:00Z
+SYN0194,2025-06-27T13:59:00Z,1,0,13,80,Female,Fall,78,145,89,13,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-08-05T17:29:00Z
+SYN0195,2025-05-12T11:32:00Z,2,5,5,53,Male,Chest discomfort,103,170,110,12,94,Alert,,,Nitroglycerin,106,163,,Alert,No,Preparation can wait,Queued,REV01,2025-05-15T15:35:00Z
+SYN0196,2025-12-04T01:34:00Z,1,0,4,68,Female,Stroke symptoms,94,,,15,98,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-12-23T09:47:00Z
+SYN0197,2025-06-06T14:39:00Z,1,0,12,38,Male,Chest discomfort,101,128,72,18,92,Alert,153,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-06-24T21:07:00Z
+SYN0198,2025-12-19T07:48:00Z,1,0,15,73,Male,Stroke symptoms,94,168,102,20,97,Responds to voice,85,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-12-29T13:58:00Z
+SYN0199,2025-07-06T23:43:00Z,2,12,9,61,Female,Chest discomfort,58,133,79,11,96,Alert,,,Nitroglycerin,62,,96,Alert,No,Preparation can wait,Queued,REV04,2025-07-30T02:41:00Z
+SYN0200,2025-08-26T04:44:00Z,1,0,7,26,Female,Allergic reaction,99,86,55,,95,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV02,2025-09-24T10:50:00Z
+SYN0201,2025-04-16T16:41:00Z,1,0,11,,Female,Shortness of breath,100,154,94,21,95,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV04,2025-05-24T19:58:00Z
+SYN0202,2025-07-30T23:23:00Z,2,6,22,58,,Chest discomfort,89,152,93,15,96,Alert,,,Aspirin,91,149,94,Alert,No,Preparation can wait,Queued,REV02,2025-09-02T03:14:00Z
+SYN0203,2025-08-14T03:20:00Z,1,0,11,77,Male,Stroke symptoms,82,172,109,14,96,Responds to voice,,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-09-02T12:44:00Z
+SYN0204,2025-02-28T01:37:00Z,1,0,10,27,Female,Seizure,101,151,95,20,92,Responds to voice,137,,Midazolam,,,,,No prior information,Preparation can wait,Queued,REV03,2025-03-29T02:53:00Z
+SYN0205,2025-01-17T15:48:00Z,1,0,10,92,Female,Weakness with fever,82,160,93,14,97,Alert,,38.6,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-01-30T19:20:00Z
+SYN0206,2025-02-24T23:49:00Z,1,0,18,34,Male,Shortness of breath,71,145,87,19,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-03-30T01:29:00Z
+SYN0207,2025-02-17T01:16:00Z,2,8,9,56,Male,Chest discomfort,109,153,88,,90,Alert,,,Aspirin,104,146,90,Alert,No,Preparation can wait,Queued,REV01,2025-02-24T04:33:00Z
+SYN0208,2025-11-10T10:39:00Z,1,0,12,68,Male,Fall,66,157,92,16,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-30T15:58:00Z
+SYN0209,2025-03-03T22:47:00Z,2,10,7,53,Female,Shortness of breath,103,133,88,24,91,Alert,,37.3,None,97,124,90,Alert,No,Preparation can wait,Queued,REV03,2025-03-08T05:55:00Z
+SYN0210,2025-01-15T06:55:00Z,1,0,37,18,,Allergic reaction,71,114,68,,95,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV03,2025-02-04T10:26:00Z
+SYN0211,2025-06-04T22:52:00Z,1,0,6,59,Female,Shortness of breath,96,142,91,,93,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV03,2025-06-11T23:05:00Z
+SYN0212,2025-09-24T18:19:00Z,1,0,16,66,Male,Shortness of breath,83,137,82,21,95,Alert,,36.8,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-10-14T21:04:00Z
+SYN0213,2025-05-25T20:53:00Z,1,0,13,57,Male,Low blood sugar,90,111,70,,92,Alert,54,,Glucose,,,,,No prior information,Prepare now,Queued,REV02,2025-06-14T23:57:00Z
+SYN0214,2025-05-23T16:44:00Z,2,13,8,49,Female,Altered mental status,112,116,76,19,91,Responds to voice,130,,None,126,105,,Responds to pain,Yes,Preparation can wait,Queued,REV02,2025-05-30T23:45:00Z
+SYN0215,2025-12-12T13:53:00Z,2,15,11,59,Male,Fall,94,157,94,,97,Alert,110,,Pain medication,93,154,96,Alert,No,Routine awareness,Queued,REV01,2025-12-29T14:16:00Z
+SYN0216,2025-05-06T13:03:00Z,1,0,27,68,Male,Weakness with fever,92,128,74,16,93,Responds to voice,162,38.4,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-05-28T19:43:00Z
+SYN0217,2025-12-26T12:22:00Z,1,0,17,91,Female,Shortness of breath,92,119,76,30,95,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV03,2026-01-29T20:59:00Z
+SYN0218,2025-11-30T05:02:00Z,1,0,12,,Female,Shortness of breath,109,114,76,,94,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-12-10T10:33:00Z
+SYN0219,2025-05-21T10:47:00Z,1,0,17,18,Male,Shortness of breath,131,117,78,30,86,Alert,,37.2,Oxygen,,,,,No prior information,Prepare now,Queued,REV04,2025-05-27T18:33:00Z
+SYN0220,2025-05-27T23:26:00Z,1,0,5,66,Male,Chest discomfort,,140,79,,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-22T02:03:00Z
+SYN0221,2025-05-03T15:01:00Z,2,8,32,62,Male,Chest discomfort,109,182,102,21,93,Alert,,,Aspirin,129,170,87,Alert,Yes,Preparation can wait,Queued,REV02,2025-06-12T21:00:00Z
+SYN0222,2025-03-24T04:35:00Z,1,0,6,29,Male,Motor vehicle collision,72,122,78,12,98,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-26T08:07:00Z
+SYN0223,2025-09-22T11:32:00Z,2,8,15,51,Male,Seizure,81,130,79,15,97,Alert,152,,Midazolam,91,120,96,Alert,No,Routine awareness,Queued,REV03,2025-10-25T12:12:00Z
+SYN0224,2025-05-11T10:05:00Z,2,5,5,18,Female,Seizure,78,166,94,14,95,Alert,75,,None,87,165,92,Alert,Yes,Routine awareness,Queued,REV04,2025-06-11T14:00:00Z
+SYN0225,2025-01-30T03:25:00Z,1,0,14,67,Male,Stroke symptoms,79,180,116,19,97,Alert,144,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-02-02T07:13:00Z
+SYN0226,2025-07-05T22:23:00Z,1,0,8,49,Female,Shortness of breath,90,137,80,23,91,Alert,86,37.2,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-08-10T04:05:00Z
+SYN0227,2025-02-18T02:29:00Z,1,0,19,41,Female,Abdominal pain,96,137,86,12,,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-03-18T06:55:00Z
+SYN0228,2025-07-17T16:55:00Z,2,13,9,71,Male,Chest discomfort,114,142,85,25,95,Alert,,,Nitroglycerin,132,142,91,Alert,Yes,Preparation can wait,Queued,REV01,2025-08-12T00:44:00Z
+SYN0229,2025-06-03T11:13:00Z,2,4,4,51,Female,Altered mental status,68,107,70,15,95,Alert,100,,None,62,111,95,Alert,Uncertain,Preparation can wait,Queued,REV03,2025-06-22T13:11:00Z
+SYN0230,2025-08-08T08:30:00Z,1,0,9,70,Male,Fall,75,118,65,22,,Alert,93,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-09-04T16:22:00Z
+SYN0231,2025-09-02T18:27:00Z,1,0,23,,Male,Chest discomfort,92,121,79,18,95,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV02,2025-09-29T22:51:00Z
+SYN0232,2025-07-27T15:54:00Z,2,15,12,,,Motor vehicle collision,76,133,76,13,97,Alert,,,IV fluids,79,127,97,Alert,No,Preparation can wait,Queued,REV02,2025-08-10T01:36:00Z
+SYN0233,2025-10-16T22:00:00Z,2,12,15,39,Male,Abdominal pain,98,127,85,13,97,Alert,112,,IV fluids,95,122,97,Alert,No,Preparation can wait,Queued,REV03,2025-11-22T04:08:00Z
+SYN0234,2025-09-27T14:36:00Z,1,0,6,63,Male,Shortness of breath,83,153,84,23,94,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-11-06T21:53:00Z
+SYN0235,2025-04-25T19:39:00Z,1,0,27,39,Male,Chest discomfort,90,,,13,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-05-18T00:48:00Z
+SYN0236,2025-07-18T13:16:00Z,1,0,14,78,Female,Fall,74,174,104,14,97,Alert,,37.4,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-08-26T19:09:00Z
+SYN0237,2025-02-08T12:31:00Z,1,0,13,84,Male,Shortness of breath,90,148,81,22,95,Alert,123,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV02,2025-03-19T19:51:00Z
+SYN0238,2025-04-17T06:30:00Z,1,0,31,58,Male,Chest discomfort,89,135,90,15,98,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV04,2025-05-03T10:13:00Z
+SYN0239,2025-01-05T06:02:00Z,2,9,13,65,Female,Fall,79,129,71,,97,Alert,93,,Pain medication,89,130,96,Responds to voice,Yes,Routine awareness,Queued,REV03,2025-01-24T14:22:00Z
+SYN0240,2025-12-02T00:17:00Z,1,0,10,57,Male,Weakness with fever,104,102,62,14,93,Alert,,39.6,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2026-01-06T05:28:00Z
+SYN0241,2025-09-15T13:40:00Z,2,8,11,68,Male,Stroke symptoms,82,186,122,14,96,Alert,114,,None,83,179,96,Alert,No,Prepare now,Queued,REV02,2025-09-27T23:18:00Z
+SYN0242,2025-12-16T07:58:00Z,1,0,13,77,Female,Weakness with fever,92,,,21,,Alert,,39.0,IV fluids,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-12-25T12:10:00Z
+SYN0243,2025-11-06T23:17:00Z,1,0,8,72,,Chest discomfort,110,,,12,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-12-17T06:13:00Z
+SYN0244,2025-11-10T13:18:00Z,1,0,20,19,Female,Seizure,91,104,61,16,96,Alert,,,Midazolam,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-24T21:12:00Z
+SYN0245,2025-10-12T16:04:00Z,2,10,45,72,Female,Chest discomfort,116,158,91,,97,Alert,,,None,129,162,94,Alert,Yes,Preparation can wait,Queued,REV01,2025-11-01T17:23:00Z
+SYN0246,2025-07-21T03:41:00Z,1,0,9,47,Male,Altered mental status,72,88,51,15,95,Alert,161,37.0,None,,,,,No prior information,Prepare now,Queued,REV03,2025-08-13T06:20:00Z
+SYN0247,2025-09-06T20:38:00Z,1,0,18,90,Female,Chest discomfort,77,163,95,18,96,Alert,,36.9,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-16T01:12:00Z
+SYN0248,2025-12-28T19:42:00Z,1,0,8,71,Female,Weakness with fever,92,,,18,,Alert,,38.9,None,,,,,No prior information,Cannot assess,Needs Review,REV02,2026-01-30T00:08:00Z
+SYN0249,2025-12-02T01:38:00Z,1,0,27,85,Male,Fall,75,,,15,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-12-18T11:25:00Z
+SYN0250,2025-08-25T00:21:00Z,1,0,13,35,Male,Shortness of breath,87,127,71,23,,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-24T10:16:00Z
+SYN0251,2025-01-06T19:05:00Z,1,0,16,,Female,Seizure,87,150,94,16,95,Alert,136,36.7,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-01-27T23:30:00Z
+SYN0252,2025-08-07T03:11:00Z,1,0,18,70,Male,Chest discomfort,97,134,81,11,93,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-02T06:12:00Z
+SYN0253,2025-11-21T22:42:00Z,1,0,14,66,Male,Stroke symptoms,90,158,93,14,96,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-11-29T08:41:00Z
+SYN0254,2025-08-24T22:33:00Z,1,0,18,58,Female,Fall,80,133,87,22,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-03T06:23:00Z
+SYN0255,2025-04-10T09:16:00Z,1,0,8,20,Female,Seizure,88,141,90,16,95,Confused,204,36.1,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-05-01T15:21:00Z
+SYN0256,2025-08-01T17:47:00Z,1,0,4,54,Female,Chest discomfort,91,158,102,15,98,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-02T00:35:00Z
+SYN0257,2025-04-10T19:55:00Z,2,8,13,84,Female,Fall,79,154,93,17,95,Alert,,,None,76,155,96,Alert,Uncertain,Routine awareness,Queued,REV04,2025-05-20T20:07:00Z
+SYN0258,2025-01-07T09:51:00Z,1,0,27,58,Female,Shortness of breath,,137,83,23,94,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV01,2025-01-24T15:58:00Z
+SYN0259,2025-04-25T08:45:00Z,1,0,14,54,Female,Chest discomfort,86,145,95,18,96,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-04-28T10:33:00Z
+SYN0260,2025-05-25T11:30:00Z,2,13,5,,Female,Chest discomfort,91,168,100,15,97,Alert,,,Aspirin,107,170,93,Alert,Yes,Preparation can wait,Queued,REV03,2025-06-20T17:52:00Z
+SYN0261,2025-06-28T18:31:00Z,2,12,9,54,Female,Abdominal pain,87,140,78,14,95,Alert,,,Pain medication,86,132,96,Alert,No,Routine awareness,Queued,REV02,2025-07-01T20:37:00Z
+SYN0262,2025-10-19T13:59:00Z,1,0,7,59,,Altered mental status,89,115,65,15,92,Alert,103,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-26T16:30:00Z
+SYN0263,2025-10-28T20:47:00Z,2,4,21,61,Female,Motor vehicle collision,96,124,68,20,97,Alert,,,None,95,,97,Alert,No,Routine awareness,Queued,REV01,2025-11-27T06:00:00Z
+SYN0264,2025-01-22T19:05:00Z,2,13,21,79,Female,Chest discomfort,99,134,81,15,99,Alert,,,None,107,127,98,Alert,No,Preparation can wait,Queued,REV02,2025-03-01T20:41:00Z
+SYN0265,2025-04-17T06:34:00Z,1,0,35,66,Female,Weakness with fever,100,141,94,13,94,Alert,99,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-24T14:38:00Z
+SYN0266,2025-05-28T03:31:00Z,2,10,6,58,,Shortness of breath,89,141,86,19,95,Alert,,,Oxygen,85,136,,Alert,No,Routine awareness,Queued,REV03,2025-06-30T06:41:00Z
+SYN0267,2025-02-06T13:32:00Z,1,0,10,58,Male,Stroke symptoms,77,,,,,Alert,162,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-02-19T19:50:00Z
+SYN0268,2025-10-20T03:10:00Z,1,0,13,82,Female,Stroke symptoms,110,161,105,26,92,Alert,120,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-11-05T11:12:00Z
+SYN0269,2025-06-18T18:08:00Z,1,0,8,73,Female,Fall,83,132,78,13,96,Alert,115,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-07-09T23:04:00Z
+SYN0270,2025-05-05T22:25:00Z,1,0,20,18,Female,Seizure,95,130,86,20,94,Alert,105,,Midazolam,,,,,No prior information,Routine awareness,Queued,REV04,2025-05-14T03:42:00Z
+SYN0271,2025-01-06T20:18:00Z,1,0,22,45,Male,Low blood sugar,,127,82,,92,Responds to pain,40,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-02-08T05:02:00Z
+SYN0272,2025-12-09T12:50:00Z,2,7,6,67,Male,Chest discomfort,61,135,84,15,97,Alert,,,None,65,,95,Alert,No,Preparation can wait,Queued,REV02,2026-01-10T15:45:00Z
+SYN0273,2025-02-08T12:34:00Z,2,9,12,66,Female,Shortness of breath,,163,90,,92,Alert,,,None,84,157,95,Alert,Yes,Preparation can wait,Queued,REV02,2025-02-14T12:37:00Z
+SYN0274,2025-04-02T23:01:00Z,2,14,21,43,Female,Low blood sugar,111,124,79,20,93,Confused,68,,Glucose,107,126,,Confused,No,Preparation can wait,Queued,REV01,2025-04-10T08:34:00Z
+SYN0275,2025-08-05T07:17:00Z,2,9,13,57,Male,Stroke symptoms,79,171,98,19,97,Alert,102,,None,100,172,93,Responds to pain,Yes,Prepare now,Queued,REV02,2025-08-22T09:38:00Z
+SYN0276,2025-04-13T05:25:00Z,2,4,16,46,Male,Fall,94,136,88,16,95,Alert,198,,None,106,141,93,Alert,No,Routine awareness,Queued,REV04,2025-04-22T06:46:00Z
+SYN0277,2025-11-06T02:39:00Z,1,0,26,39,Female,Shortness of breath,88,102,56,,93,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-29T02:48:00Z
+SYN0278,2025-08-13T22:20:00Z,1,0,14,68,Female,Stroke symptoms,69,190,113,16,97,Alert,82,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-09-13T03:01:00Z
+SYN0279,2025-07-29T16:02:00Z,2,9,6,50,Male,Chest discomfort,92,155,104,22,97,Alert,,,Aspirin,96,156,97,Alert,No,Preparation can wait,Queued,REV01,2025-08-22T22:21:00Z
+SYN0280,2025-01-30T19:01:00Z,1,0,28,58,Female,Abdominal pain,98,,,15,93,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV01,2025-02-27T04:18:00Z
+SYN0281,2025-07-07T10:57:00Z,1,0,8,,Female,Shortness of breath,109,132,86,19,94,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-07-12T13:39:00Z
+SYN0282,2025-06-04T08:57:00Z,1,0,9,62,Male,Low blood sugar,,,,,95,Confused,37,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-07-01T14:26:00Z
+SYN0283,2025-01-05T05:51:00Z,2,10,19,79,Female,Fall,85,139,87,,93,Alert,,,None,100,138,91,Alert,Yes,Preparation can wait,Queued,REV01,2025-01-14T14:58:00Z
+SYN0284,2025-03-26T06:46:00Z,1,0,11,44,Female,Seizure,95,126,71,16,96,Alert,145,,Midazolam,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-30T12:04:00Z
+SYN0285,2025-06-11T09:53:00Z,1,0,12,63,Male,Abdominal pain,74,111,65,,99,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-06-19T11:32:00Z
+SYN0286,2025-11-25T19:42:00Z,2,11,34,33,Male,Abdominal pain,82,108,64,14,96,Alert,,,None,90,113,95,Alert,No,Routine awareness,Queued,REV01,2025-12-17T22:30:00Z
+SYN0287,2025-08-29T12:33:00Z,2,14,18,,Male,Altered mental status,91,119,69,18,97,Responds to voice,134,,None,92,121,,Alert,Yes,Preparation can wait,Queued,REV04,2025-09-11T19:01:00Z
+SYN0288,2025-02-23T11:46:00Z,1,0,7,33,Female,Motor vehicle collision,83,,,18,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-03-06T19:26:00Z
+SYN0289,2025-06-08T03:58:00Z,1,0,19,38,Female,Motor vehicle collision,111,119,67,,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-06-11T10:28:00Z
+SYN0290,2025-11-01T19:26:00Z,1,0,29,,Male,Stroke symptoms,89,,,10,,Alert,135,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-11-12T22:56:00Z
+SYN0291,2025-11-02T17:50:00Z,2,14,5,78,Male,Weakness with fever,79,115,64,14,98,Alert,,,IV fluids,81,114,,Alert,No,Routine awareness,Queued,REV01,2025-12-09T03:12:00Z
+SYN0292,2025-11-07T23:26:00Z,1,0,14,44,Male,Abdominal pain,85,,,15,,Alert,,,None,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-11-26T03:32:00Z
+SYN0293,2025-06-03T11:33:00Z,1,0,21,83,Female,Fall,94,125,70,16,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-06-12T19:24:00Z
+SYN0294,2025-05-07T20:54:00Z,1,0,17,88,Male,Chest discomfort,110,160,102,20,94,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-06-16T01:10:00Z
+SYN0295,2025-01-05T08:30:00Z,1,0,17,84,Female,Fall,91,143,88,11,95,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-01-10T16:42:00Z
+SYN0296,2025-07-02T10:42:00Z,1,0,7,76,Male,Stroke symptoms,64,160,104,,,Alert,139,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-07-29T18:17:00Z
+SYN0297,2025-01-17T05:35:00Z,2,4,11,53,Female,Weakness with fever,,103,62,10,94,Confused,162,39.5,IV fluids,92,93,92,Responds to voice,Yes,Routine awareness,Queued,REV03,2025-01-30T11:58:00Z
+SYN0298,2025-10-02T16:43:00Z,1,0,5,77,Male,Weakness with fever,99,113,72,19,96,Alert,,39.1,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV04,2025-10-14T18:31:00Z
+SYN0299,2025-10-21T01:00:00Z,2,3,14,57,Male,Shortness of breath,100,160,95,19,95,Alert,,,None,96,162,,Alert,No,Routine awareness,Queued,REV01,2025-10-25T09:41:00Z
+SYN0300,2025-08-08T17:00:00Z,1,0,11,37,Male,Motor vehicle collision,100,118,70,19,,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-09-01T19:09:00Z
+SYN0301,2025-10-13T10:22:00Z,1,0,25,52,Female,Abdominal pain,94,112,75,,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-10-25T10:58:00Z
+SYN0302,2025-08-04T05:33:00Z,1,0,6,61,Male,Shortness of breath,91,151,94,22,92,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-12T14:38:00Z
+SYN0303,2025-09-03T12:50:00Z,1,0,7,82,Male,Chest discomfort,107,125,71,,96,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-04T18:59:00Z
+SYN0304,2025-09-01T13:25:00Z,2,6,25,,Male,Weakness with fever,,80,50,19,94,Alert,127,38.8,None,100,84,95,Alert,No,Prepare now,Queued,REV03,2025-10-11T16:06:00Z
+SYN0305,2025-02-15T07:29:00Z,1,0,18,66,Male,Altered mental status,114,115,71,,94,Responds to pain,121,36.6,Glucose,,,,,No prior information,Prepare now,Queued,REV03,2025-03-14T15:57:00Z
+SYN0306,2025-11-20T17:06:00Z,1,0,5,76,,Fall,100,131,87,26,91,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-12-21T02:24:00Z
+SYN0307,2025-12-27T16:30:00Z,1,0,6,78,Female,Stroke symptoms,82,173,110,21,96,Alert,138,,None,,,,,No prior information,Prepare now,Queued,REV04,2026-01-31T18:02:00Z
+SYN0308,2025-04-11T18:12:00Z,1,0,11,45,,Motor vehicle collision,70,123,83,19,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-05-05T22:03:00Z
+SYN0309,2025-11-27T14:55:00Z,1,0,11,66,Female,Chest discomfort,107,155,92,17,93,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-12-24T23:11:00Z
+SYN0310,2025-11-30T23:22:00Z,1,0,8,86,Female,Chest discomfort,96,,,16,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-12-24T23:26:00Z
+SYN0311,2025-09-30T22:05:00Z,2,12,8,18,Female,Chest discomfort,97,132,76,17,91,Alert,,,None,111,124,87,Alert,Uncertain,Preparation can wait,Queued,REV01,2025-11-06T01:19:00Z
+SYN0312,2025-09-07T02:41:00Z,2,12,9,,Male,Motor vehicle collision,101,139,85,,99,Alert,,,None,93,138,99,Alert,No,Routine awareness,Queued,REV02,2025-09-18T05:45:00Z
+SYN0313,2025-06-09T02:19:00Z,2,7,10,45,Female,Shortness of breath,108,,,21,90,Responds to pain,,,Albuterol,109,146,,Responds to pain,No,Prepare now,Queued,REV04,2025-07-19T12:02:00Z
+SYN0314,2025-06-01T21:57:00Z,2,3,9,45,Female,Abdominal pain,96,126,78,21,97,Alert,,,None,104,90,92,Alert,Yes,Preparation can wait,Queued,REV04,2025-06-12T01:36:00Z
+SYN0315,2025-08-10T21:11:00Z,1,0,9,54,Male,Chest discomfort,93,136,81,24,98,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV03,2025-09-16T00:23:00Z
+SYN0316,2025-11-26T04:42:00Z,1,0,18,84,Female,Shortness of breath,107,140,84,24,91,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-15T14:18:00Z
+SYN0317,2025-09-06T19:05:00Z,2,8,12,50,Male,Low blood sugar,85,150,94,16,100,Confused,40,,Glucose,85,144,100,Confused,No,Prepare now,Queued,REV01,2025-09-25T02:55:00Z
+SYN0318,2025-01-13T09:49:00Z,1,0,24,90,Female,Stroke symptoms,62,159,102,,96,Alert,118,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-02-13T10:11:00Z
+SYN0319,2025-08-29T03:23:00Z,1,0,33,75,Male,Fall,92,123,71,17,95,Alert,76,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-09-02T07:14:00Z
+SYN0320,2025-03-03T19:01:00Z,1,0,20,62,,Shortness of breath,88,170,105,23,95,Alert,228,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV01,2025-03-25T21:00:00Z
+SYN0321,2025-10-10T12:46:00Z,1,0,25,27,Female,Allergic reaction,102,108,69,12,96,Alert,,,Diphenhydramine,,,,,No prior information,Routine awareness,Queued,REV03,2025-11-10T15:21:00Z
+SYN0322,2025-08-16T10:24:00Z,1,0,11,60,Female,Shortness of breath,81,135,76,21,94,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV03,2025-09-22T15:43:00Z
+SYN0323,2025-03-19T09:27:00Z,2,10,8,42,,Allergic reaction,92,,,20,94,Alert,,,Epinephrine,110,94,90,Alert,Yes,Prepare now,Queued,REV02,2025-04-08T18:51:00Z
+SYN0324,2025-06-11T17:35:00Z,2,6,15,81,Male,Chest discomfort,85,145,92,21,96,Alert,,,Aspirin,70,145,97,Alert,Yes,Preparation can wait,Queued,REV04,2025-07-08T21:53:00Z
+SYN0325,2025-06-21T03:11:00Z,1,0,15,39,Male,Abdominal pain,,111,68,17,96,Alert,126,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-19T08:54:00Z
+SYN0326,2025-01-31T10:03:00Z,2,11,9,81,Female,Fall,88,159,107,16,97,Alert,97,,None,85,159,96,Alert,No,Routine awareness,Queued,REV04,2025-02-23T10:10:00Z
+SYN0327,2025-11-10T16:38:00Z,2,6,15,80,Female,Fall,73,128,80,12,94,Alert,,,None,88,127,92,Alert,Yes,Routine awareness,Queued,REV01,2025-12-06T01:55:00Z
+SYN0328,2025-07-22T01:28:00Z,1,0,14,74,Female,Shortness of breath,95,136,75,22,94,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV01,2025-08-08T01:35:00Z
+SYN0329,2025-12-04T20:10:00Z,1,0,14,90,Female,Stroke symptoms,80,,,17,,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-12-25T23:08:00Z
+SYN0330,2025-03-22T19:04:00Z,1,0,21,76,Male,Fall,99,141,83,18,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-09T21:11:00Z
+SYN0331,2025-09-09T10:45:00Z,2,6,14,39,Male,Low blood sugar,105,131,76,15,99,Alert,36,,Glucose,99,134,99,Alert,No,Prepare now,Queued,REV01,2025-09-20T20:21:00Z
+SYN0332,2025-11-24T03:55:00Z,1,0,27,71,,Weakness with fever,112,117,70,14,95,Alert,,39.1,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-20T09:51:00Z
+SYN0333,2025-10-09T05:26:00Z,2,5,18,39,Male,Chest discomfort,80,156,100,21,,Alert,,,Aspirin,86,148,94,Alert,No,Routine awareness,Queued,REV01,2025-10-14T08:10:00Z
+SYN0334,2025-12-06T05:58:00Z,2,12,4,37,Female,Seizure,81,140,95,20,95,Alert,151,37.0,Midazolam,82,,94,Alert,No,Preparation can wait,Queued,REV04,2026-01-08T12:25:00Z
+SYN0335,2025-08-18T14:50:00Z,1,0,10,28,,Motor vehicle collision,70,95,56,17,96,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV03,2025-09-23T21:19:00Z
+SYN0336,2025-08-08T17:14:00Z,1,0,32,81,Male,Chest discomfort,,129,82,11,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-08-17T22:14:00Z
+SYN0337,2025-05-06T11:26:00Z,2,4,17,82,Male,Fall,85,140,79,19,95,Alert,,,None,103,136,91,Alert,Yes,Preparation can wait,Queued,REV03,2025-05-09T20:24:00Z
+SYN0338,2025-02-04T20:09:00Z,1,0,8,56,Female,Abdominal pain,104,125,84,17,94,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV02,2025-03-05T23:09:00Z
+SYN0339,2025-02-09T03:09:00Z,2,10,13,79,Male,Fall,67,173,97,13,96,Alert,,,None,70,174,95,Alert,No,Routine awareness,Queued,REV03,2025-02-23T09:26:00Z
+SYN0340,2025-01-19T10:57:00Z,1,0,16,62,,Chest discomfort,83,120,73,17,96,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-02-07T18:59:00Z
+SYN0341,2025-12-25T15:33:00Z,2,5,6,66,Female,Shortness of breath,81,125,79,28,95,Alert,,,Oxygen,78,131,95,Alert,No,Preparation can wait,Queued,REV02,2026-01-24T00:20:00Z
+SYN0342,2025-11-07T13:48:00Z,2,8,9,,Male,Seizure,87,158,96,14,96,Alert,103,,Midazolam,89,152,96,Alert,No,Routine awareness,Queued,REV01,2025-11-22T18:32:00Z
+SYN0343,2025-01-02T09:39:00Z,1,0,14,86,Male,Altered mental status,93,111,75,,93,Alert,42,37.6,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-02-03T09:56:00Z
+SYN0344,2025-01-20T14:24:00Z,1,0,9,58,Male,Shortness of breath,75,,,,,Responds to voice,,,None,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-01-23T15:34:00Z
+SYN0345,2025-12-28T13:49:00Z,2,8,11,76,Male,Fall,73,141,85,13,95,Alert,,,None,73,148,96,Alert,Uncertain,Routine awareness,Queued,REV02,2026-01-12T22:19:00Z
+SYN0346,2025-11-05T12:25:00Z,2,5,15,63,Female,Chest discomfort,76,131,72,15,,Alert,,,Nitroglycerin,72,136,98,Alert,No,Preparation can wait,Queued,REV02,2025-11-22T13:02:00Z
+SYN0347,2025-03-23T22:26:00Z,1,0,14,18,Female,Allergic reaction,110,71,48,17,92,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV01,2025-04-20T03:05:00Z
+SYN0348,2025-06-05T17:52:00Z,1,0,8,60,Male,Weakness with fever,135,65,40,21,91,Unresponsive,148,39.5,IV fluids,,,,,No prior information,Prepare now,Queued,REV04,2025-06-27T22:47:00Z
+SYN0349,2025-04-30T16:53:00Z,1,0,7,60,Female,Stroke symptoms,94,160,91,16,97,Responds to voice,105,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-06-04T02:28:00Z
+SYN0350,2025-06-25T20:45:00Z,1,0,4,53,Male,Stroke symptoms,91,145,90,12,95,Alert,78,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-07-01T00:02:00Z
+SYN0351,2025-04-03T03:09:00Z,2,6,8,81,Male,Altered mental status,85,141,92,22,95,Alert,150,,Glucose,99,147,93,Unresponsive,Yes,Routine awareness,Queued,REV04,2025-04-16T04:15:00Z
+SYN0352,2025-01-24T13:59:00Z,1,0,4,99,Female,Fall,108,130,78,18,93,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-02-25T23:16:00Z
+SYN0353,2025-12-13T21:24:00Z,2,7,6,71,Female,Chest discomfort,97,129,72,,96,Alert,,,None,105,126,94,Alert,No,Preparation can wait,Queued,REV02,2026-01-06T04:34:00Z
+SYN0354,2025-07-27T23:27:00Z,1,0,11,39,Male,Abdominal pain,83,98,62,18,96,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-08-20T04:14:00Z
+SYN0355,2025-05-05T16:20:00Z,2,13,23,73,Female,Chest discomfort,97,146,82,21,,Alert,105,,Aspirin,88,143,94,Alert,No,Preparation can wait,Queued,REV03,2025-05-26T00:27:00Z
+SYN0356,2025-05-30T08:34:00Z,2,9,12,46,,Low blood sugar,92,103,59,21,95,Alert,42,,Glucose,115,100,94,Alert,Yes,Prepare now,Queued,REV04,2025-07-03T12:23:00Z
+SYN0357,2025-02-06T10:23:00Z,1,0,26,62,Male,Chest discomfort,90,151,102,18,99,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-03-07T18:43:00Z
+SYN0358,2025-09-06T19:20:00Z,1,0,9,59,Female,Weakness with fever,111,139,80,14,95,Alert,128,38.6,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-23T22:22:00Z
+SYN0359,2025-12-01T05:43:00Z,1,0,13,21,Male,Allergic reaction,89,115,76,15,95,Confused,,,Diphenhydramine,,,,,No prior information,Preparation can wait,Queued,REV02,2025-12-25T13:55:00Z
+SYN0360,2025-12-01T20:25:00Z,2,7,20,73,Female,Altered mental status,97,144,88,17,95,Confused,115,36.4,Glucose,112,140,93,Responds to pain,Yes,Preparation can wait,Queued,REV04,2026-01-06T00:45:00Z
+SYN0361,2025-05-07T05:56:00Z,1,0,12,,Male,Weakness with fever,82,108,60,15,95,Alert,110,39.4,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-05-12T11:51:00Z
+SYN0362,2025-11-23T19:05:00Z,2,14,9,23,Male,Seizure,69,,,15,,Confused,109,37.8,Midazolam,81,121,94,Confused,Uncertain,Cannot assess,Needs Review,REV01,2025-12-26T22:38:00Z
+SYN0363,2025-04-17T01:32:00Z,1,0,24,60,Female,Stroke symptoms,88,168,98,20,94,Alert,98,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-05-13T09:48:00Z
+SYN0364,2025-02-05T23:31:00Z,2,4,8,24,Female,Motor vehicle collision,101,133,74,,95,Alert,,,IV fluids,96,131,97,Alert,Uncertain,Routine awareness,Queued,REV03,2025-03-04T02:48:00Z
+SYN0365,2025-12-04T23:00:00Z,1,0,12,66,Female,Fall,78,118,70,15,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-12-15T23:15:00Z
+SYN0366,2025-08-01T03:18:00Z,2,9,10,78,Female,Weakness with fever,86,89,57,20,93,Alert,,38.9,None,108,,90,Alert,Yes,Prepare now,Queued,REV04,2025-08-23T04:14:00Z
+SYN0367,2025-12-22T04:04:00Z,1,0,13,76,Male,Abdominal pain,101,140,86,14,95,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2026-01-29T08:35:00Z
+SYN0368,2025-05-02T16:11:00Z,1,0,22,46,Female,Motor vehicle collision,80,143,89,15,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-05-21T19:48:00Z
+SYN0369,2025-07-10T15:12:00Z,1,0,14,94,Male,Weakness with fever,99,,,15,97,Alert,99,38.5,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-12T17:19:00Z
+SYN0370,2025-10-13T20:00:00Z,1,0,11,34,Male,Weakness with fever,83,95,54,10,94,Alert,,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-11T02:21:00Z
+SYN0371,2025-04-16T12:16:00Z,1,0,20,67,Male,Stroke symptoms,82,164,98,,99,Alert,103,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-05-03T20:14:00Z
+SYN0372,2025-09-01T21:34:00Z,1,0,12,77,Male,Fall,97,153,85,15,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-09-05T02:36:00Z
+SYN0373,2025-01-23T09:32:00Z,2,3,12,56,Male,Abdominal pain,79,109,64,17,97,Alert,,36.3,IV fluids,91,85,95,Alert,Yes,Routine awareness,Queued,REV02,2025-02-19T19:18:00Z
+SYN0374,2025-08-02T05:12:00Z,1,0,15,46,Male,Low blood sugar,85,137,84,14,98,Responds to voice,47,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-08-05T05:56:00Z
+SYN0375,2025-09-10T11:59:00Z,1,0,18,40,Female,Motor vehicle collision,94,94,57,15,97,Confused,,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-09-15T16:46:00Z
+SYN0376,2025-02-06T07:51:00Z,2,9,8,43,Female,Chest discomfort,109,140,83,24,95,Alert,,,None,122,144,93,Alert,No,Preparation can wait,Queued,REV02,2025-02-11T11:41:00Z
+SYN0377,2025-03-13T16:30:00Z,1,0,12,78,Male,Shortness of breath,118,145,84,27,91,Responds to pain,,,Oxygen,,,,,No prior information,Prepare now,Queued,REV03,2025-04-01T23:36:00Z
+SYN0378,2025-11-29T00:35:00Z,1,0,8,53,Male,Altered mental status,73,103,57,16,93,Alert,81,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-12-21T09:44:00Z
+SYN0379,2025-03-29T07:26:00Z,1,0,13,53,Female,Fall,74,119,68,15,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-04-11T07:58:00Z
+SYN0380,2025-01-04T10:22:00Z,1,0,15,47,Female,Low blood sugar,96,99,57,14,98,Alert,58,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-02-04T16:08:00Z
+SYN0381,2025-08-11T06:00:00Z,1,0,26,89,Male,Stroke symptoms,83,154,86,15,99,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-09-02T15:59:00Z
+SYN0382,2025-04-17T02:09:00Z,2,10,5,47,Male,Altered mental status,84,119,79,17,91,Confused,120,36.8,None,97,125,88,Responds to voice,Yes,Preparation can wait,Queued,REV01,2025-05-02T06:15:00Z
+SYN0383,2025-08-04T04:35:00Z,2,6,11,78,Male,Fall,83,151,89,,95,Confused,144,36.4,None,86,136,96,Confused,No,Routine awareness,Queued,REV03,2025-09-12T11:17:00Z
+SYN0384,2025-09-07T19:24:00Z,2,9,19,91,Female,Altered mental status,79,140,83,19,95,Responds to voice,36,36.5,None,93,135,92,Responds to pain,Yes,Prepare now,Queued,REV04,2025-09-24T20:06:00Z
+SYN0385,2025-03-04T05:17:00Z,2,12,11,68,Female,Chest discomfort,93,141,93,18,92,Alert,128,,None,97,149,91,Alert,No,Preparation can wait,Queued,REV02,2025-04-05T09:02:00Z
+SYN0386,2025-04-28T22:50:00Z,2,9,5,38,Female,Allergic reaction,95,109,64,21,97,Alert,,,Epinephrine,87,110,96,Alert,No,Routine awareness,Queued,REV04,2025-05-14T00:10:00Z
+SYN0387,2025-08-24T18:29:00Z,2,14,19,48,Male,Motor vehicle collision,81,108,65,,96,Alert,,,IV fluids,88,110,95,Alert,No,Routine awareness,Queued,REV02,2025-10-03T01:03:00Z
+SYN0388,2025-12-25T17:10:00Z,2,9,10,,Female,Seizure,94,132,80,18,94,Confused,,,Midazolam,95,123,95,Confused,No,Preparation can wait,Queued,REV02,2026-01-10T03:04:00Z
+SYN0389,2025-05-16T07:13:00Z,2,3,18,71,Male,Shortness of breath,95,114,68,19,96,Alert,,,Albuterol,106,108,92,Alert,Yes,Routine awareness,Queued,REV03,2025-06-21T10:02:00Z
+SYN0390,2025-06-03T21:23:00Z,1,0,10,,Female,Weakness with fever,81,,,17,95,Alert,,39.0,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-11T00:31:00Z
+SYN0391,2025-08-11T12:03:00Z,2,7,25,34,Male,Motor vehicle collision,134,74,45,28,87,Alert,,,IV fluids,138,82,87,Alert,No,Prepare now,Queued,REV02,2025-09-04T14:03:00Z
+SYN0392,2025-04-10T22:03:00Z,1,0,11,,Male,Weakness with fever,118,107,65,18,92,Alert,,38.0,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-09T02:34:00Z
+SYN0393,2025-10-21T09:18:00Z,1,0,7,52,Female,Allergic reaction,80,115,71,17,97,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV03,2025-11-11T09:29:00Z
+SYN0394,2025-11-04T21:38:00Z,2,12,15,18,Male,Abdominal pain,88,124,79,13,,Alert,150,,None,87,125,98,Alert,No,Routine awareness,Queued,REV03,2025-11-09T05:44:00Z
+SYN0395,2025-08-16T01:08:00Z,1,0,6,22,Female,Abdominal pain,68,96,54,,97,Alert,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-08-31T10:39:00Z
+SYN0396,2025-05-12T06:48:00Z,2,12,20,73,Female,Fall,78,135,78,,,Alert,,,Pain medication,82,134,94,Alert,No,Routine awareness,Queued,REV01,2025-06-16T10:10:00Z
+SYN0397,2025-09-23T04:46:00Z,2,11,9,62,Male,Shortness of breath,106,126,78,15,92,Alert,,,None,108,130,91,Alert,No,Preparation can wait,Queued,REV04,2025-10-19T05:20:00Z
+SYN0398,2025-04-19T16:09:00Z,1,0,9,18,Male,Abdominal pain,105,,,24,94,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-05-03T20:13:00Z
+SYN0399,2025-10-03T05:31:00Z,1,0,36,77,Male,Shortness of breath,99,131,86,,96,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV04,2025-10-23T07:35:00Z
+SYN0400,2025-12-17T15:59:00Z,2,5,9,76,Male,Chest discomfort,88,129,86,16,,Alert,,,Aspirin,93,127,96,Alert,No,Preparation can wait,Queued,REV04,2026-01-07T20:54:00Z
+SYN0401,2025-04-30T04:29:00Z,1,0,30,59,Female,Seizure,,138,84,20,98,Confused,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-16T04:59:00Z
+SYN0402,2025-05-07T18:47:00Z,1,0,17,73,Female,Stroke symptoms,81,,,13,97,Alert,123,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-29T21:04:00Z
+SYN0403,2025-05-10T04:09:00Z,2,15,13,51,Male,Low blood sugar,101,92,51,,96,Alert,109,,Glucose,97,88,97,Alert,No,Routine awareness,Queued,REV03,2025-06-16T05:35:00Z
+SYN0404,2025-01-24T12:15:00Z,2,10,8,69,Male,Fall,99,147,86,28,90,Alert,,,Pain medication,83,156,95,Alert,Yes,Preparation can wait,Queued,REV04,2025-01-27T15:09:00Z
+SYN0405,2025-07-04T01:38:00Z,2,12,36,54,Male,Fall,69,130,79,23,96,Alert,,,None,76,129,97,Alert,No,Preparation can wait,Queued,REV02,2025-07-13T10:42:00Z
+SYN0406,2025-09-07T20:00:00Z,1,0,8,,Male,Chest discomfort,93,142,95,14,96,Alert,162,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-10-08T04:20:00Z
+SYN0407,2025-03-15T21:18:00Z,1,0,7,89,,Fall,117,141,79,20,89,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-04-05T03:53:00Z
+SYN0408,2025-05-11T01:55:00Z,2,9,19,77,Male,Fall,78,130,85,,100,Alert,138,,Pain medication,74,128,100,Alert,No,Preparation can wait,Queued,REV02,2025-05-19T02:18:00Z
+SYN0409,2025-10-12T09:22:00Z,1,0,7,41,Female,Altered mental status,82,114,65,,95,Alert,140,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-10-31T18:38:00Z
+SYN0410,2025-10-08T10:25:00Z,1,0,17,68,Female,Low blood sugar,86,121,70,,96,Confused,55,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-10-12T16:59:00Z
+SYN0411,2025-09-16T12:16:00Z,2,3,13,39,Male,Chest discomfort,,136,77,,98,Alert,,,Nitroglycerin,110,129,98,Alert,No,Routine awareness,Queued,REV02,2025-10-18T21:33:00Z
+SYN0412,2025-07-15T18:47:00Z,1,0,16,24,Male,Seizure,84,155,104,14,96,Alert,87,,Midazolam,,,,,No prior information,Routine awareness,Queued,REV04,2025-07-22T20:11:00Z
+SYN0413,2025-12-02T01:58:00Z,1,0,15,50,Male,Chest discomfort,,158,100,15,93,Responds to voice,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-27T05:44:00Z
+SYN0414,2025-11-11T15:19:00Z,2,15,25,76,Female,Shortness of breath,80,156,103,24,94,Alert,,,Oxygen,90,,91,Alert,Yes,Preparation can wait,Queued,REV01,2025-11-16T17:48:00Z
+SYN0415,2025-07-12T01:33:00Z,1,0,13,71,Male,Stroke symptoms,67,169,112,,98,Alert,122,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-08-18T05:14:00Z
+SYN0416,2025-03-20T07:22:00Z,1,0,9,55,Female,Low blood sugar,75,129,84,20,96,Confused,43,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-04-01T12:35:00Z
+SYN0417,2025-02-28T04:14:00Z,2,9,21,75,Female,Shortness of breath,103,169,94,21,96,Alert,,,Albuterol,99,170,96,Alert,No,Routine awareness,Queued,REV01,2025-03-23T11:16:00Z
+SYN0418,2025-06-06T09:02:00Z,1,0,11,98,Male,Fall,77,138,92,14,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-06-21T09:29:00Z
+SYN0419,2025-01-13T11:40:00Z,1,0,8,32,Female,Abdominal pain,69,111,62,14,98,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-02-18T21:33:00Z
+SYN0420,2025-07-19T23:26:00Z,1,0,16,67,Female,Weakness with fever,92,125,83,14,95,Alert,166,39.3,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-08-08T00:11:00Z
+SYN0421,2025-07-19T19:26:00Z,2,10,9,79,Female,Stroke symptoms,109,155,88,25,91,Alert,,36.9,None,111,,90,Alert,No,Prepare now,Queued,REV03,2025-08-29T03:15:00Z
+SYN0422,2025-01-25T01:58:00Z,2,5,19,76,Male,Stroke symptoms,95,,,18,,Alert,95,,None,102,181,,Alert,Uncertain,Prepare now,Queued,REV01,2025-02-05T03:15:00Z
+SYN0423,2025-11-21T16:27:00Z,2,7,15,66,,Stroke symptoms,96,180,109,17,95,Alert,110,,None,95,174,,Alert,No,Prepare now,Queued,REV03,2025-11-24T21:30:00Z
+SYN0424,2025-03-15T00:33:00Z,1,0,9,72,Female,Weakness with fever,97,90,53,21,98,Responds to voice,132,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-04-07T04:15:00Z
+SYN0425,2025-05-10T03:34:00Z,2,12,11,,Female,Low blood sugar,100,165,107,18,99,Alert,94,,Glucose,94,170,98,Alert,No,Routine awareness,Queued,REV01,2025-06-08T06:22:00Z
+SYN0426,2025-05-26T00:05:00Z,2,13,10,71,Male,Chest discomfort,84,149,84,13,97,Alert,,,None,87,153,98,Alert,No,Preparation can wait,Queued,REV04,2025-06-22T01:26:00Z
+SYN0427,2025-11-23T16:31:00Z,1,0,16,51,Male,Shortness of breath,87,160,89,23,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-12-30T18:06:00Z
+SYN0428,2025-04-03T18:46:00Z,1,0,21,67,,Stroke symptoms,90,,,18,,Alert,108,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-04-12T03:27:00Z
+SYN0429,2025-05-04T17:23:00Z,1,0,19,,Male,Low blood sugar,99,157,89,,95,Alert,56,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-05-15T20:32:00Z
+SYN0430,2025-06-15T13:30:00Z,1,0,10,61,Female,Fall,85,113,71,20,95,Confused,,37.3,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-06-25T23:12:00Z
+SYN0431,2025-11-21T06:35:00Z,1,0,16,,Male,Fall,98,116,65,17,97,Alert,,37.3,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-12-17T12:19:00Z
+SYN0432,2025-02-08T23:53:00Z,1,0,13,61,Male,Abdominal pain,100,101,68,21,90,Alert,110,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-03-05T08:48:00Z
+SYN0433,2025-02-18T13:21:00Z,1,0,28,47,Female,Shortness of breath,62,,,20,93,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV02,2025-03-18T18:50:00Z
+SYN0434,2025-09-06T09:15:00Z,1,0,15,53,Female,Shortness of breath,,164,94,16,94,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV01,2025-09-24T13:51:00Z
+SYN0435,2025-04-21T01:43:00Z,2,10,18,60,,Stroke symptoms,63,160,91,19,96,Alert,96,,None,74,148,96,Alert,No,Prepare now,Queued,REV03,2025-05-09T09:48:00Z
+SYN0436,2025-09-04T21:11:00Z,1,0,14,49,Male,Shortness of breath,96,134,86,,92,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-21T03:23:00Z
+SYN0437,2025-10-11T09:05:00Z,1,0,23,,Male,Fall,92,,,15,,Alert,,,None,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-11-14T10:43:00Z
+SYN0438,2025-02-05T03:43:00Z,2,4,15,66,Male,Abdominal pain,79,126,73,17,94,Alert,,,IV fluids,86,125,94,Alert,Uncertain,Routine awareness,Queued,REV01,2025-03-08T05:45:00Z
+SYN0439,2025-03-25T13:03:00Z,1,0,11,30,Female,Abdominal pain,109,118,71,,97,Alert,136,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-23T13:32:00Z
+SYN0440,2025-05-06T21:08:00Z,1,0,25,20,Male,Allergic reaction,94,150,86,16,97,Alert,,,Diphenhydramine,,,,,No prior information,Routine awareness,Queued,REV03,2025-05-26T22:17:00Z
+SYN0441,2025-06-26T04:33:00Z,1,0,30,69,Female,Chest discomfort,85,126,74,15,,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-10T14:09:00Z
+SYN0442,2025-01-07T22:24:00Z,1,0,21,80,Female,Stroke symptoms,69,162,109,19,95,Alert,135,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-01-25T03:57:00Z
+SYN0443,2025-06-10T13:42:00Z,2,11,26,61,,Motor vehicle collision,89,143,84,14,96,Alert,,,IV fluids,87,,96,Alert,No,Routine awareness,Queued,REV02,2025-06-29T17:22:00Z
+SYN0444,2025-07-09T07:43:00Z,2,11,23,19,Male,Seizure,90,138,83,18,92,Confused,123,,None,86,136,92,Alert,Yes,Preparation can wait,Queued,REV03,2025-08-04T12:27:00Z
+SYN0445,2025-01-02T23:11:00Z,2,9,5,57,Male,Chest discomfort,113,134,80,15,95,Alert,,,Aspirin,115,140,94,Alert,No,Preparation can wait,Queued,REV03,2025-01-28T02:33:00Z
+SYN0446,2025-07-26T02:17:00Z,2,15,21,58,Male,Weakness with fever,114,116,74,,93,Confused,,,IV fluids,111,118,93,Confused,No,Preparation can wait,Queued,REV03,2025-08-11T03:58:00Z
+SYN0447,2025-05-05T14:40:00Z,1,0,10,67,Female,Stroke symptoms,78,,,17,,Alert,136,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-06-12T18:35:00Z
+SYN0448,2025-02-25T19:53:00Z,1,0,15,69,Male,Abdominal pain,88,130,85,13,98,Alert,,36.6,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-03-22T03:32:00Z
+SYN0449,2025-11-02T09:03:00Z,1,0,19,69,Male,Abdominal pain,93,118,75,14,98,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-13T14:24:00Z
+SYN0450,2025-12-21T20:36:00Z,1,0,12,81,Female,Shortness of breath,95,,,21,,Alert,,,Oxygen,,,,,No prior information,Cannot assess,Needs Review,REV01,2026-01-06T05:22:00Z
+SYN0451,2025-05-08T00:14:00Z,2,8,17,,Male,Fall,102,138,84,16,96,Alert,,,None,93,148,96,Alert,No,Routine awareness,Queued,REV03,2025-05-29T04:34:00Z
+SYN0452,2025-09-16T04:27:00Z,1,0,13,68,Male,Chest discomfort,83,158,100,16,98,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-05T10:59:00Z
+SYN0453,2025-03-26T22:38:00Z,1,0,15,73,Male,Chest discomfort,71,167,99,17,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-04-01T23:09:00Z
+SYN0454,2025-08-02T10:24:00Z,1,0,12,49,Male,Chest discomfort,94,,,16,,Alert,,,Nitroglycerin,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-09-10T19:06:00Z
+SYN0455,2025-08-26T12:28:00Z,1,0,21,,Female,Seizure,83,144,81,18,94,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-08-29T15:11:00Z
+SYN0456,2025-07-16T10:33:00Z,1,0,17,34,Female,Altered mental status,88,136,86,,96,Confused,55,36.9,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-08-12T12:23:00Z
+SYN0457,2025-11-07T00:07:00Z,2,5,17,54,Male,Chest discomfort,73,154,86,12,97,Alert,87,,Aspirin,78,151,97,Alert,No,Preparation can wait,Queued,REV01,2025-11-19T06:28:00Z
+SYN0458,2025-01-13T10:31:00Z,2,11,14,25,Female,Motor vehicle collision,69,118,67,15,99,Alert,,,IV fluids,72,118,100,Alert,No,Routine awareness,Queued,REV01,2025-02-01T10:51:00Z
+SYN0459,2025-10-30T21:24:00Z,2,5,5,43,Female,Allergic reaction,86,129,82,15,95,Confused,,,Epinephrine,81,125,95,Confused,No,Preparation can wait,Queued,REV03,2025-11-13T23:24:00Z
+SYN0460,2025-10-17T19:58:00Z,2,10,20,37,,Chest discomfort,89,107,68,12,97,Alert,,,None,110,109,94,Alert,Yes,Routine awareness,Queued,REV04,2025-11-15T03:14:00Z
+SYN0461,2025-02-28T22:44:00Z,2,15,11,93,Male,Stroke symptoms,98,182,119,19,95,Alert,160,,None,105,187,,Alert,No,Prepare now,Queued,REV01,2025-04-05T06:59:00Z
+SYN0462,2025-09-30T22:09:00Z,1,0,8,70,Female,Fall,91,118,78,18,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-10-21T02:18:00Z
+SYN0463,2025-04-13T01:18:00Z,2,9,13,74,Female,Altered mental status,70,138,83,,,Alert,218,,Glucose,71,143,95,Alert,No,Routine awareness,Queued,REV03,2025-05-10T07:35:00Z
+SYN0464,2025-04-25T13:37:00Z,2,14,14,,Female,Weakness with fever,84,108,66,19,96,Alert,,39.0,None,80,114,,Alert,No,Preparation can wait,Queued,REV03,2025-05-07T15:25:00Z
+SYN0465,2025-06-22T17:57:00Z,1,0,23,99,Male,Weakness with fever,96,134,77,16,95,Alert,,39.6,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-05T23:34:00Z
+SYN0466,2025-05-31T08:29:00Z,2,7,7,58,Female,Chest discomfort,94,135,88,,95,Alert,,,None,100,140,92,Alert,Yes,Routine awareness,Queued,REV04,2025-06-05T17:15:00Z
+SYN0467,2025-04-25T03:29:00Z,1,0,21,35,Female,Chest discomfort,83,136,75,13,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-05-24T05:41:00Z
+SYN0468,2025-08-26T03:06:00Z,1,0,17,,Female,Shortness of breath,93,135,84,20,93,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-08T09:52:00Z
+SYN0469,2025-08-28T01:57:00Z,1,0,34,89,Female,Altered mental status,84,174,112,19,93,Alert,131,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-15T02:57:00Z
+SYN0470,2025-12-26T19:35:00Z,1,0,20,53,Male,Weakness with fever,91,141,84,15,96,Alert,115,39.4,None,,,,,No prior information,Preparation can wait,Queued,REV01,2026-01-25T03:29:00Z
+SYN0471,2025-11-03T00:12:00Z,2,7,28,47,Male,Weakness with fever,126,98,65,17,94,Alert,,38.6,IV fluids,120,99,93,Alert,No,Preparation can wait,Queued,REV04,2025-12-13T06:36:00Z
+SYN0472,2025-11-22T12:45:00Z,2,8,10,78,Male,Shortness of breath,122,122,80,29,90,Alert,,,None,118,120,89,Alert,No,Prepare now,Queued,REV04,2025-12-10T19:31:00Z
+SYN0473,2025-01-20T05:59:00Z,2,4,15,70,Female,Fall,77,112,72,13,98,Alert,119,,None,86,111,,Alert,No,Routine awareness,Queued,REV04,2025-02-02T07:44:00Z
+SYN0474,2025-12-13T12:50:00Z,1,0,15,18,Female,Allergic reaction,92,116,75,18,99,Alert,75,,Diphenhydramine,,,,,No prior information,Routine awareness,Queued,REV03,2026-01-15T13:28:00Z
+SYN0475,2025-12-12T01:12:00Z,2,12,11,40,Male,Chest discomfort,95,160,92,16,96,Alert,,,Aspirin,96,161,96,Alert,No,Preparation can wait,Queued,REV01,2025-12-28T06:32:00Z
+SYN0476,2025-01-11T12:21:00Z,1,0,5,86,,Altered mental status,,129,82,19,95,Alert,80,37.2,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-02-18T12:54:00Z
+SYN0477,2025-06-15T05:05:00Z,1,0,9,66,Male,Stroke symptoms,93,200,118,,94,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-06-29T09:55:00Z
+SYN0478,2025-05-02T23:27:00Z,1,0,15,54,Male,Stroke symptoms,72,176,97,18,96,Confused,146,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-06-11T02:47:00Z
+SYN0479,2025-10-14T05:57:00Z,1,0,10,32,Female,Shortness of breath,111,145,80,21,94,Alert,,37.2,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-21T06:55:00Z
+SYN0480,2025-11-15T14:18:00Z,1,0,13,71,Female,Stroke symptoms,77,,,,,Alert,114,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-12-08T18:40:00Z
+SYN0481,2025-11-18T21:13:00Z,1,0,8,18,Female,Abdominal pain,96,,,11,,Alert,,,IV fluids,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-12-07T04:11:00Z
+SYN0482,2025-10-22T00:55:00Z,1,0,6,34,Male,Seizure,79,153,86,19,95,Responds to voice,104,37.0,Midazolam,,,,,No prior information,Preparation can wait,Queued,REV02,2025-10-31T02:36:00Z
+SYN0483,2025-06-09T07:11:00Z,1,0,13,46,,Allergic reaction,92,,,17,97,Alert,,,Diphenhydramine,,,,,No prior information,Routine awareness,Queued,REV01,2025-07-13T16:00:00Z
+SYN0484,2025-04-07T04:23:00Z,2,12,19,64,Male,Weakness with fever,95,,,15,94,Alert,95,38.8,None,112,68,91,Alert,Yes,Preparation can wait,Queued,REV04,2025-05-11T07:42:00Z
+SYN0485,2025-06-24T05:10:00Z,1,0,7,,Male,Allergic reaction,106,105,68,15,96,Alert,,,Diphenhydramine,,,,,No prior information,Routine awareness,Queued,REV04,2025-08-02T12:13:00Z
+SYN0486,2025-04-24T18:20:00Z,1,0,10,19,Male,Motor vehicle collision,87,133,80,14,96,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-05-30T00:46:00Z
+SYN0487,2025-01-30T23:20:00Z,2,11,11,46,,Weakness with fever,94,144,94,17,97,Alert,,39.3,IV fluids,99,144,97,Alert,No,Preparation can wait,Queued,REV04,2025-03-01T08:37:00Z
+SYN0488,2025-07-28T12:30:00Z,2,7,14,50,Male,Low blood sugar,67,150,99,14,97,Alert,115,,Glucose,62,,97,Confused,Yes,Routine awareness,Queued,REV03,2025-09-05T17:09:00Z
+SYN0489,2025-03-14T11:50:00Z,1,0,17,37,Male,Shortness of breath,84,125,76,22,94,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV02,2025-04-09T17:30:00Z
+SYN0490,2025-08-13T15:50:00Z,1,0,16,90,Female,Weakness with fever,101,109,62,16,94,Confused,165,38.9,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-08-19T23:09:00Z
+SYN0491,2025-08-10T19:42:00Z,2,3,12,,Male,Abdominal pain,84,137,88,14,,Alert,,,Pain medication,108,126,93,Alert,Yes,Routine awareness,Queued,REV02,2025-09-05T00:54:00Z
+SYN0492,2025-08-29T19:25:00Z,2,12,16,61,,Chest discomfort,80,167,93,16,96,Alert,,,Aspirin,82,162,97,Alert,No,Preparation can wait,Queued,REV02,2025-09-01T22:40:00Z
+SYN0493,2025-10-15T13:57:00Z,1,0,16,76,Male,Shortness of breath,89,134,81,,,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-24T17:36:00Z
+SYN0494,2025-12-10T05:55:00Z,2,4,10,41,Female,Seizure,82,120,69,20,94,Responds to pain,,,None,75,115,96,Confused,Yes,Prepare now,Queued,REV01,2025-12-16T15:34:00Z
+SYN0495,2025-01-28T15:00:00Z,2,5,11,50,Female,Low blood sugar,,125,73,16,96,Confused,71,,Glucose,71,,96,Confused,No,Preparation can wait,Queued,REV04,2025-02-13T23:57:00Z
+SYN0496,2025-04-19T20:12:00Z,1,0,8,43,Female,Weakness with fever,98,97,60,17,94,Alert,,39.3,IV fluids,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-23T02:35:00Z
+SYN0497,2025-04-18T10:28:00Z,2,12,16,33,Female,Motor vehicle collision,101,127,79,18,99,Alert,,,None,93,129,98,Alert,No,Routine awareness,Queued,REV04,2025-04-26T11:22:00Z
+SYN0498,2025-09-09T06:08:00Z,1,0,12,79,Female,Shortness of breath,109,128,81,27,,Alert,179,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-17T11:44:00Z
+SYN0499,2025-02-15T05:14:00Z,1,0,6,70,Female,Weakness with fever,111,114,76,21,94,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-03-18T13:35:00Z
+SYN0500,2025-10-24T01:58:00Z,2,3,32,18,,Motor vehicle collision,82,110,70,,98,Alert,,,None,91,105,96,Alert,Uncertain,Routine awareness,Queued,REV04,2025-11-17T07:41:00Z
+SYN0501,2025-09-20T09:33:00Z,2,8,20,59,,Altered mental status,116,133,86,19,95,Alert,147,37.2,None,113,138,95,Alert,No,Preparation can wait,Queued,REV04,2025-09-24T13:14:00Z
+SYN0502,2025-06-24T23:54:00Z,1,0,16,66,Female,Shortness of breath,84,126,75,,96,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-29T06:58:00Z
+SYN0503,2025-10-11T10:29:00Z,2,5,6,57,,Altered mental status,,102,58,18,93,Responds to pain,163,,Glucose,111,108,90,Unresponsive,Uncertain,Prepare now,Queued,REV01,2025-10-25T17:10:00Z
+SYN0504,2025-06-01T06:42:00Z,2,3,18,88,Male,Shortness of breath,97,166,102,23,95,Alert,,,Albuterol,88,159,97,Alert,No,Preparation can wait,Queued,REV04,2025-06-12T09:40:00Z
+SYN0505,2025-09-03T23:16:00Z,2,6,11,44,Male,Shortness of breath,104,133,83,,95,Alert,108,,None,97,127,95,Alert,No,Routine awareness,Queued,REV02,2025-10-10T23:26:00Z
+SYN0506,2025-03-16T18:29:00Z,2,6,26,68,Male,Abdominal pain,92,105,69,15,96,Alert,,,None,101,105,96,Alert,No,Routine awareness,Queued,REV02,2025-04-21T18:41:00Z
+SYN0507,2025-05-24T22:55:00Z,1,0,17,60,Male,Shortness of breath,99,,,20,,Alert,,,Oxygen,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-06-05T04:57:00Z
+SYN0508,2025-09-19T20:01:00Z,2,6,24,99,Male,Chest discomfort,100,163,106,13,97,Alert,,,None,126,161,92,Alert,Yes,Preparation can wait,Queued,REV01,2025-10-16T04:57:00Z
+SYN0509,2025-05-31T16:23:00Z,1,0,8,48,Female,Abdominal pain,104,94,57,22,92,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV01,2025-06-16T01:31:00Z
+SYN0510,2025-08-10T08:44:00Z,1,0,9,76,Female,Fall,100,125,76,19,96,Alert,100,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-08-17T10:00:00Z
+SYN0511,2025-01-12T05:50:00Z,1,0,9,62,Female,Fall,74,124,74,19,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-02-19T06:53:00Z
+SYN0512,2025-11-25T09:49:00Z,1,0,19,85,,Abdominal pain,101,145,90,15,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-12-12T13:13:00Z
+SYN0513,2025-10-17T18:50:00Z,1,0,15,54,Female,Weakness with fever,110,105,58,12,94,Alert,191,39.3,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-11-10T21:09:00Z
+SYN0514,2025-06-26T16:37:00Z,1,0,10,91,Male,Shortness of breath,84,164,109,23,93,Alert,126,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV02,2025-07-13T17:25:00Z
+SYN0515,2025-10-19T15:00:00Z,2,12,14,29,Male,Seizure,105,130,86,16,95,Alert,102,,Midazolam,101,126,95,Confused,Yes,Preparation can wait,Queued,REV02,2025-11-03T00:50:00Z
+SYN0516,2025-05-09T00:38:00Z,1,0,7,20,Male,Seizure,89,142,86,19,97,Responds to pain,,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-28T03:01:00Z
+SYN0517,2025-07-18T03:55:00Z,1,0,21,77,Female,Shortness of breath,95,146,94,22,93,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-07-29T10:30:00Z
+SYN0518,2025-12-05T12:45:00Z,1,0,16,28,Female,Seizure,91,120,70,19,98,Alert,110,,None,,,,,No prior information,Routine awareness,Queued,REV04,2026-01-10T17:45:00Z
+SYN0519,2025-01-10T20:56:00Z,2,10,6,18,Male,Seizure,85,136,82,,96,Alert,99,,Midazolam,82,130,97,Alert,No,Routine awareness,Queued,REV01,2025-01-19T00:42:00Z
+SYN0520,2025-01-09T14:52:00Z,1,0,12,60,,Abdominal pain,103,119,80,18,95,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-01-15T18:17:00Z
+SYN0521,2025-04-30T05:32:00Z,2,6,11,20,,Allergic reaction,80,,,,91,Alert,,,Epinephrine,74,109,92,Alert,No,Preparation can wait,Queued,REV02,2025-06-01T12:50:00Z
+SYN0522,2025-07-11T16:51:00Z,2,3,15,18,Male,Seizure,57,139,88,13,,Alert,128,,Midazolam,65,135,95,Alert,No,Routine awareness,Queued,REV04,2025-07-21T20:52:00Z
+SYN0523,2025-08-21T13:06:00Z,1,0,9,87,Male,Fall,68,153,84,16,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-08-30T18:49:00Z
+SYN0524,2025-03-25T08:07:00Z,1,0,40,50,Female,Abdominal pain,86,154,94,20,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-28T13:27:00Z
+SYN0525,2025-03-01T07:46:00Z,2,6,13,58,,Chest discomfort,95,137,80,18,,Alert,,,None,92,132,95,Alert,No,Preparation can wait,Queued,REV04,2025-03-18T13:09:00Z
+SYN0526,2025-03-06T07:54:00Z,1,0,6,24,Male,Altered mental status,67,130,81,13,95,Confused,151,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-03-15T09:11:00Z
+SYN0527,2025-02-01T16:13:00Z,1,0,11,,Female,Shortness of breath,101,,,,,Alert,,,Albuterol,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-03-11T16:39:00Z
+SYN0528,2025-01-01T05:35:00Z,1,0,14,60,Female,Altered mental status,96,109,61,16,97,Alert,117,,Glucose,,,,,No prior information,Routine awareness,Queued,REV02,2025-02-04T13:46:00Z
+SYN0529,2025-06-05T06:41:00Z,1,0,23,57,Male,Allergic reaction,85,115,75,17,96,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV04,2025-06-10T08:27:00Z
+SYN0530,2025-05-05T13:02:00Z,1,0,9,81,,Chest discomfort,88,132,88,18,94,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-05-12T21:24:00Z
+SYN0531,2025-08-16T08:54:00Z,2,4,21,57,Male,Shortness of breath,101,139,89,,94,Alert,,,Albuterol,95,141,93,Alert,No,Routine awareness,Queued,REV02,2025-08-22T16:58:00Z
+SYN0532,2025-10-03T07:55:00Z,1,0,10,67,Male,Chest discomfort,89,151,88,,94,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-17T17:55:00Z
+SYN0533,2025-04-18T10:29:00Z,2,14,16,47,Female,Shortness of breath,75,136,91,19,95,Alert,,,Oxygen,71,,,Alert,No,Routine awareness,Queued,REV03,2025-05-23T14:06:00Z
+SYN0534,2025-11-16T11:32:00Z,1,0,18,65,Female,Stroke symptoms,,164,99,18,97,Alert,102,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-11-29T15:45:00Z
+SYN0535,2025-06-06T15:29:00Z,1,0,15,71,Female,Chest discomfort,110,164,104,19,93,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-07-01T17:44:00Z
+SYN0536,2025-08-01T00:07:00Z,2,4,13,62,Male,Fall,85,,,16,98,Alert,,,None,74,122,99,Alert,No,Routine awareness,Queued,REV03,2025-09-07T07:08:00Z
+SYN0537,2025-11-26T02:15:00Z,1,0,8,63,Female,Fall,90,134,81,18,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-12-02T02:39:00Z
+SYN0538,2025-07-06T07:36:00Z,1,0,10,99,,Stroke symptoms,76,170,114,21,95,Alert,193,36.9,None,,,,,No prior information,Prepare now,Queued,REV04,2025-07-20T08:18:00Z
+SYN0539,2025-12-18T15:44:00Z,1,0,22,68,Female,Weakness with fever,,121,81,13,94,Confused,,38.3,None,,,,,No prior information,Preparation can wait,Queued,REV04,2026-01-20T19:05:00Z
+SYN0540,2025-10-20T12:04:00Z,1,0,12,69,Male,Shortness of breath,68,146,97,,,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-16T17:42:00Z
+SYN0541,2025-02-20T16:16:00Z,1,0,7,59,Male,Altered mental status,,130,80,,97,Alert,187,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV02,2025-03-04T00:49:00Z
+SYN0542,2025-02-20T04:16:00Z,1,0,16,83,Female,Stroke symptoms,84,147,91,,98,Confused,103,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-03-23T12:29:00Z
+SYN0543,2025-09-29T08:48:00Z,1,0,14,59,Male,Chest discomfort,71,141,85,13,95,Alert,163,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-10-24T14:41:00Z
+SYN0544,2025-02-22T15:32:00Z,1,0,10,41,Female,Abdominal pain,85,115,65,15,95,Alert,,36.7,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-02-27T19:54:00Z
+SYN0545,2025-08-28T04:57:00Z,2,6,35,74,Female,Allergic reaction,118,152,93,14,94,Alert,,,Epinephrine,113,151,,Alert,No,Preparation can wait,Queued,REV02,2025-09-01T06:12:00Z
+SYN0546,2025-06-25T02:36:00Z,2,10,15,58,Female,Abdominal pain,105,122,78,11,96,Alert,152,,None,100,118,97,Alert,No,Routine awareness,Queued,REV03,2025-07-06T12:05:00Z
+SYN0547,2025-08-23T14:50:00Z,1,0,17,66,Male,Stroke symptoms,79,152,88,18,95,Alert,91,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-09-28T16:53:00Z
+SYN0548,2025-04-15T21:16:00Z,1,0,11,50,Male,Abdominal pain,79,121,70,18,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-20T04:40:00Z
+SYN0549,2025-01-25T18:43:00Z,1,0,13,64,Female,Chest discomfort,62,148,82,18,96,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-02-20T21:51:00Z
+SYN0550,2025-07-08T21:25:00Z,1,0,17,99,Male,Fall,97,150,95,16,96,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV01,2025-07-26T05:42:00Z
+SYN0551,2025-11-06T23:22:00Z,2,5,8,84,Male,Fall,67,133,75,,96,Alert,,,Pain medication,62,137,,Alert,No,Routine awareness,Queued,REV01,2025-11-28T03:19:00Z
+SYN0552,2025-02-11T15:45:00Z,1,0,8,85,Female,Weakness with fever,113,98,54,24,87,Alert,,39.0,None,,,,,No prior information,Prepare now,Queued,REV02,2025-03-03T20:27:00Z
+SYN0553,2025-12-05T15:57:00Z,1,0,9,62,Female,Shortness of breath,90,,,21,,Alert,,,Albuterol,,,,,No prior information,Cannot assess,Needs Review,REV01,2026-01-05T16:04:00Z
+SYN0554,2025-11-13T03:54:00Z,1,0,16,58,Female,Altered mental status,104,,,17,,Alert,176,,None,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-12-23T07:09:00Z
+SYN0555,2025-11-05T15:40:00Z,1,0,13,50,Male,Low blood sugar,82,136,84,,96,Responds to voice,22,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-11-08T18:01:00Z
+SYN0556,2025-03-06T17:28:00Z,1,0,11,79,Female,Abdominal pain,69,165,109,20,97,Alert,97,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV01,2025-03-14T21:36:00Z
+SYN0557,2025-07-27T10:26:00Z,2,6,22,80,Male,Stroke symptoms,78,147,86,15,95,Alert,,,None,79,148,94,Alert,No,Prepare now,Queued,REV01,2025-08-15T15:15:00Z
+SYN0558,2025-01-19T18:49:00Z,2,5,5,71,Male,Low blood sugar,84,129,76,14,98,Confused,119,,Glucose,84,134,96,Responds to pain,Yes,Preparation can wait,Queued,REV03,2025-02-11T20:49:00Z
+SYN0559,2025-11-23T17:51:00Z,1,0,11,80,Male,Stroke symptoms,92,173,113,20,,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-12-08T03:03:00Z
+SYN0560,2025-02-25T10:14:00Z,1,0,16,60,Female,Shortness of breath,120,126,74,25,,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV02,2025-03-15T17:27:00Z
+SYN0561,2025-08-01T23:37:00Z,2,9,13,62,Male,Shortness of breath,,140,86,,96,Alert,,,Albuterol,109,144,93,Alert,Yes,Routine awareness,Queued,REV04,2025-09-11T02:52:00Z
+SYN0562,2025-03-26T15:32:00Z,1,0,27,,Female,Shortness of breath,69,167,95,25,97,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV03,2025-05-03T00:47:00Z
+SYN0563,2025-01-26T04:42:00Z,2,3,9,90,Female,Chest discomfort,105,154,100,18,91,Alert,,36.4,None,102,153,,Alert,No,Preparation can wait,Queued,REV01,2025-02-05T11:58:00Z
+SYN0564,2025-09-17T00:37:00Z,2,11,9,97,Female,Fall,83,,,14,97,Alert,,,None,82,112,97,Alert,No,Routine awareness,Queued,REV04,2025-10-02T09:50:00Z
+SYN0565,2025-02-09T07:53:00Z,2,3,10,29,Male,Seizure,106,111,68,22,89,Unresponsive,41,,Midazolam,86,115,94,Responds to pain,Uncertain,Prepare now,Queued,REV01,2025-03-11T12:44:00Z
+SYN0566,2025-01-30T12:00:00Z,2,14,9,54,Female,Altered mental status,86,115,74,12,98,Responds to voice,169,,None,81,115,97,Responds to voice,No,Routine awareness,Queued,REV04,2025-02-09T16:47:00Z
+SYN0567,2025-10-12T18:56:00Z,1,0,18,,Female,Allergic reaction,78,107,72,18,95,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-20T04:08:00Z
+SYN0568,2025-03-13T07:35:00Z,2,4,15,51,Male,Shortness of breath,91,117,72,15,91,Alert,,37.4,Oxygen,90,118,91,Alert,No,Preparation can wait,Queued,REV01,2025-04-13T07:43:00Z
+SYN0569,2025-01-23T10:51:00Z,1,0,13,66,,Chest discomfort,80,,,,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-02-03T14:50:00Z
+SYN0570,2025-08-08T08:28:00Z,1,0,17,18,Female,Allergic reaction,87,109,64,14,98,Alert,,,Diphenhydramine,,,,,No prior information,Routine awareness,Queued,REV03,2025-08-30T11:16:00Z
+SYN0571,2025-04-21T09:52:00Z,2,6,13,77,Male,Low blood sugar,69,170,98,15,95,Alert,56,,Glucose,83,171,93,Alert,No,Prepare now,Queued,REV01,2025-05-25T14:56:00Z
+SYN0572,2025-08-09T10:36:00Z,2,10,8,,Male,Shortness of breath,83,125,80,29,92,Alert,,,Oxygen,103,131,88,Alert,Yes,Prepare now,Queued,REV01,2025-08-19T15:23:00Z
+SYN0573,2025-06-20T09:03:00Z,1,0,12,57,,Motor vehicle collision,96,122,80,19,91,Alert,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-18T18:30:00Z
+SYN0574,2025-01-02T16:56:00Z,1,0,23,27,Male,Allergic reaction,87,,,,98,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV03,2025-01-19T19:51:00Z
+SYN0575,2025-11-10T22:56:00Z,1,0,10,71,Female,Abdominal pain,89,120,80,18,,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-12-02T06:34:00Z
+SYN0576,2025-12-19T06:02:00Z,1,0,29,77,Male,Shortness of breath,122,143,91,23,90,Responds to pain,,,Albuterol,,,,,No prior information,Prepare now,Queued,REV01,2026-01-19T08:51:00Z
+SYN0577,2025-09-14T18:38:00Z,1,0,10,34,,Seizure,102,154,94,18,96,Alert,50,,Midazolam,,,,,No prior information,Prepare now,Queued,REV04,2025-10-12T00:16:00Z
+SYN0578,2025-10-29T22:40:00Z,2,14,21,79,Male,Stroke symptoms,90,146,85,12,98,Confused,111,,None,84,145,95,Confused,Yes,Prepare now,Queued,REV04,2025-11-03T06:30:00Z
+SYN0579,2025-01-05T20:34:00Z,1,0,9,86,Male,Fall,81,151,92,18,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-01-23T05:59:00Z
+SYN0580,2025-02-01T15:48:00Z,1,0,5,49,Female,Abdominal pain,97,107,59,17,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-01T17:00:00Z
+SYN0581,2025-02-21T03:50:00Z,1,0,15,62,Male,Altered mental status,100,115,75,19,98,Alert,129,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-20T10:45:00Z
+SYN0582,2025-02-12T07:22:00Z,1,0,15,82,,Weakness with fever,105,91,61,20,91,Alert,,39.3,IV fluids,,,,,No prior information,Routine awareness,Queued,REV03,2025-03-23T09:51:00Z
+SYN0583,2025-06-17T21:46:00Z,2,11,8,87,,Weakness with fever,101,119,77,13,95,Alert,146,38.0,IV fluids,105,112,95,Alert,Uncertain,Routine awareness,Queued,REV02,2025-07-07T04:46:00Z
+SYN0584,2025-11-24T10:38:00Z,1,0,6,64,Male,Shortness of breath,,138,80,28,93,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-28T12:03:00Z
+SYN0585,2025-05-08T14:22:00Z,1,0,9,54,Female,Stroke symptoms,64,190,125,20,96,Alert,75,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-31T18:55:00Z
+SYN0586,2025-04-10T06:23:00Z,1,0,10,66,Female,Stroke symptoms,94,133,86,19,92,Responds to pain,165,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-05-07T13:39:00Z
+SYN0587,2025-09-16T08:33:00Z,1,0,15,67,Male,Chest discomfort,91,139,77,16,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-24T11:32:00Z
+SYN0588,2025-09-28T21:34:00Z,2,11,9,65,Female,Chest discomfort,90,141,82,20,92,Alert,,,None,91,141,92,Alert,No,Preparation can wait,Queued,REV02,2025-11-05T00:00:00Z
+SYN0589,2025-01-12T21:24:00Z,1,0,24,62,Male,Stroke symptoms,75,,,25,95,Confused,103,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-01-23T01:50:00Z
+SYN0590,2025-10-05T18:33:00Z,1,0,14,31,Male,Motor vehicle collision,81,,,18,,Alert,,,None,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-10-22T22:28:00Z
+SYN0591,2025-04-12T11:45:00Z,2,11,9,56,Female,Shortness of breath,106,150,85,,92,Alert,,,None,105,145,92,Alert,No,Preparation can wait,Queued,REV02,2025-05-03T21:44:00Z
+SYN0592,2025-08-19T22:19:00Z,2,8,10,20,Male,Abdominal pain,87,138,88,14,95,Alert,,,None,91,,96,Alert,No,Routine awareness,Queued,REV03,2025-09-07T00:46:00Z
+SYN0593,2025-05-28T08:33:00Z,1,0,7,69,,Shortness of breath,94,120,81,20,94,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV03,2025-06-22T12:07:00Z
+SYN0594,2025-11-06T18:08:00Z,1,0,20,60,Male,Chest discomfort,65,,,17,,Alert,,,Nitroglycerin,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-11-18T20:12:00Z
+SYN0595,2025-01-18T16:49:00Z,2,13,4,61,Female,Chest discomfort,80,165,96,19,,Alert,147,,None,89,145,95,Alert,Yes,Preparation can wait,Queued,REV04,2025-02-04T16:52:00Z
+SYN0596,2025-05-12T12:24:00Z,2,11,8,73,Female,Fall,102,147,90,19,96,Alert,,,None,96,151,,Alert,No,Routine awareness,Queued,REV02,2025-06-11T14:57:00Z
+SYN0597,2025-04-07T01:56:00Z,1,0,19,54,Female,Chest discomfort,96,143,93,17,98,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-10T06:20:00Z
+SYN0598,2025-09-12T20:27:00Z,1,0,45,87,,Chest discomfort,86,161,103,,97,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-17T23:30:00Z
+SYN0599,2025-03-08T00:16:00Z,1,0,20,69,Female,Altered mental status,97,124,82,,93,Confused,99,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV01,2025-04-10T08:47:00Z
+SYN0600,2025-11-29T00:11:00Z,1,0,5,73,Female,Fall,72,136,78,11,96,Alert,143,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-12-31T03:14:00Z
+SYN0601,2025-01-19T20:57:00Z,2,13,18,,Female,Altered mental status,105,137,84,20,94,Responds to pain,108,,Glucose,112,146,91,Unresponsive,Yes,Prepare now,Queued,REV03,2025-02-21T06:28:00Z
+SYN0602,2025-08-05T23:36:00Z,2,8,13,37,Female,Shortness of breath,92,145,91,26,95,Alert,,,Oxygen,89,149,98,Alert,Yes,Routine awareness,Queued,REV02,2025-08-10T06:44:00Z
+SYN0603,2025-07-25T21:54:00Z,2,5,30,74,Female,Fall,84,133,86,21,96,Alert,139,,Pain medication,84,131,95,Alert,No,Routine awareness,Queued,REV02,2025-08-24T05:49:00Z
+SYN0604,2025-04-07T02:50:00Z,2,5,15,48,Female,Chest discomfort,80,122,79,,,Alert,,,Aspirin,94,120,92,Alert,No,Routine awareness,Queued,REV01,2025-04-30T08:03:00Z
+SYN0605,2025-07-18T07:46:00Z,2,11,28,20,Male,Motor vehicle collision,95,,,18,96,Alert,,,IV fluids,92,117,95,Alert,No,Routine awareness,Queued,REV04,2025-07-26T11:12:00Z
+SYN0606,2025-03-11T17:19:00Z,1,0,11,40,Male,Seizure,83,116,66,20,94,Alert,168,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-12T03:07:00Z
+SYN0607,2025-07-26T11:14:00Z,2,15,24,42,Male,Abdominal pain,80,135,88,13,96,Alert,,,None,96,122,93,Alert,Yes,Routine awareness,Queued,REV04,2025-08-13T20:57:00Z
+SYN0608,2025-09-28T22:24:00Z,2,15,22,28,Male,Seizure,101,,,,91,Confused,86,,None,101,117,93,Alert,Yes,Preparation can wait,Queued,REV04,2025-10-23T04:58:00Z
+SYN0609,2025-11-12T22:09:00Z,2,13,29,75,Female,Fall,85,123,74,17,97,Responds to voice,,,None,85,121,98,Responds to voice,No,Preparation can wait,Queued,REV02,2025-12-13T22:43:00Z
+SYN0610,2025-09-06T16:42:00Z,1,0,22,63,,Stroke symptoms,89,157,99,10,95,Responds to voice,123,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-10-06T17:14:00Z
+SYN0611,2025-11-22T05:38:00Z,2,8,29,,Male,Chest discomfort,105,163,94,13,98,Alert,,,Nitroglycerin,109,161,98,Alert,No,Preparation can wait,Queued,REV02,2025-11-26T11:13:00Z
+SYN0612,2025-02-08T08:55:00Z,1,0,13,72,Female,Abdominal pain,88,138,86,16,95,Alert,125,36.7,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-02-21T16:28:00Z
+SYN0613,2025-09-22T18:03:00Z,2,8,22,37,Male,Altered mental status,63,,,15,,Confused,,,Glucose,59,155,96,Confused,Uncertain,Cannot assess,Needs Review,REV03,2025-10-12T00:05:00Z
+SYN0614,2025-10-14T19:32:00Z,2,13,9,40,Male,Motor vehicle collision,,128,82,17,96,Alert,,,IV fluids,95,113,96,Alert,No,Preparation can wait,Queued,REV02,2025-11-05T05:07:00Z
+SYN0615,2025-12-08T04:04:00Z,1,0,17,69,Male,Altered mental status,106,108,65,16,95,Alert,137,,Glucose,,,,,No prior information,Routine awareness,Queued,REV04,2026-01-10T08:31:00Z
+SYN0616,2025-05-10T01:05:00Z,1,0,19,64,Male,Shortness of breath,112,,,15,94,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV04,2025-06-14T03:24:00Z
+SYN0617,2025-04-16T18:20:00Z,1,0,9,37,Female,Abdominal pain,112,86,49,22,93,Responds to pain,140,,Pain medication,,,,,No prior information,Prepare now,Queued,REV03,2025-05-02T20:04:00Z
+SYN0618,2025-09-08T17:36:00Z,1,0,17,33,Male,Abdominal pain,118,100,56,18,96,Alert,101,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-09-14T01:48:00Z
+SYN0619,2025-04-16T23:59:00Z,1,0,14,84,Female,Fall,93,136,84,22,95,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-21T01:07:00Z
+SYN0620,2025-06-24T17:45:00Z,1,0,21,46,Male,Low blood sugar,,,,16,,Alert,44,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-07-23T18:16:00Z
+SYN0621,2025-01-31T22:07:00Z,1,0,10,70,Female,Chest discomfort,,149,91,21,,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-02-12T06:29:00Z
+SYN0622,2025-03-16T19:10:00Z,2,7,9,,Female,Low blood sugar,95,145,82,18,95,Confused,70,,Glucose,95,141,95,Alert,Yes,Preparation can wait,Queued,REV03,2025-04-02T04:11:00Z
+SYN0623,2025-01-05T01:19:00Z,2,13,31,87,Female,Weakness with fever,109,112,70,18,96,Alert,97,38.9,IV fluids,107,114,96,Alert,No,Preparation can wait,Queued,REV04,2025-01-19T10:02:00Z
+SYN0624,2025-03-26T21:16:00Z,2,5,5,,Female,Weakness with fever,99,141,83,13,93,Responds to voice,165,38.8,None,105,136,94,Responds to voice,No,Preparation can wait,Queued,REV01,2025-05-01T21:54:00Z
+SYN0625,2025-11-12T20:44:00Z,1,0,10,84,Female,Fall,90,116,73,15,98,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-17T02:26:00Z
+SYN0626,2025-07-21T07:19:00Z,2,7,9,56,,Chest discomfort,70,149,86,,99,Alert,,,Nitroglycerin,72,154,98,Alert,No,Preparation can wait,Queued,REV03,2025-08-24T16:37:00Z
+SYN0627,2025-05-19T14:04:00Z,1,0,17,44,Male,Shortness of breath,103,126,78,26,,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV03,2025-06-19T20:56:00Z
+SYN0628,2025-04-29T15:49:00Z,2,6,17,75,Female,Chest discomfort,89,128,74,22,93,Alert,,,Aspirin,79,124,96,Alert,Yes,Preparation can wait,Queued,REV02,2025-05-08T16:29:00Z
+SYN0629,2025-08-11T12:23:00Z,1,0,17,,Female,Seizure,116,129,80,19,94,Alert,,,Midazolam,,,,,No prior information,Preparation can wait,Queued,REV02,2025-09-01T16:17:00Z
+SYN0630,2025-07-14T13:52:00Z,1,0,14,28,Male,Motor vehicle collision,113,121,70,,95,Alert,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-05T22:22:00Z
+SYN0631,2025-11-03T01:00:00Z,1,0,15,67,Male,Shortness of breath,99,168,107,22,95,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-19T08:23:00Z
+SYN0632,2025-09-18T22:21:00Z,1,0,22,71,Male,Stroke symptoms,,150,85,15,100,Alert,121,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-10-19T04:57:00Z
+SYN0633,2025-10-15T13:30:00Z,1,0,5,23,Male,Seizure,,124,80,21,,Responds to pain,,,Midazolam,,,,,No prior information,Prepare now,Queued,REV02,2025-10-28T22:11:00Z
+SYN0634,2025-04-04T00:27:00Z,1,0,16,71,,Fall,70,162,104,,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-10T06:18:00Z
+SYN0635,2025-11-16T13:52:00Z,2,14,7,99,,Stroke symptoms,92,160,105,16,,Alert,83,,None,90,,97,Alert,No,Prepare now,Queued,REV01,2025-11-19T14:30:00Z
+SYN0636,2025-10-05T04:18:00Z,2,7,8,66,Male,Weakness with fever,93,123,79,13,94,Alert,,39.0,IV fluids,98,120,93,Alert,No,Preparation can wait,Queued,REV03,2025-10-11T12:16:00Z
+SYN0637,2025-09-04T14:30:00Z,1,0,20,78,Male,Chest discomfort,,119,77,16,95,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-13T14:31:00Z
+SYN0638,2025-06-29T22:15:00Z,2,8,18,85,Male,Stroke symptoms,81,179,100,14,98,Alert,,,None,81,181,96,Alert,No,Prepare now,Queued,REV03,2025-07-27T05:48:00Z
+SYN0639,2025-04-26T06:14:00Z,1,0,8,73,Male,Weakness with fever,89,123,76,17,93,Alert,109,40.0,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-05-19T13:34:00Z
+SYN0640,2025-10-11T14:41:00Z,1,0,19,54,Male,Shortness of breath,98,115,72,22,93,Alert,,,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-21T16:29:00Z
+SYN0641,2025-07-06T09:22:00Z,1,0,10,89,Female,Altered mental status,80,141,87,,95,Responds to voice,124,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV02,2025-07-22T12:36:00Z
+SYN0642,2025-03-14T02:27:00Z,2,9,23,67,,Stroke symptoms,,150,85,11,99,Alert,156,,None,99,152,98,Alert,No,Prepare now,Queued,REV02,2025-04-11T09:53:00Z
+SYN0643,2025-04-20T01:24:00Z,1,0,6,48,Female,Allergic reaction,111,110,71,10,95,Alert,,,Epinephrine,,,,,No prior information,Preparation can wait,Queued,REV03,2025-05-14T05:37:00Z
+SYN0644,2025-02-04T18:39:00Z,1,0,17,80,Female,Fall,84,105,71,19,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-03-05T22:24:00Z
+SYN0645,2025-02-22T23:39:00Z,1,0,4,69,Female,Fall,69,149,82,,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-31T00:40:00Z
+SYN0646,2025-11-18T06:55:00Z,2,7,11,52,Female,Low blood sugar,,143,81,,95,Alert,44,,Glucose,84,141,95,Alert,No,Prepare now,Queued,REV02,2025-12-18T10:43:00Z
+SYN0647,2025-09-06T17:20:00Z,2,4,12,55,Female,Stroke symptoms,97,154,90,12,97,Alert,114,,None,92,160,97,Alert,No,Prepare now,Queued,REV03,2025-10-13T18:53:00Z
+SYN0648,2025-03-26T07:14:00Z,1,0,14,81,Male,Weakness with fever,84,120,76,,95,Confused,,39.7,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-05-01T07:54:00Z
+SYN0649,2025-12-20T04:47:00Z,2,4,6,,Male,Shortness of breath,93,129,84,16,95,Responds to voice,,,None,101,,95,Responds to voice,Uncertain,Preparation can wait,Queued,REV04,2026-01-08T11:59:00Z
+SYN0650,2025-12-10T12:36:00Z,1,0,10,81,Male,Chest discomfort,82,,,20,94,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2026-01-06T17:03:00Z
+SYN0651,2025-10-07T14:00:00Z,1,0,21,18,Female,Allergic reaction,106,80,50,15,,Alert,113,,Diphenhydramine,,,,,No prior information,Prepare now,Queued,REV02,2025-11-11T17:29:00Z
+SYN0652,2025-07-06T10:57:00Z,2,8,10,,Female,Altered mental status,,130,73,17,96,Confused,89,,Glucose,117,126,94,Responds to voice,Yes,Preparation can wait,Queued,REV02,2025-07-25T13:52:00Z
+SYN0653,2025-08-26T15:29:00Z,2,11,12,40,Female,Allergic reaction,97,86,57,11,94,Alert,,,Epinephrine,90,98,95,Alert,No,Prepare now,Queued,REV01,2025-10-05T01:09:00Z
+SYN0654,2025-11-05T05:43:00Z,2,15,14,79,,Fall,80,,,20,,Alert,86,,None,95,131,97,Alert,Yes,Cannot assess,Needs Review,REV03,2025-11-23T07:00:00Z
+SYN0655,2025-12-25T03:04:00Z,2,15,15,79,Female,Low blood sugar,93,123,70,20,95,Confused,79,,Glucose,96,117,94,Alert,Yes,Preparation can wait,Queued,REV02,2026-01-12T10:55:00Z
+SYN0656,2025-02-11T14:12:00Z,2,9,10,58,Female,Chest discomfort,81,148,98,15,97,Alert,,,Nitroglycerin,99,137,95,Alert,Yes,Preparation can wait,Queued,REV04,2025-03-19T17:16:00Z
+SYN0657,2025-04-28T14:04:00Z,1,0,14,77,Female,Fall,78,116,64,15,97,Alert,171,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-06-02T18:08:00Z
+SYN0658,2025-11-18T16:20:00Z,1,0,8,21,Female,Low blood sugar,110,124,82,,91,Alert,45,,Glucose,,,,,No prior information,Prepare now,Queued,REV03,2025-12-10T01:46:00Z
+SYN0659,2025-01-05T13:17:00Z,1,0,12,57,Male,Low blood sugar,84,133,89,15,96,Alert,44,,Glucose,,,,,No prior information,Prepare now,Queued,REV02,2025-01-30T17:45:00Z
+SYN0660,2025-12-04T03:06:00Z,2,12,7,58,Male,Weakness with fever,106,109,67,,92,Responds to pain,,38.9,IV fluids,102,109,91,Responds to pain,No,Prepare now,Queued,REV03,2026-01-11T09:54:00Z
+SYN0661,2025-05-20T00:19:00Z,1,0,7,75,Male,Fall,86,131,86,21,,Responds to pain,,,Pain medication,,,,,No prior information,Prepare now,Queued,REV04,2025-06-16T07:40:00Z
+SYN0662,2025-02-08T22:26:00Z,1,0,21,71,Male,Weakness with fever,86,126,81,15,96,Alert,,39.3,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-03-21T08:13:00Z
+SYN0663,2025-10-02T13:32:00Z,1,0,19,71,Male,Stroke symptoms,101,175,116,17,98,Alert,175,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-11-04T16:07:00Z
+SYN0664,2025-06-24T21:34:00Z,1,0,45,69,Male,Stroke symptoms,100,182,104,13,96,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-07-17T07:24:00Z
+SYN0665,2025-06-20T14:28:00Z,1,0,9,66,Male,Weakness with fever,105,98,59,15,96,Alert,,38.8,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-27T20:54:00Z
+SYN0666,2025-05-22T09:30:00Z,1,0,11,,Female,Abdominal pain,106,111,72,21,91,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-06-04T15:49:00Z
+SYN0667,2025-02-25T08:32:00Z,1,0,8,39,Female,Chest discomfort,133,112,74,27,87,Alert,123,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-03-19T08:35:00Z
+SYN0668,2025-08-16T17:29:00Z,1,0,11,54,Female,Chest discomfort,92,141,90,15,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-04T17:35:00Z
+SYN0669,2025-12-13T13:00:00Z,1,0,4,,Female,Shortness of breath,91,130,71,,92,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2026-01-15T16:32:00Z
+SYN0670,2025-10-15T02:27:00Z,2,12,7,60,Female,Shortness of breath,77,139,76,22,91,Alert,,,Oxygen,90,131,89,Responds to voice,Yes,Preparation can wait,Queued,REV04,2025-11-24T03:11:00Z
+SYN0671,2025-06-14T06:02:00Z,1,0,24,86,Female,Stroke symptoms,62,182,114,17,97,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-06-20T08:59:00Z
+SYN0672,2025-06-14T07:05:00Z,2,11,11,86,Male,Fall,98,127,81,15,96,Alert,109,,None,96,118,96,Alert,No,Routine awareness,Queued,REV02,2025-07-07T15:02:00Z
+SYN0673,2025-06-18T13:39:00Z,1,0,22,59,Male,Altered mental status,67,143,80,,96,Confused,87,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-21T20:52:00Z
+SYN0674,2025-08-11T20:32:00Z,1,0,7,77,Male,Shortness of breath,93,136,91,,93,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-08-22T05:51:00Z
+SYN0675,2025-04-27T06:28:00Z,1,0,22,39,Male,Shortness of breath,104,139,84,21,93,Alert,132,36.4,Albuterol,,,,,No prior information,Preparation can wait,Queued,REV04,2025-05-20T08:40:00Z
+SYN0676,2025-01-03T10:22:00Z,1,0,12,87,Female,Fall,94,118,65,17,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-01-08T12:10:00Z
+SYN0677,2025-09-19T10:13:00Z,1,0,16,57,Female,Chest discomfort,123,134,76,16,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-26T14:29:00Z
+SYN0678,2025-03-01T03:04:00Z,1,0,16,73,Male,Stroke symptoms,98,179,100,13,96,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-03-29T04:24:00Z
+SYN0679,2025-08-30T19:08:00Z,2,13,7,92,Male,Weakness with fever,,,,15,94,Alert,,39.5,IV fluids,97,89,91,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-09-21T22:53:00Z
+SYN0680,2025-05-29T13:35:00Z,1,0,17,51,,Altered mental status,106,104,69,9,97,Alert,40,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-07-04T17:20:00Z
+SYN0681,2025-06-14T15:53:00Z,2,10,8,66,Female,Stroke symptoms,76,184,104,15,98,Alert,202,,None,75,182,97,Alert,No,Prepare now,Queued,REV03,2025-07-01T00:37:00Z
+SYN0682,2025-04-02T00:14:00Z,2,14,8,75,Female,Stroke symptoms,94,182,102,,98,Alert,147,,None,92,184,,Alert,No,Prepare now,Queued,REV01,2025-05-08T03:58:00Z
+SYN0683,2025-03-06T13:08:00Z,2,9,13,39,Male,Abdominal pain,89,107,64,,94,Alert,,37.5,None,99,117,,Alert,No,Routine awareness,Queued,REV02,2025-03-24T16:03:00Z
+SYN0684,2025-12-15T02:38:00Z,1,0,25,60,Male,Shortness of breath,,148,99,,93,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV04,2025-12-27T03:13:00Z
+SYN0685,2025-09-06T11:57:00Z,2,15,16,61,Male,Motor vehicle collision,70,,,11,,Alert,,,IV fluids,71,118,97,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-09-09T19:19:00Z
+SYN0686,2025-05-26T16:25:00Z,1,0,10,73,Female,Fall,86,142,80,16,95,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV03,2025-06-12T22:56:00Z
+SYN0687,2025-02-02T08:46:00Z,1,0,17,51,Male,Low blood sugar,83,123,69,13,98,Alert,32,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-03-04T17:00:00Z
+SYN0688,2025-10-15T03:52:00Z,1,0,3,66,Male,Weakness with fever,,105,62,14,96,Alert,,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-10-29T07:11:00Z
+SYN0689,2025-08-12T05:05:00Z,1,0,5,77,Female,Fall,111,141,92,24,92,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV01,2025-08-27T06:17:00Z
+SYN0690,2025-02-11T23:48:00Z,2,14,13,57,Male,Fall,70,119,76,,,Alert,,,None,68,116,97,Alert,No,Routine awareness,Queued,REV03,2025-03-05T04:04:00Z
+SYN0691,2025-09-30T13:14:00Z,2,8,11,61,Female,Weakness with fever,92,127,69,14,97,Confused,129,38.3,IV fluids,108,131,96,Confused,Yes,Routine awareness,Queued,REV01,2025-10-18T13:45:00Z
+SYN0692,2025-10-22T07:35:00Z,1,0,12,89,Female,Shortness of breath,97,137,88,20,95,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-10T15:54:00Z
+SYN0693,2025-03-02T02:59:00Z,1,0,43,74,Male,Chest discomfort,86,,,21,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-04-06T06:17:00Z
+SYN0694,2025-01-18T03:58:00Z,1,0,19,34,Female,Abdominal pain,69,123,78,13,99,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV01,2025-02-14T11:48:00Z
+SYN0695,2025-03-25T11:40:00Z,1,0,6,49,Female,Shortness of breath,,113,70,19,95,Alert,100,37.6,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-22T21:11:00Z
+SYN0696,2025-04-24T21:59:00Z,1,0,36,71,,Shortness of breath,114,136,89,20,90,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV02,2025-05-30T22:30:00Z
+SYN0697,2025-08-23T12:56:00Z,2,12,14,91,Female,Chest discomfort,96,,,20,,Alert,89,,None,86,180,94,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-09-15T17:27:00Z
+SYN0698,2025-07-25T15:56:00Z,2,6,9,83,Male,Shortness of breath,107,143,87,,92,Alert,,,None,112,142,91,Alert,No,Preparation can wait,Queued,REV02,2025-08-20T22:50:00Z
+SYN0699,2025-10-15T19:34:00Z,1,0,8,42,,Stroke symptoms,81,173,107,,95,Alert,121,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-11-13T19:40:00Z
+SYN0700,2025-11-22T14:23:00Z,1,0,18,,Female,Allergic reaction,93,135,81,,97,Alert,149,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV01,2025-12-25T21:18:00Z
+SYN0701,2025-09-10T01:21:00Z,2,4,15,,Male,Seizure,90,,,17,93,Alert,120,,None,88,129,94,Alert,No,Preparation can wait,Queued,REV03,2025-10-01T02:26:00Z
+SYN0702,2025-11-18T20:03:00Z,2,4,16,18,Male,Seizure,83,120,67,20,93,Alert,117,,Midazolam,72,114,96,Alert,Uncertain,Preparation can wait,Queued,REV01,2025-12-21T21:56:00Z
+SYN0703,2025-05-31T14:19:00Z,1,0,7,64,Female,Chest discomfort,87,128,78,14,96,Alert,112,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-19T18:36:00Z
+SYN0704,2025-11-20T00:45:00Z,1,0,19,,Male,Altered mental status,86,142,89,21,96,Alert,54,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-12-24T10:06:00Z
+SYN0705,2025-10-29T10:45:00Z,1,0,10,47,Female,Low blood sugar,87,121,68,16,97,Confused,55,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-11-08T20:16:00Z
+SYN0706,2025-07-24T10:08:00Z,1,0,10,,Female,Shortness of breath,86,118,70,21,94,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV04,2025-08-18T17:59:00Z
+SYN0707,2025-03-27T11:47:00Z,2,6,13,39,Male,Allergic reaction,87,114,67,19,97,Alert,,,Diphenhydramine,106,112,95,Alert,Yes,Routine awareness,Queued,REV04,2025-04-27T16:57:00Z
+SYN0708,2025-03-20T17:03:00Z,1,0,6,76,Male,Altered mental status,99,123,72,20,,Alert,124,,Glucose,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-09T23:52:00Z
+SYN0709,2025-06-16T23:36:00Z,2,15,13,69,Male,Abdominal pain,91,121,67,11,98,Alert,107,,IV fluids,91,118,97,Alert,No,Routine awareness,Queued,REV02,2025-07-22T07:13:00Z
+SYN0710,2025-03-01T17:47:00Z,1,0,12,67,Female,Weakness with fever,97,143,84,20,95,Alert,132,38.3,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-27T00:35:00Z
+SYN0711,2025-03-28T00:03:00Z,1,0,9,58,Male,Chest discomfort,100,144,80,15,97,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV03,2025-04-14T04:39:00Z
+SYN0712,2025-03-14T11:53:00Z,2,6,10,68,Female,Stroke symptoms,78,165,92,17,97,Alert,161,,None,75,162,98,Alert,No,Prepare now,Queued,REV03,2025-03-28T15:31:00Z
+SYN0713,2025-07-26T00:01:00Z,2,11,14,,Female,Fall,77,,,16,,Alert,120,,None,81,151,97,Alert,Uncertain,Cannot assess,Needs Review,REV04,2025-08-20T02:33:00Z
+SYN0714,2025-04-10T13:36:00Z,1,0,10,60,Female,Stroke symptoms,76,188,111,15,96,Alert,120,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-10T15:56:00Z
+SYN0715,2025-11-30T07:32:00Z,2,6,11,91,Female,Fall,,135,88,19,93,Unresponsive,,,None,76,129,96,Responds to voice,Yes,Prepare now,Queued,REV02,2025-12-11T14:44:00Z
+SYN0716,2025-09-02T13:26:00Z,1,0,5,53,Male,Shortness of breath,110,129,75,22,87,Alert,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-10-02T17:27:00Z
+SYN0717,2025-06-06T22:42:00Z,1,0,18,55,Male,Weakness with fever,90,,,18,95,Alert,,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-18T01:10:00Z
+SYN0718,2025-09-26T02:39:00Z,2,15,7,66,Male,Shortness of breath,,164,101,25,93,Alert,,,Albuterol,105,169,93,Alert,No,Preparation can wait,Queued,REV03,2025-09-29T07:26:00Z
+SYN0719,2025-02-26T06:30:00Z,2,11,15,62,Male,Chest discomfort,78,,,21,,Alert,,,None,80,154,93,Alert,Uncertain,Cannot assess,Needs Review,REV03,2025-03-01T09:47:00Z
+SYN0720,2025-03-10T10:14:00Z,2,8,13,86,Female,Fall,105,167,101,21,,Alert,,,None,126,165,87,Alert,Yes,Preparation can wait,Queued,REV04,2025-04-05T18:02:00Z
+SYN0721,2025-01-19T07:16:00Z,1,0,9,47,Female,Motor vehicle collision,79,,,15,,Alert,,,IV fluids,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-02-08T08:39:00Z
+SYN0722,2025-11-23T00:52:00Z,1,0,38,99,,Fall,100,146,95,23,95,Alert,75,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-13T03:23:00Z
+SYN0723,2025-09-10T08:50:00Z,1,0,17,79,Female,Shortness of breath,91,136,84,20,95,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV03,2025-10-16T12:39:00Z
+SYN0724,2025-07-06T02:34:00Z,1,0,12,63,Female,Abdominal pain,67,150,100,10,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-25T03:35:00Z
+SYN0725,2025-01-13T22:02:00Z,2,10,15,64,Male,Low blood sugar,93,96,62,13,96,Alert,119,,Glucose,93,96,96,Responds to voice,Uncertain,Routine awareness,Queued,REV01,2025-02-14T02:57:00Z
+SYN0726,2025-01-15T07:59:00Z,1,0,11,41,Female,Shortness of breath,96,140,90,18,92,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV02,2025-01-26T09:27:00Z
+SYN0727,2025-12-12T17:19:00Z,2,12,7,45,Female,Seizure,79,,,,96,Alert,121,,Midazolam,89,132,94,Alert,No,Routine awareness,Queued,REV01,2025-12-16T20:33:00Z
+SYN0728,2025-11-18T15:57:00Z,1,0,23,,,Weakness with fever,99,115,67,18,,Alert,255,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-11-24T00:52:00Z
+SYN0729,2025-07-13T22:26:00Z,2,13,19,71,Female,Altered mental status,108,129,77,,98,Alert,93,37.0,None,114,122,97,Responds to pain,Yes,Routine awareness,Queued,REV01,2025-08-14T06:17:00Z
+SYN0730,2025-12-26T11:39:00Z,1,0,7,77,,Altered mental status,95,,,17,,Alert,40,,Glucose,,,,,No prior information,Prepare now,Queued,REV03,2026-01-10T11:52:00Z
+SYN0731,2025-03-21T23:23:00Z,1,0,18,80,,Fall,94,137,86,13,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-03-28T05:02:00Z
+SYN0732,2025-12-25T17:01:00Z,1,0,5,49,Male,Fall,79,126,77,17,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2026-01-31T22:43:00Z
+SYN0733,2025-08-07T01:28:00Z,1,0,14,53,Female,Stroke symptoms,74,164,95,20,97,Alert,115,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-09-05T06:21:00Z
+SYN0734,2025-09-09T07:49:00Z,2,5,16,,,Shortness of breath,116,134,73,24,90,Alert,,,Albuterol,120,136,,Alert,No,Preparation can wait,Queued,REV02,2025-09-17T09:31:00Z
+SYN0735,2025-04-17T10:28:00Z,2,4,9,81,Female,Abdominal pain,89,,,18,,Alert,,,None,80,154,,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-05-01T12:47:00Z
+SYN0736,2025-11-17T05:09:00Z,1,0,10,78,Female,Shortness of breath,101,136,82,23,91,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-21T10:09:00Z
+SYN0737,2025-05-04T10:37:00Z,1,0,19,72,Male,Stroke symptoms,70,164,102,13,96,Responds to voice,116,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-05-27T13:01:00Z
+SYN0738,2025-02-08T02:35:00Z,2,8,11,33,,Motor vehicle collision,106,96,54,,95,Alert,,,IV fluids,120,67,91,Alert,Yes,Preparation can wait,Queued,REV03,2025-03-09T08:54:00Z
+SYN0739,2025-04-14T05:58:00Z,2,7,18,59,Female,Weakness with fever,99,120,76,15,96,Confused,83,,IV fluids,120,108,93,Responds to pain,Yes,Preparation can wait,Queued,REV02,2025-05-13T08:16:00Z
+SYN0740,2025-03-13T16:00:00Z,2,6,26,,,Fall,91,,,16,,Alert,,,Pain medication,82,143,98,Alert,Uncertain,Cannot assess,Needs Review,REV03,2025-04-05T01:45:00Z
+SYN0741,2025-10-18T01:41:00Z,2,3,7,67,Female,Shortness of breath,94,,,23,,Alert,,,Albuterol,93,139,96,Alert,Uncertain,Cannot assess,Needs Review,REV02,2025-11-02T02:34:00Z
+SYN0742,2025-09-24T14:57:00Z,2,4,11,27,Female,Allergic reaction,102,153,94,15,95,Alert,120,,Diphenhydramine,100,156,94,Alert,No,Routine awareness,Queued,REV01,2025-10-30T19:48:00Z
+SYN0743,2025-03-18T14:36:00Z,1,0,25,48,,Abdominal pain,74,146,96,,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-26T19:28:00Z
+SYN0744,2025-05-13T18:41:00Z,2,11,6,56,,Chest discomfort,87,148,88,14,98,Alert,,,Aspirin,89,141,99,Alert,No,Preparation can wait,Queued,REV03,2025-06-01T01:24:00Z
+SYN0745,2025-01-23T05:49:00Z,1,0,12,,Male,Stroke symptoms,,187,111,,94,Alert,123,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-02-26T08:07:00Z
+SYN0746,2025-11-02T06:26:00Z,1,0,17,74,Male,Fall,68,149,94,,97,Alert,104,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-11-05T08:39:00Z
+SYN0747,2025-12-18T22:17:00Z,2,13,15,,,Low blood sugar,95,158,107,,98,Alert,99,,Glucose,94,153,98,Alert,No,Routine awareness,Queued,REV01,2026-01-04T03:30:00Z
+SYN0748,2025-02-28T03:25:00Z,1,0,18,76,,Weakness with fever,111,,,18,90,Alert,,39.1,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-03-13T09:13:00Z
+SYN0749,2025-07-10T23:46:00Z,2,6,13,81,Male,Weakness with fever,105,116,74,13,96,Alert,138,39.2,None,105,115,96,Alert,No,Preparation can wait,Queued,REV02,2025-07-31T07:22:00Z
+SYN0750,2025-06-08T20:13:00Z,2,11,15,77,Male,Shortness of breath,139,134,75,33,79,Alert,,,Albuterol,101,132,86,Alert,Yes,Prepare now,Queued,REV01,2025-07-16T21:13:00Z
+SYN0751,2025-12-23T11:22:00Z,1,0,39,30,Female,Seizure,,,,15,97,Alert,116,,Midazolam,,,,,No prior information,Cannot assess,Needs Review,REV02,2026-01-26T14:16:00Z
+SYN0752,2025-02-17T03:01:00Z,1,0,4,99,Female,Altered mental status,91,183,100,12,96,Responds to voice,118,36.8,Glucose,,,,,No prior information,Preparation can wait,Queued,REV03,2025-02-24T10:28:00Z
+SYN0753,2025-09-10T09:31:00Z,1,0,15,63,Female,Shortness of breath,95,160,92,16,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-09-20T17:35:00Z
+SYN0754,2025-10-31T16:22:00Z,1,0,9,55,Female,Abdominal pain,75,123,76,15,95,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV04,2025-12-08T20:46:00Z
+SYN0755,2025-04-19T18:15:00Z,1,0,12,59,Female,Altered mental status,75,114,69,22,94,Alert,108,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-25T02:44:00Z
+SYN0756,2025-05-18T12:41:00Z,1,0,13,76,Female,Stroke symptoms,77,169,101,14,96,Responds to voice,105,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-06-19T14:26:00Z
+SYN0757,2025-05-11T17:48:00Z,1,0,41,,Female,Seizure,87,160,89,18,95,Alert,57,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-06-19T18:20:00Z
+SYN0758,2025-05-29T01:02:00Z,2,9,5,62,Female,Chest discomfort,97,,,15,,Alert,,,Aspirin,104,134,99,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-06-21T07:07:00Z
+SYN0759,2025-07-21T18:28:00Z,1,0,14,47,Male,Weakness with fever,130,,,20,,Alert,104,38.6,None,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-08-13T18:51:00Z
+SYN0760,2025-10-18T13:17:00Z,1,0,20,43,Male,Motor vehicle collision,91,145,85,,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-11-03T15:08:00Z
+SYN0761,2025-12-03T16:12:00Z,1,0,9,60,Male,Shortness of breath,114,132,82,33,80,Alert,,,Albuterol,,,,,No prior information,Prepare now,Queued,REV04,2025-12-20T17:43:00Z
+SYN0762,2025-12-04T10:57:00Z,2,11,6,95,Male,Weakness with fever,105,,,17,,Alert,,38.7,IV fluids,106,120,96,Alert,Uncertain,Cannot assess,Needs Review,REV02,2025-12-25T13:25:00Z
+SYN0763,2025-01-16T19:13:00Z,1,0,12,68,Male,Low blood sugar,,141,79,,95,Responds to voice,42,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-01-30T23:34:00Z
+SYN0764,2025-09-30T19:52:00Z,1,0,20,48,Male,Weakness with fever,96,157,96,13,92,Responds to pain,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-10-21T04:15:00Z
+SYN0765,2025-04-01T01:16:00Z,1,0,8,65,Female,Stroke symptoms,69,151,86,16,,Alert,178,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-04-14T08:15:00Z
+SYN0766,2025-10-10T11:45:00Z,1,0,33,53,Male,Weakness with fever,80,88,49,19,96,Alert,105,38.4,None,,,,,No prior information,Prepare now,Queued,REV03,2025-10-20T11:54:00Z
+SYN0767,2025-09-07T21:56:00Z,1,0,11,98,Male,Altered mental status,78,134,73,19,98,Alert,56,,Glucose,,,,,No prior information,Prepare now,Queued,REV03,2025-09-11T06:53:00Z
+SYN0768,2025-05-24T03:11:00Z,1,0,9,79,Male,Weakness with fever,95,130,75,19,95,Alert,114,40.3,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-06-28T09:37:00Z
+SYN0769,2025-05-29T18:06:00Z,1,0,10,,Female,Fall,73,125,81,12,97,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-06-04T21:06:00Z
+SYN0770,2025-01-07T14:16:00Z,1,0,9,72,Male,Chest discomfort,104,164,107,18,96,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-01-27T18:56:00Z
+SYN0771,2025-09-21T22:28:00Z,2,7,30,30,Male,Abdominal pain,117,,,26,,Alert,,,IV fluids,123,80,90,Alert,Uncertain,Cannot assess,Needs Review,REV03,2025-10-07T02:11:00Z
+SYN0772,2025-11-29T21:12:00Z,2,5,12,50,Female,Chest discomfort,76,148,92,17,96,Alert,,,None,81,146,96,Alert,No,Routine awareness,Queued,REV04,2026-01-01T07:01:00Z
+SYN0773,2025-09-14T22:17:00Z,1,0,13,42,Male,Stroke symptoms,105,169,111,,93,Alert,154,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-10-01T22:45:00Z
+SYN0774,2025-05-23T05:31:00Z,1,0,11,33,Female,Abdominal pain,95,107,59,14,95,Alert,107,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-07-02T15:30:00Z
+SYN0775,2025-09-06T19:56:00Z,1,0,15,47,Female,Chest discomfort,108,130,72,18,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-09-18T20:59:00Z
+SYN0776,2025-07-21T02:39:00Z,1,0,21,79,Male,Shortness of breath,108,168,93,26,89,Alert,,36.6,None,,,,,No prior information,Prepare now,Queued,REV01,2025-08-07T10:09:00Z
+SYN0777,2025-11-04T02:04:00Z,2,5,9,56,Female,Fall,90,138,88,,96,Alert,131,,None,102,129,95,Alert,No,Routine awareness,Queued,REV02,2025-11-08T10:28:00Z
+SYN0778,2025-04-27T13:55:00Z,1,0,26,55,Female,Weakness with fever,89,79,52,17,96,Responds to voice,,38.7,IV fluids,,,,,No prior information,Prepare now,Queued,REV01,2025-05-13T18:59:00Z
+SYN0779,2025-08-26T11:01:00Z,2,12,23,74,,Abdominal pain,96,126,70,,95,Alert,117,,IV fluids,94,130,95,Alert,No,Preparation can wait,Queued,REV01,2025-09-25T12:55:00Z
+SYN0780,2025-01-01T09:16:00Z,1,0,9,29,Male,Motor vehicle collision,75,144,93,14,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-01-28T13:24:00Z
+SYN0781,2025-10-26T04:41:00Z,1,0,9,73,Female,Stroke symptoms,84,166,107,14,95,Alert,75,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-10-30T05:45:00Z
+SYN0782,2025-01-26T21:26:00Z,1,0,12,90,Female,Weakness with fever,109,109,68,12,93,Responds to voice,,38.7,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-02-12T23:00:00Z
+SYN0783,2025-07-21T22:19:00Z,1,0,11,,Female,Stroke symptoms,69,149,89,17,,Alert,119,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-08-29T00:24:00Z
+SYN0784,2025-11-13T02:03:00Z,1,0,12,39,Male,Allergic reaction,108,129,79,20,92,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV01,2025-11-16T07:03:00Z
+SYN0785,2025-04-01T02:22:00Z,2,14,8,33,Male,Abdominal pain,108,106,71,21,96,Alert,138,,IV fluids,110,98,96,Alert,No,Routine awareness,Queued,REV04,2025-04-18T07:36:00Z
+SYN0786,2025-12-08T17:25:00Z,2,15,20,84,Male,Weakness with fever,83,127,79,15,96,Alert,,39.0,None,91,109,94,Alert,No,Preparation can wait,Queued,REV02,2026-01-03T19:27:00Z
+SYN0787,2025-10-02T03:34:00Z,2,12,15,73,Male,Weakness with fever,,98,58,14,92,Alert,,39.1,None,77,127,95,Alert,Uncertain,Preparation can wait,Queued,REV01,2025-10-24T07:12:00Z
+SYN0788,2025-12-30T08:37:00Z,1,0,11,57,Male,Chest discomfort,98,158,96,19,96,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2026-01-16T17:48:00Z
+SYN0789,2025-02-09T12:51:00Z,1,0,9,,Female,Fall,81,,,17,95,Alert,,,Pain medication,,,,,No prior information,Preparation can wait,Queued,REV01,2025-02-12T13:13:00Z
+SYN0790,2025-11-27T17:37:00Z,1,0,21,82,Male,Weakness with fever,80,107,69,12,94,Alert,121,38.1,IV fluids,,,,,No prior information,Routine awareness,Queued,REV02,2026-01-05T00:39:00Z
+SYN0791,2025-11-21T06:27:00Z,1,0,17,21,Female,Motor vehicle collision,,,,16,,Alert,,,None,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-12-18T13:51:00Z
+SYN0792,2025-11-12T04:17:00Z,1,0,30,98,Female,Chest discomfort,113,156,93,20,92,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-25T13:37:00Z
+SYN0793,2025-04-26T01:40:00Z,1,0,16,50,Male,Chest discomfort,70,125,75,12,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-10T07:00:00Z
+SYN0794,2025-04-13T14:52:00Z,2,7,18,,Male,Motor vehicle collision,86,132,79,13,98,Alert,,37.3,None,89,,99,Alert,No,Routine awareness,Queued,REV04,2025-05-03T18:42:00Z
+SYN0795,2025-10-30T06:55:00Z,2,4,21,80,Female,Shortness of breath,80,122,77,,91,Alert,155,37.1,Albuterol,99,117,87,Alert,Yes,Preparation can wait,Queued,REV04,2025-11-28T14:00:00Z
+SYN0796,2025-02-17T07:51:00Z,1,0,8,,Female,Shortness of breath,91,120,73,22,92,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-03-01T12:04:00Z
+SYN0797,2025-07-14T17:48:00Z,1,0,11,,,Abdominal pain,85,,,13,,Alert,,,Pain medication,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-07-25T22:22:00Z
+SYN0798,2025-01-30T05:25:00Z,1,0,12,66,,Altered mental status,94,132,83,,94,Alert,102,,Glucose,,,,,No prior information,Routine awareness,Queued,REV03,2025-02-14T06:09:00Z
+SYN0799,2025-10-31T03:27:00Z,2,4,8,46,Female,Low blood sugar,75,108,59,21,98,Alert,108,,Glucose,82,101,,Alert,No,Routine awareness,Queued,REV01,2025-11-10T12:58:00Z
+SYN0800,2025-02-01T07:08:00Z,2,14,12,62,Female,Stroke symptoms,89,148,90,13,97,Alert,155,,None,81,157,96,Alert,No,Prepare now,Queued,REV03,2025-03-09T12:19:00Z
+SYN0801,2025-06-30T08:09:00Z,1,0,16,51,Female,Abdominal pain,106,98,55,,95,Responds to voice,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-09T14:43:00Z
+SYN0802,2025-08-16T18:29:00Z,2,14,10,67,Male,Stroke symptoms,63,173,95,17,96,Alert,179,,None,73,176,97,Alert,No,Prepare now,Queued,REV04,2025-09-12T20:22:00Z
+SYN0803,2025-10-16T07:22:00Z,2,10,25,57,Male,Chest discomfort,80,113,74,,96,Alert,119,,None,92,116,95,Alert,No,Routine awareness,Queued,REV02,2025-10-29T13:25:00Z
+SYN0804,2025-03-27T07:32:00Z,1,0,12,52,,Shortness of breath,104,142,86,,89,Alert,122,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-04-10T16:59:00Z
+SYN0805,2025-10-22T16:36:00Z,1,0,13,39,Male,Motor vehicle collision,83,101,63,17,,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-11-07T20:05:00Z
+SYN0806,2025-10-04T20:33:00Z,1,0,27,49,,Motor vehicle collision,93,117,70,13,99,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-11-06T01:44:00Z
+SYN0807,2025-07-22T09:27:00Z,1,0,11,82,Female,Stroke symptoms,65,169,97,16,,Alert,103,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-08-24T13:20:00Z
+SYN0808,2025-12-22T15:27:00Z,1,0,11,60,Male,Weakness with fever,,109,69,16,94,Alert,,38.6,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-28T00:41:00Z
+SYN0809,2025-03-02T20:49:00Z,1,0,14,42,Male,Low blood sugar,90,,,22,,Responds to voice,44,,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-04-06T04:00:00Z
+SYN0810,2025-10-10T21:28:00Z,2,11,12,64,Male,Weakness with fever,,113,71,16,94,Alert,,39.5,IV fluids,106,,91,Alert,Yes,Preparation can wait,Queued,REV04,2025-10-14T04:38:00Z
+SYN0811,2025-11-05T03:21:00Z,1,0,17,70,Male,Fall,82,,,,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-12-08T09:47:00Z
+SYN0812,2025-02-19T15:01:00Z,1,0,7,75,Female,Weakness with fever,88,131,79,14,95,Responds to pain,147,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-03-15T19:28:00Z
+SYN0813,2025-06-06T09:06:00Z,1,0,11,85,Male,Chest discomfort,75,130,80,18,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-06-11T10:21:00Z
+SYN0814,2025-09-03T03:05:00Z,2,3,10,,Male,Allergic reaction,101,147,87,13,94,Alert,,,Epinephrine,104,143,94,Alert,No,Routine awareness,Queued,REV03,2025-09-25T03:57:00Z
+SYN0815,2025-01-05T11:15:00Z,1,0,18,61,Female,Stroke symptoms,93,164,105,12,98,Alert,155,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-01-19T17:52:00Z
+SYN0816,2025-10-11T23:10:00Z,1,0,14,70,Male,Stroke symptoms,103,146,97,22,94,Alert,75,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-11-17T00:14:00Z
+SYN0817,2025-06-16T06:56:00Z,1,0,7,49,Male,Weakness with fever,86,,,15,,Alert,,39.2,IV fluids,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-07-05T08:15:00Z
+SYN0818,2025-09-28T18:07:00Z,1,0,19,31,Female,Low blood sugar,93,100,58,19,94,Alert,44,,Glucose,,,,,No prior information,Prepare now,Queued,REV03,2025-10-02T21:44:00Z
+SYN0819,2025-06-17T10:41:00Z,1,0,8,61,Female,Shortness of breath,101,134,90,27,91,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV01,2025-07-04T16:11:00Z
+SYN0820,2025-11-20T15:42:00Z,1,0,7,71,Female,Shortness of breath,90,139,89,,95,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV04,2025-12-30T20:19:00Z
+SYN0821,2025-03-08T19:48:00Z,1,0,12,59,Male,Chest discomfort,143,152,83,23,88,Alert,,38.0,Aspirin,,,,,No prior information,Prepare now,Queued,REV04,2025-03-16T22:11:00Z
+SYN0822,2025-11-04T02:28:00Z,1,0,10,65,Female,Weakness with fever,93,147,96,13,95,Alert,,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-25T03:54:00Z
+SYN0823,2025-06-26T04:43:00Z,2,7,10,57,Male,Fall,105,159,98,18,97,Alert,,,None,109,162,98,Alert,No,Routine awareness,Queued,REV04,2025-07-17T04:44:00Z
+SYN0824,2025-03-03T05:26:00Z,1,0,17,51,Male,Chest discomfort,96,132,75,19,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-03-29T14:19:00Z
+SYN0825,2025-01-25T20:54:00Z,2,13,15,41,Female,Shortness of breath,71,143,95,18,96,Alert,,,Albuterol,72,143,97,Alert,No,Routine awareness,Queued,REV03,2025-03-03T03:17:00Z
+SYN0826,2025-11-22T15:40:00Z,1,0,14,60,,Chest discomfort,87,156,103,18,96,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-11-25T18:18:00Z
+SYN0827,2025-05-22T12:30:00Z,1,0,11,51,Female,Altered mental status,83,119,73,20,93,Confused,177,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV01,2025-06-08T17:06:00Z
+SYN0828,2025-05-08T06:35:00Z,2,3,8,47,Female,Chest discomfort,108,,,17,,Alert,,,Aspirin,131,142,87,Alert,Yes,Cannot assess,Needs Review,REV03,2025-05-20T16:13:00Z
+SYN0829,2025-07-29T03:41:00Z,1,0,34,,Female,Chest discomfort,105,141,83,19,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-07T11:29:00Z
+SYN0830,2025-05-10T05:29:00Z,2,9,14,67,Female,Chest discomfort,77,145,89,12,95,Alert,,,Nitroglycerin,83,151,94,Alert,No,Preparation can wait,Queued,REV02,2025-06-16T12:49:00Z
+SYN0831,2025-09-04T03:20:00Z,1,0,11,74,Male,Fall,88,124,69,16,96,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV04,2025-09-30T03:22:00Z
+SYN0832,2025-10-15T16:05:00Z,1,0,15,55,Female,Chest discomfort,98,154,101,14,96,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-25T22:16:00Z
+SYN0833,2025-09-30T03:58:00Z,2,15,10,49,Male,Chest discomfort,98,143,90,14,94,Alert,,,Aspirin,100,147,94,Alert,No,Preparation can wait,Queued,REV04,2025-10-28T11:01:00Z
+SYN0834,2025-08-08T07:07:00Z,2,11,21,51,Female,Chest discomfort,92,152,85,19,96,Alert,,,Aspirin,90,150,98,Alert,No,Routine awareness,Queued,REV04,2025-09-15T08:47:00Z
+SYN0835,2025-07-16T21:28:00Z,1,0,39,62,Female,Chest discomfort,88,192,114,18,95,Alert,,,Aspirin,,,,,No prior information,Routine awareness,Queued,REV03,2025-08-04T05:29:00Z
+SYN0836,2025-05-15T18:47:00Z,1,0,11,91,Female,Weakness with fever,134,111,73,21,91,Alert,130,38.7,IV fluids,,,,,No prior information,Prepare now,Queued,REV04,2025-06-02T01:51:00Z
+SYN0837,2025-12-02T12:11:00Z,2,14,16,64,Female,Chest discomfort,83,112,71,17,96,Alert,,,Aspirin,79,105,97,Alert,No,Preparation can wait,Queued,REV01,2025-12-22T12:55:00Z
+SYN0838,2025-08-08T20:10:00Z,2,6,13,69,Female,Shortness of breath,85,137,84,,95,Alert,,,Albuterol,85,144,95,Alert,No,Routine awareness,Queued,REV04,2025-08-21T02:36:00Z
+SYN0839,2025-04-02T06:29:00Z,2,5,11,87,Male,Stroke symptoms,92,187,123,24,91,Alert,87,,None,72,190,94,Alert,Yes,Prepare now,Queued,REV03,2025-04-29T14:25:00Z
+SYN0840,2025-12-08T21:00:00Z,2,6,26,,Male,Abdominal pain,104,91,61,23,93,Alert,,36.6,IV fluids,120,,,Alert,Yes,Preparation can wait,Queued,REV02,2025-12-27T23:52:00Z
+SYN0841,2025-12-28T21:53:00Z,2,11,17,43,,Altered mental status,72,124,79,,95,Responds to voice,,37.0,None,62,123,96,Confused,Yes,Preparation can wait,Queued,REV03,2026-01-03T04:42:00Z
+SYN0842,2025-05-19T00:02:00Z,2,3,30,65,Male,Seizure,97,119,69,17,97,Responds to voice,95,,None,97,,96,Responds to voice,No,Preparation can wait,Queued,REV04,2025-06-14T09:57:00Z
+SYN0843,2025-01-31T16:54:00Z,1,0,12,69,Male,Fall,87,156,86,23,90,Unresponsive,109,,Pain medication,,,,,No prior information,Prepare now,Queued,REV01,2025-02-08T02:04:00Z
+SYN0844,2025-08-25T05:56:00Z,1,0,10,66,Male,Shortness of breath,120,146,93,33,85,Unresponsive,,36.7,Albuterol,,,,,No prior information,Prepare now,Queued,REV03,2025-08-30T06:59:00Z
+SYN0845,2025-04-12T13:35:00Z,1,0,27,72,Female,Abdominal pain,105,127,70,17,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-04-17T15:05:00Z
+SYN0846,2025-12-17T18:52:00Z,2,10,15,,Male,Chest discomfort,86,139,88,15,98,Alert,145,,Nitroglycerin,93,146,96,Alert,No,Preparation can wait,Queued,REV03,2026-01-25T21:28:00Z
+SYN0847,2025-04-05T00:07:00Z,2,13,7,82,Male,Shortness of breath,90,169,107,22,,Responds to voice,,,Albuterol,97,164,91,Responds to voice,No,Preparation can wait,Queued,REV02,2025-04-09T02:55:00Z
+SYN0848,2025-08-16T18:10:00Z,1,0,9,34,Female,Abdominal pain,87,94,53,16,93,Alert,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-26T00:36:00Z
+SYN0849,2025-06-08T04:41:00Z,1,0,12,56,Female,Altered mental status,85,111,67,,96,Confused,45,37.4,None,,,,,No prior information,Prepare now,Queued,REV03,2025-06-18T10:19:00Z
+SYN0850,2025-04-26T17:58:00Z,1,0,6,38,Male,Chest discomfort,,161,97,17,95,Alert,,,Nitroglycerin,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-21T23:27:00Z
+SYN0851,2025-10-01T17:29:00Z,1,0,16,45,Female,Altered mental status,82,104,64,,99,Alert,109,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-10-26T23:15:00Z
+SYN0852,2025-08-22T12:58:00Z,1,0,4,63,,Stroke symptoms,75,153,92,15,93,Alert,75,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-08-27T22:44:00Z
+SYN0853,2025-03-26T23:26:00Z,1,0,11,66,,Stroke symptoms,65,172,114,14,97,Alert,90,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-04-17T07:56:00Z
+SYN0854,2025-12-13T05:49:00Z,1,0,9,82,Female,Shortness of breath,104,126,78,25,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-29T06:56:00Z
+SYN0855,2025-03-25T22:26:00Z,1,0,14,60,Male,Weakness with fever,93,,,,94,Alert,,39.0,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV04,2025-03-31T02:39:00Z
+SYN0856,2025-04-14T03:45:00Z,1,0,14,47,Female,Chest discomfort,106,134,87,22,95,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-05-20T04:49:00Z
+SYN0857,2025-07-31T23:44:00Z,1,0,13,78,Male,Weakness with fever,116,113,64,15,97,Alert,,39.0,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV03,2025-09-02T08:36:00Z
+SYN0858,2025-04-30T10:57:00Z,1,0,15,42,Female,Seizure,101,121,71,20,97,Alert,43,,Midazolam,,,,,No prior information,Prepare now,Queued,REV02,2025-05-14T13:34:00Z
+SYN0859,2025-01-09T10:56:00Z,1,0,13,57,Female,Altered mental status,89,147,97,18,95,Alert,42,37.1,Glucose,,,,,No prior information,Prepare now,Queued,REV02,2025-01-17T12:31:00Z
+SYN0860,2025-10-17T22:13:00Z,1,0,9,,Female,Stroke symptoms,83,167,91,16,96,Alert,208,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-11-17T03:47:00Z
+SYN0861,2025-09-27T09:09:00Z,2,12,7,30,Female,Abdominal pain,90,96,61,,97,Alert,,,None,98,89,95,Alert,No,Preparation can wait,Queued,REV03,2025-10-24T13:34:00Z
+SYN0862,2025-09-05T14:44:00Z,1,0,13,69,,Fall,73,,,16,,Confused,75,,Pain medication,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-10-14T21:43:00Z
+SYN0863,2025-08-11T11:17:00Z,1,0,8,65,Female,Stroke symptoms,82,174,99,16,96,Alert,137,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-09-09T12:57:00Z
+SYN0864,2025-05-30T23:34:00Z,2,7,17,76,Female,Stroke symptoms,90,194,125,20,95,Responds to pain,156,,None,80,187,97,Responds to voice,Yes,Prepare now,Queued,REV01,2025-06-04T09:13:00Z
+SYN0865,2025-10-06T13:31:00Z,1,0,4,25,Male,Motor vehicle collision,83,101,58,,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-11-10T19:07:00Z
+SYN0866,2025-05-22T22:40:00Z,1,0,23,53,Female,Stroke symptoms,78,151,90,18,,Responds to voice,121,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-06-06T02:52:00Z
+SYN0867,2025-03-20T11:16:00Z,1,0,9,75,Male,Abdominal pain,96,145,91,17,96,Alert,,35.9,Pain medication,,,,,No prior information,Routine awareness,Queued,REV03,2025-04-16T14:11:00Z
+SYN0868,2025-12-26T09:30:00Z,1,0,7,,Male,Abdominal pain,70,150,90,19,98,Confused,,,None,,,,,No prior information,Preparation can wait,Queued,REV03,2026-01-13T11:40:00Z
+SYN0869,2025-03-07T19:25:00Z,1,0,12,,Male,Seizure,93,139,92,15,97,Alert,159,,Midazolam,,,,,No prior information,Routine awareness,Queued,REV04,2025-04-04T20:01:00Z
+SYN0870,2025-12-30T02:02:00Z,1,0,21,,Male,Altered mental status,80,109,72,16,96,Responds to voice,127,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2026-01-07T05:57:00Z
+SYN0871,2025-07-08T21:51:00Z,2,13,38,39,Male,Shortness of breath,97,,,24,,Alert,,,None,95,101,91,Alert,Uncertain,Cannot assess,Needs Review,REV02,2025-07-12T03:51:00Z
+SYN0872,2025-01-19T17:00:00Z,1,0,17,63,Female,Chest discomfort,71,157,101,20,93,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-02-26T22:02:00Z
+SYN0873,2025-01-18T18:43:00Z,2,15,16,18,Female,Allergic reaction,103,,,15,91,Alert,,,Epinephrine,98,85,92,Alert,No,Preparation can wait,Queued,REV01,2025-02-09T04:04:00Z
+SYN0874,2025-06-22T09:24:00Z,1,0,13,52,,Altered mental status,86,130,85,17,96,Responds to voice,106,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-07-22T13:01:00Z
+SYN0875,2025-10-30T08:16:00Z,1,0,8,68,Female,Stroke symptoms,86,170,109,16,97,Alert,123,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-11-04T15:07:00Z
+SYN0876,2025-04-01T23:02:00Z,2,8,18,55,Male,Stroke symptoms,112,179,108,23,92,Alert,150,,None,98,,95,Alert,Yes,Prepare now,Queued,REV03,2025-04-15T01:17:00Z
+SYN0877,2025-06-14T08:32:00Z,2,7,11,54,,Altered mental status,82,124,80,,96,Confused,140,36.6,Glucose,73,121,96,Confused,Uncertain,Preparation can wait,Queued,REV04,2025-07-06T18:31:00Z
+SYN0878,2025-08-14T17:35:00Z,1,0,16,54,Male,Chest discomfort,70,,,10,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-09-09T17:36:00Z
+SYN0879,2025-09-06T09:10:00Z,1,0,16,35,Male,Motor vehicle collision,88,118,78,15,98,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV02,2025-10-13T13:58:00Z
+SYN0880,2025-08-25T11:34:00Z,1,0,14,51,Male,Chest discomfort,94,145,98,,96,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-06T12:50:00Z
+SYN0881,2025-07-04T23:49:00Z,2,10,7,70,Male,Weakness with fever,101,71,42,19,94,Alert,75,39.7,IV fluids,128,60,90,Unresponsive,Yes,Prepare now,Queued,REV02,2025-08-05T02:39:00Z
+SYN0882,2025-12-16T03:48:00Z,2,14,9,21,,Motor vehicle collision,101,127,70,18,97,Alert,,,None,100,126,,Alert,No,Preparation can wait,Queued,REV02,2026-01-04T07:00:00Z
+SYN0883,2025-04-11T12:24:00Z,1,0,10,89,Male,Shortness of breath,92,153,92,26,97,Alert,,,Oxygen,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-07T13:20:00Z
+SYN0884,2025-08-11T22:39:00Z,2,5,13,,Male,Weakness with fever,,91,52,,95,Alert,134,39.2,IV fluids,146,65,91,Alert,Yes,Preparation can wait,Queued,REV01,2025-08-31T22:46:00Z
+SYN0885,2025-12-10T00:53:00Z,1,0,12,60,Male,Weakness with fever,108,94,56,15,97,Responds to voice,,40.0,None,,,,,No prior information,Preparation can wait,Queued,REV03,2025-12-25T04:43:00Z
+SYN0886,2025-04-02T08:23:00Z,1,0,17,60,Male,Altered mental status,85,120,75,,95,Confused,106,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-04-10T09:27:00Z
+SYN0887,2025-07-03T02:05:00Z,1,0,8,43,Female,Altered mental status,86,122,71,10,98,Alert,169,36.7,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-08-10T05:01:00Z
+SYN0888,2025-11-12T03:28:00Z,1,0,7,40,Male,Seizure,89,139,92,13,96,Confused,149,,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-12-16T05:47:00Z
+SYN0889,2025-06-29T19:40:00Z,1,0,9,57,Female,Weakness with fever,83,70,44,17,,Alert,,38.8,None,,,,,No prior information,Prepare now,Queued,REV03,2025-08-06T03:15:00Z
+SYN0890,2025-09-25T06:27:00Z,2,9,5,50,Male,Abdominal pain,74,101,61,,90,Alert,,37.0,None,72,104,90,Alert,No,Preparation can wait,Queued,REV04,2025-10-19T15:02:00Z
+SYN0891,2025-10-31T17:16:00Z,1,0,22,33,Male,Allergic reaction,103,98,54,,95,Alert,183,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV01,2025-11-10T19:09:00Z
+SYN0892,2025-04-01T09:48:00Z,2,12,13,37,Male,Allergic reaction,96,,,15,96,Alert,,,Epinephrine,83,118,96,Alert,No,Routine awareness,Queued,REV02,2025-04-08T18:37:00Z
+SYN0893,2025-12-16T17:32:00Z,2,7,11,59,Male,Low blood sugar,75,135,90,21,96,Confused,107,,Glucose,86,135,94,Responds to voice,Yes,Preparation can wait,Queued,REV01,2026-01-15T23:31:00Z
+SYN0894,2025-01-18T03:44:00Z,2,7,9,86,Female,Chest discomfort,93,184,120,,96,Alert,,,None,93,191,96,Alert,No,Preparation can wait,Queued,REV02,2025-01-22T11:54:00Z
+SYN0895,2025-09-07T07:04:00Z,1,0,21,82,Female,Altered mental status,93,,,11,,Responds to voice,143,,Glucose,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-09-20T11:18:00Z
+SYN0896,2025-12-27T22:47:00Z,1,0,14,75,,Fall,69,116,70,15,95,Alert,88,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2026-01-01T02:35:00Z
+SYN0897,2025-06-02T20:34:00Z,1,0,12,46,Male,Chest discomfort,74,160,90,17,93,Alert,107,,Nitroglycerin,,,,,No prior information,Routine awareness,Queued,REV02,2025-06-19T23:08:00Z
+SYN0898,2025-07-19T13:05:00Z,1,0,18,71,Female,Chest discomfort,76,135,76,18,98,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-08-19T18:18:00Z
+SYN0899,2025-11-19T14:06:00Z,2,15,26,71,Male,Stroke symptoms,91,143,84,18,96,Alert,132,,None,110,140,91,Alert,Uncertain,Prepare now,Queued,REV04,2025-12-29T22:07:00Z
+SYN0900,2025-06-19T16:13:00Z,2,8,17,66,Male,Fall,62,148,82,15,96,Alert,122,,None,74,134,96,Alert,No,Routine awareness,Queued,REV02,2025-07-25T00:57:00Z
+SYN0901,2025-05-03T08:50:00Z,1,0,23,51,Male,Chest discomfort,90,,,14,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV01,2025-05-16T16:57:00Z
+SYN0902,2025-09-21T11:29:00Z,1,0,9,52,Female,Chest discomfort,68,,,14,96,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV02,2025-10-27T20:31:00Z
+SYN0903,2025-02-08T22:39:00Z,1,0,18,63,Female,Altered mental status,95,149,83,17,95,Alert,107,,Glucose,,,,,No prior information,Routine awareness,Queued,REV04,2025-03-20T08:08:00Z
+SYN0904,2025-01-25T15:47:00Z,1,0,13,89,Male,Fall,81,145,87,16,98,Alert,,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV01,2025-02-25T16:59:00Z
+SYN0905,2025-01-03T01:25:00Z,1,0,9,39,Male,Allergic reaction,86,121,79,15,97,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV03,2025-01-16T07:31:00Z
+SYN0906,2025-03-08T23:58:00Z,1,0,7,,Female,Stroke symptoms,81,158,107,19,98,Alert,222,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-04-08T07:14:00Z
+SYN0907,2025-10-12T22:28:00Z,2,14,9,41,Male,Altered mental status,114,136,77,19,,Responds to pain,122,,Glucose,103,,97,Confused,Yes,Prepare now,Queued,REV04,2025-10-29T02:47:00Z
+SYN0908,2025-03-22T10:20:00Z,2,14,23,27,Female,Seizure,,,,17,95,Alert,97,,Midazolam,107,147,93,Alert,Uncertain,Cannot assess,Needs Review,REV01,2025-04-22T14:46:00Z
+SYN0909,2025-03-31T07:00:00Z,2,5,6,65,Male,Weakness with fever,90,124,70,15,94,Responds to voice,,38.5,IV fluids,80,124,96,Confused,Yes,Preparation can wait,Queued,REV02,2025-05-10T13:25:00Z
+SYN0910,2025-08-26T10:54:00Z,2,10,16,67,Female,Fall,84,138,83,19,97,Alert,150,,Pain medication,93,143,95,Alert,No,Routine awareness,Queued,REV01,2025-09-11T18:10:00Z
+SYN0911,2025-09-26T09:29:00Z,1,0,11,36,Female,Shortness of breath,113,144,97,27,92,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-13T17:39:00Z
+SYN0912,2025-12-06T08:01:00Z,2,11,24,43,Male,Seizure,98,,,18,,Confused,168,,None,98,122,92,Confused,Uncertain,Cannot assess,Needs Review,REV04,2026-01-12T13:23:00Z
+SYN0913,2025-07-13T14:57:00Z,1,0,21,61,Male,Abdominal pain,86,126,81,19,95,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV02,2025-07-25T19:34:00Z
+SYN0914,2025-03-05T15:46:00Z,1,0,23,29,Male,Abdominal pain,103,115,77,15,97,Alert,156,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV03,2025-04-11T22:30:00Z
+SYN0915,2025-04-28T08:53:00Z,2,12,7,87,Male,Stroke symptoms,80,165,108,19,94,Alert,237,,None,72,159,98,Alert,Yes,Prepare now,Queued,REV04,2025-05-02T10:40:00Z
+SYN0916,2025-06-26T19:32:00Z,1,0,15,55,Female,Motor vehicle collision,90,116,77,19,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV04,2025-08-02T00:58:00Z
+SYN0917,2025-04-13T05:52:00Z,1,0,18,64,Female,Chest discomfort,83,141,81,20,96,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-09T11:33:00Z
+SYN0918,2025-01-23T22:35:00Z,2,3,5,75,Female,Shortness of breath,104,141,82,24,95,Alert,,37.7,Albuterol,105,142,95,Alert,No,Preparation can wait,Queued,REV02,2025-02-02T23:39:00Z
+SYN0919,2025-06-17T10:36:00Z,2,4,14,49,Male,Shortness of breath,89,108,62,20,96,Alert,,37.3,Oxygen,83,103,95,Alert,No,Routine awareness,Queued,REV01,2025-07-09T16:03:00Z
+SYN0920,2025-07-23T02:05:00Z,2,13,10,45,Male,Allergic reaction,79,126,71,14,93,Responds to voice,,,Epinephrine,87,,,Responds to voice,No,Preparation can wait,Queued,REV02,2025-08-01T07:04:00Z
+SYN0921,2025-05-22T15:58:00Z,1,0,33,63,Female,Weakness with fever,89,123,78,16,,Confused,109,38.4,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-05-30T20:25:00Z
+SYN0922,2025-12-19T23:08:00Z,1,0,5,31,Male,Abdominal pain,97,131,72,,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2026-01-10T09:05:00Z
+SYN0923,2025-02-04T10:35:00Z,1,0,19,61,Female,Allergic reaction,99,119,71,13,96,Alert,,,Epinephrine,,,,,No prior information,Routine awareness,Queued,REV04,2025-02-27T15:38:00Z
+SYN0924,2025-08-31T08:38:00Z,2,5,5,32,Male,Allergic reaction,89,91,58,18,96,Alert,,,Epinephrine,84,102,98,Alert,No,Routine awareness,Queued,REV03,2025-09-29T16:24:00Z
+SYN0925,2025-05-14T18:03:00Z,2,6,7,83,Female,Fall,95,150,85,21,95,Alert,,,None,112,144,91,Alert,Yes,Preparation can wait,Queued,REV01,2025-06-07T21:56:00Z
+SYN0926,2025-10-21T04:13:00Z,2,9,27,23,Female,Allergic reaction,78,111,71,23,95,Alert,,,Epinephrine,93,90,92,Alert,Yes,Preparation can wait,Queued,REV04,2025-11-12T05:14:00Z
+SYN0927,2025-09-27T15:50:00Z,1,0,14,85,Male,Fall,83,,,18,96,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-10-18T17:16:00Z
+SYN0928,2025-02-09T13:49:00Z,1,0,17,57,Male,Stroke symptoms,79,,,23,93,Responds to voice,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-02-16T14:35:00Z
+SYN0929,2025-05-14T04:12:00Z,1,0,7,75,Male,Stroke symptoms,78,,,14,98,Alert,85,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-05-22T08:39:00Z
+SYN0930,2025-07-22T16:31:00Z,1,0,6,69,Female,Stroke symptoms,,177,114,,95,Alert,133,,None,,,,,No prior information,Prepare now,Queued,REV03,2025-08-25T21:28:00Z
+SYN0931,2025-02-05T09:32:00Z,1,0,10,69,Male,Stroke symptoms,92,184,124,,97,Alert,90,,None,,,,,No prior information,Prepare now,Queued,REV04,2025-03-10T15:49:00Z
+SYN0932,2025-09-13T18:22:00Z,2,15,9,73,Male,Chest discomfort,100,168,94,13,93,Alert,,,Nitroglycerin,104,,93,Alert,No,Preparation can wait,Queued,REV01,2025-10-10T00:53:00Z
+SYN0933,2025-10-31T21:07:00Z,1,0,12,18,Male,Allergic reaction,101,121,72,14,96,Confused,,,Epinephrine,,,,,No prior information,Preparation can wait,Queued,REV01,2025-12-10T02:05:00Z
+SYN0934,2025-03-05T04:48:00Z,2,5,13,,Male,Chest discomfort,113,130,83,18,94,Alert,,,Nitroglycerin,128,129,89,Alert,Yes,Preparation can wait,Queued,REV01,2025-03-10T10:05:00Z
+SYN0935,2025-06-16T01:25:00Z,1,0,12,29,Female,Motor vehicle collision,95,123,82,,92,Unresponsive,,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-06-30T09:04:00Z
+SYN0936,2025-08-21T16:52:00Z,1,0,21,82,Female,Altered mental status,96,145,94,11,96,Responds to voice,56,38.0,Glucose,,,,,No prior information,Prepare now,Queued,REV04,2025-09-21T01:58:00Z
+SYN0937,2025-03-03T15:58:00Z,2,14,13,58,Female,Shortness of breath,93,,,18,,Alert,105,,None,89,153,97,Alert,Uncertain,Cannot assess,Needs Review,REV03,2025-03-31T22:05:00Z
+SYN0938,2025-07-15T08:02:00Z,1,0,9,57,Male,Chest discomfort,85,,,23,95,Alert,,36.9,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-08-17T09:31:00Z
+SYN0939,2025-08-09T04:02:00Z,1,0,16,36,Female,Motor vehicle collision,98,92,57,19,,Alert,,,IV fluids,,,,,No prior information,Routine awareness,Queued,REV04,2025-09-08T09:18:00Z
+SYN0940,2025-03-01T21:00:00Z,2,3,11,63,Male,Shortness of breath,84,128,80,18,95,Alert,,,None,71,133,95,Alert,No,Routine awareness,Queued,REV04,2025-03-05T01:33:00Z
+SYN0941,2025-01-24T04:48:00Z,1,0,11,24,Female,Allergic reaction,76,78,52,12,,Alert,,,Epinephrine,,,,,No prior information,Prepare now,Queued,REV02,2025-02-15T11:39:00Z
+SYN0942,2025-05-03T08:56:00Z,1,0,45,71,Female,Shortness of breath,89,161,107,22,95,Alert,,,Albuterol,,,,,No prior information,Routine awareness,Queued,REV02,2025-06-02T16:27:00Z
+SYN0943,2025-02-27T13:46:00Z,2,10,12,,Male,Fall,92,143,94,18,99,Alert,,37.3,None,86,140,99,Alert,No,Routine awareness,Queued,REV01,2025-03-16T22:35:00Z
+SYN0944,2025-06-10T04:10:00Z,1,0,11,66,,Fall,92,113,68,14,96,Alert,149,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-06-21T13:19:00Z
+SYN0945,2025-07-21T00:59:00Z,2,9,17,69,,Low blood sugar,80,143,82,,96,Confused,39,,Glucose,83,,96,Confused,No,Prepare now,Queued,REV04,2025-08-19T09:26:00Z
+SYN0946,2025-12-14T20:17:00Z,2,4,12,72,Male,Shortness of breath,,142,83,18,94,Alert,,,Albuterol,88,146,94,Alert,No,Routine awareness,Queued,REV03,2026-01-08T01:58:00Z
+SYN0947,2025-09-22T07:19:00Z,1,0,7,49,Male,Altered mental status,88,143,79,17,93,Responds to voice,94,,Glucose,,,,,No prior information,Preparation can wait,Queued,REV02,2025-11-01T13:28:00Z
+SYN0948,2025-01-28T22:28:00Z,1,0,19,28,Female,Abdominal pain,82,123,82,16,97,Alert,94,,Pain medication,,,,,No prior information,Routine awareness,Queued,REV02,2025-02-21T06:55:00Z
+SYN0949,2025-04-05T02:55:00Z,1,0,9,33,,Altered mental status,76,137,88,16,96,Alert,192,,Glucose,,,,,No prior information,Routine awareness,Queued,REV01,2025-05-10T11:44:00Z
+SYN0950,2025-08-08T07:27:00Z,1,0,6,53,Male,Seizure,87,117,77,,93,Alert,47,,Midazolam,,,,,No prior information,Prepare now,Queued,REV04,2025-09-10T16:37:00Z
+SYN0951,2025-12-16T22:57:00Z,2,13,7,57,Male,Chest discomfort,91,151,91,18,91,Alert,,,None,83,148,94,Alert,Yes,Preparation can wait,Queued,REV02,2026-01-01T23:42:00Z
+SYN0952,2025-01-08T03:12:00Z,1,0,27,44,Female,Low blood sugar,97,127,85,17,96,Responds to voice,57,,Glucose,,,,,No prior information,Prepare now,Queued,REV03,2025-02-04T07:50:00Z
+SYN0953,2025-04-10T02:41:00Z,1,0,8,,Female,Shortness of breath,,,,19,92,Alert,,,Oxygen,,,,,No prior information,Cannot assess,Needs Review,REV04,2025-04-13T05:00:00Z
+SYN0954,2025-06-15T05:50:00Z,1,0,8,,Male,Chest discomfort,86,145,97,16,95,Alert,,,Nitroglycerin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-16T09:11:00Z
+SYN0955,2025-10-22T14:42:00Z,2,14,25,56,Female,Chest discomfort,90,157,90,15,96,Alert,146,,Aspirin,78,151,98,Alert,No,Preparation can wait,Queued,REV04,2025-11-07T19:47:00Z
+SYN0956,2025-04-12T05:07:00Z,2,6,11,60,Male,Altered mental status,79,114,66,,97,Alert,93,37.9,None,73,112,97,Alert,No,Routine awareness,Queued,REV01,2025-05-10T12:19:00Z
+SYN0957,2025-05-24T04:55:00Z,2,3,31,47,Female,Seizure,69,119,72,20,94,Confused,129,,None,62,116,96,Confused,No,Preparation can wait,Queued,REV01,2025-05-31T08:35:00Z
+SYN0958,2025-12-12T03:06:00Z,1,0,11,67,Male,Chest discomfort,85,157,87,18,,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2026-01-04T04:01:00Z
+SYN0959,2025-08-13T02:12:00Z,2,9,9,46,Male,Seizure,96,141,92,27,93,Responds to pain,,,None,108,143,93,Responds to pain,No,Prepare now,Queued,REV02,2025-09-04T11:46:00Z
+SYN0960,2025-02-25T11:50:00Z,1,0,20,74,Female,Stroke symptoms,75,173,107,19,,Responds to voice,,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-04-06T17:52:00Z
+SYN0961,2025-07-03T19:21:00Z,1,0,11,,Female,Chest discomfort,74,144,89,17,95,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV03,2025-07-20T00:07:00Z
+SYN0962,2025-07-09T08:38:00Z,1,0,13,75,,Chest discomfort,64,169,106,14,,Alert,,,Nitroglycerin,,,,,No prior information,Routine awareness,Queued,REV01,2025-08-11T15:52:00Z
+SYN0963,2025-11-25T15:51:00Z,2,15,29,30,Male,Allergic reaction,88,124,76,19,97,Alert,,,Epinephrine,93,126,97,Alert,No,Routine awareness,Queued,REV01,2025-12-21T01:06:00Z
+SYN0964,2025-10-29T01:24:00Z,1,0,12,82,Male,Stroke symptoms,,157,102,14,97,Alert,104,,None,,,,,No prior information,Prepare now,Queued,REV02,2025-11-03T04:51:00Z
+SYN0965,2025-12-22T21:12:00Z,1,0,9,54,Female,Chest discomfort,84,,,,,Alert,,,Aspirin,,,,,No prior information,Cannot assess,Needs Review,REV03,2026-01-26T00:35:00Z
+SYN0966,2025-12-10T02:13:00Z,2,3,5,74,Female,Abdominal pain,77,,,14,,Alert,124,,IV fluids,76,123,99,Alert,Uncertain,Cannot assess,Needs Review,REV02,2026-01-01T03:28:00Z
+SYN0967,2025-11-09T03:02:00Z,2,5,12,72,Female,Chest discomfort,99,152,89,17,96,Alert,,,Nitroglycerin,100,149,97,Alert,No,Preparation can wait,Queued,REV01,2025-12-06T06:05:00Z
+SYN0968,2025-10-14T05:09:00Z,2,14,18,54,Male,Chest discomfort,117,145,89,15,96,Alert,,,Aspirin,112,147,96,Alert,No,Preparation can wait,Queued,REV02,2025-10-23T11:03:00Z
+SYN0969,2025-08-09T19:40:00Z,2,11,19,67,Male,Shortness of breath,103,137,80,25,90,Alert,,,None,95,142,94,Alert,Yes,Preparation can wait,Queued,REV03,2025-08-16T19:50:00Z
+SYN0970,2025-10-30T15:00:00Z,1,0,19,43,Male,Allergic reaction,79,,,15,,Alert,,,Epinephrine,,,,,No prior information,Cannot assess,Needs Review,REV02,2025-11-12T19:59:00Z
+SYN0971,2025-11-13T22:08:00Z,1,0,45,70,Female,Altered mental status,109,,,15,,Responds to voice,69,,None,,,,,No prior information,Cannot assess,Needs Review,REV03,2025-12-07T08:03:00Z
+SYN0972,2025-02-23T12:32:00Z,2,3,14,67,Male,Chest discomfort,89,153,88,16,94,Alert,,,Nitroglycerin,89,150,94,Alert,No,Preparation can wait,Queued,REV01,2025-03-26T22:00:00Z
+SYN0973,2025-04-05T23:41:00Z,1,0,20,28,Female,Seizure,99,139,84,18,,Alert,94,,None,,,,,No prior information,Routine awareness,Queued,REV02,2025-05-09T01:05:00Z
+SYN0974,2025-01-12T01:33:00Z,1,0,20,50,,Stroke symptoms,105,149,94,17,98,Alert,135,,None,,,,,No prior information,Prepare now,Queued,REV01,2025-02-17T05:35:00Z
+SYN0975,2025-07-28T21:12:00Z,2,9,12,41,Female,Chest discomfort,63,135,79,16,96,Alert,,,Aspirin,60,136,97,Alert,No,Preparation can wait,Queued,REV03,2025-08-26T23:37:00Z
+SYN0976,2025-09-16T15:04:00Z,2,10,8,71,Female,Stroke symptoms,76,148,86,17,95,Alert,,,None,89,155,94,Alert,No,Prepare now,Queued,REV02,2025-09-24T19:34:00Z
+SYN0977,2025-09-14T01:36:00Z,2,10,11,55,Female,Fall,74,117,66,14,96,Alert,,,Pain medication,76,114,96,Alert,No,Routine awareness,Queued,REV02,2025-09-23T08:52:00Z
+SYN0978,2025-01-07T23:13:00Z,2,13,14,,Female,Altered mental status,82,111,67,12,96,Alert,142,37.3,None,89,113,93,Responds to pain,Yes,Routine awareness,Queued,REV03,2025-02-13T04:24:00Z
+SYN0979,2025-10-04T08:30:00Z,2,14,16,56,Male,Chest discomfort,75,,,16,92,Alert,,,Aspirin,90,144,90,Alert,Yes,Preparation can wait,Queued,REV01,2025-11-06T16:33:00Z
+SYN0980,2025-08-31T18:08:00Z,1,0,15,58,Male,Weakness with fever,87,105,63,,97,Alert,,39.3,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV01,2025-09-25T23:17:00Z
+SYN0981,2025-06-06T03:22:00Z,1,0,10,50,Female,Low blood sugar,91,114,68,15,97,Alert,50,,Glucose,,,,,No prior information,Prepare now,Queued,REV01,2025-06-17T08:48:00Z
+SYN0982,2025-02-25T10:54:00Z,2,5,20,64,Male,Fall,81,,,17,95,Alert,,,Pain medication,86,146,95,Alert,No,Routine awareness,Queued,REV04,2025-03-18T12:12:00Z
+SYN0983,2025-07-26T18:19:00Z,2,7,12,61,Male,Shortness of breath,71,139,92,18,94,Alert,,,None,85,148,90,Alert,Yes,Routine awareness,Queued,REV03,2025-08-11T18:28:00Z
+SYN0984,2025-03-20T16:57:00Z,1,0,9,51,Female,Altered mental status,101,130,87,14,94,Alert,,,Glucose,,,,,No prior information,Routine awareness,Queued,REV03,2025-04-03T16:59:00Z
+SYN0985,2025-08-25T13:45:00Z,2,4,9,46,Male,Seizure,98,120,66,12,94,Alert,75,,Midazolam,101,124,93,Responds to voice,Yes,Routine awareness,Queued,REV02,2025-09-22T21:42:00Z
+SYN0986,2025-04-01T08:13:00Z,1,0,22,58,Female,Chest discomfort,79,167,103,13,99,Alert,,,Aspirin,,,,,No prior information,Preparation can wait,Queued,REV04,2025-05-02T09:22:00Z
+SYN0987,2025-03-25T06:30:00Z,1,0,14,57,Male,Weakness with fever,80,,,18,94,Alert,153,38.9,None,,,,,No prior information,Preparation can wait,Queued,REV04,2025-04-14T15:19:00Z
+SYN0988,2025-09-20T21:15:00Z,1,0,7,70,Male,Weakness with fever,,117,79,16,95,Confused,,38.9,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV04,2025-10-13T03:26:00Z
+SYN0989,2025-09-26T16:07:00Z,1,0,8,65,Female,Shortness of breath,92,,,23,96,Alert,,,Oxygen,,,,,No prior information,Preparation can wait,Queued,REV02,2025-11-05T19:54:00Z
+SYN0990,2025-09-27T18:45:00Z,2,6,17,45,Male,Chest discomfort,89,,,20,,Alert,,,Aspirin,87,125,91,Alert,Uncertain,Cannot assess,Needs Review,REV03,2025-10-08T01:55:00Z
+SYN0991,2025-10-17T19:48:00Z,1,0,11,59,,Weakness with fever,86,122,82,16,99,Alert,,38.8,None,,,,,No prior information,Preparation can wait,Queued,REV02,2025-11-06T19:58:00Z
+SYN0992,2025-10-30T04:01:00Z,2,11,12,79,Male,Fall,86,138,84,16,96,Alert,,,Pain medication,73,137,,Alert,No,Routine awareness,Queued,REV01,2025-11-05T04:25:00Z
+SYN0993,2025-09-14T12:27:00Z,1,0,20,84,Female,Fall,91,143,93,18,97,Alert,,,None,,,,,No prior information,Preparation can wait,Queued,REV01,2025-10-09T16:53:00Z
+SYN0994,2025-11-05T18:39:00Z,2,15,18,30,Male,Abdominal pain,90,68,45,,94,Alert,,36.4,Pain medication,108,60,91,Responds to pain,Yes,Prepare now,Queued,REV02,2025-11-27T04:28:00Z
+SYN0995,2025-03-12T00:31:00Z,2,5,8,,Female,Stroke symptoms,86,198,122,20,,Alert,,,None,84,,95,Alert,No,Prepare now,Queued,REV04,2025-04-16T02:06:00Z
+SYN0996,2025-04-21T21:21:00Z,2,9,15,74,,Low blood sugar,95,147,84,12,98,Confused,60,,Glucose,90,160,99,Confused,No,Preparation can wait,Queued,REV01,2025-05-31T00:28:00Z
+SYN0997,2025-06-26T01:09:00Z,1,0,23,21,,Motor vehicle collision,92,132,88,,97,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV03,2025-07-26T05:14:00Z
+SYN0998,2025-10-10T19:35:00Z,1,0,18,69,Male,Abdominal pain,70,149,89,13,98,Alert,,,None,,,,,No prior information,Routine awareness,Queued,REV01,2025-10-23T22:29:00Z
+SYN0999,2025-02-04T19:43:00Z,1,0,28,55,Female,Motor vehicle collision,92,143,90,20,98,Alert,,,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV04,2025-02-22T20:52:00Z
+SYN1000,2025-08-11T17:21:00Z,1,0,13,64,Male,Weakness with fever,96,108,65,15,,Responds to voice,,39.1,IV fluids,,,,,No prior information,Preparation can wait,Queued,REV02,2025-08-18T00:20:00Z

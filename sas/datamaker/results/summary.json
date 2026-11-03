@@ -1,0 +1,6 @@
+{
+ "synthetic_file": "/private/tmp/claude-501/-Users-ishaan-EMS-Comms/9c88ee21-6b02-4b14-ac5d-8509d8c25f7c/scratchpad/fake_synth.csv",
+ "synthetic_rows": 10000,
+ "train_rows": 8812,
+ "holdout_rows": 3777
+}
