@@ -1,8 +1,15 @@
 # Eir
 
+[![SAS Hackathon 2026](https://img.shields.io/badge/SAS%20Hackathon-2026-0766d1)](https://www.sas.com/en_us/events/hackathon.html)
+[![Python 3.13](https://img.shields.io/badge/Python-3.13-3776ab?logo=python&logoColor=white)](requirements.txt)
+[![Node 16+](https://img.shields.io/badge/Node-16%2B-339933?logo=node.js&logoColor=white)](client/package.json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 Eir gives the receiving hospital the full picture of an incoming ambulance patient before the ambulance arrives. Team InTheBud built it for the SAS Hackathon 2026.
 
 An EMS crew talks the way they already do. Eir writes the report down, pulls out the vitals and findings with the exact words they came from, and suggests an Emergency Severity Index level with its reasoning. The hospital sees every inbound patient on one screen, in an order it can explain, and acknowledges what it has read. The clinician makes the triage call. Every suggestion and every change is kept in SAS Viya, so a hospital can check the AI, trace each decision and watch its performance over time.
+
+![The medic screen on the left, the hospital's inbound list and handoff on the right, during the three-patient demo](docs/images/eir-demo.png)
 
 ## What it does
 
@@ -14,6 +21,8 @@ An EMS crew talks the way they already do. Eir writes the report down, pulls out
 - **Hospital record export.** The handoff exports as a FHIR R4 bundle, with a provenance entry for each extracted fact.
 
 ## How SAS Viya is used
+
+![Live app data and benchmark results land in CAS; SAS Studio, Visual Analytics, fairAITools, Model Studio, Model Manager and Intelligent Decisioning work from there](docs/images/sas-viya.png)
 
 | SAS component | Role in Eir |
 |---|---|
@@ -27,22 +36,22 @@ An EMS crew talks the way they already do. Eir writes the report down, pulls out
 
 ## Evaluation
 
-The AI was run on real, de-identified emergency department visits from public data sets, with every result stored in CAS. Critical means the patient went to intensive care, had surgery or died.
+The AI was run on real, de-identified emergency department visits from three public data sets: CDC NHAMCS 2022 (1,683 adult ambulance arrivals from 129 US hospitals), KTAS (Moon et al., 2019) and the MIMIC-IV-ED demo. The analysis plan was committed before any model call ([protocol](evals/benchmark/PROTOCOL.md)); every result is stored in CAS. Critical means the patient went to intensive care, had surgery or died.
 
 | Data set | Result |
 |---|---|
 | 1,683 ambulance arrivals, CDC NHAMCS | Of 155 critical patients, Eir placed 110 in its top two levels, held 38 for a clinician to review and placed 7 lower. |
 | 154 expert-rated critical or emergent patients, KTAS | 138 in the top two levels, 14 held for review, 2 placed lower. |
 | 74 urgent patients, held-out set | Eir caught 63 (9 held, 2 missed) against 53 for the gradient boosting baseline at the same false-alarm rate. |
-| All sets, 4,884 assessments | Median 2.9 seconds per assessment, $1.09 in total. |
+| All sets, 4,884 assessments | Median 2.9 seconds per assessment, $1.09 in total. The number check caught all 23,684 planted wrong numbers, and 10,232 of 10,233 vital signs were read correctly. |
 
-Eir leans urgent: on US patients who were later sent home, it placed 56 percent in its top two levels against 22 percent for ED triage. On US data the fairness tests found no significant gap by sex, age or race; in the expert-rated set, patients under 65 were held for review more often than older ones. The evaluation harness, prompts and contracts are in [evals/](evals/README.md), and the SAS scripts in [sas/](sas/).
+Eir leans urgent: on US patients who were later sent home, it placed 56 percent in its top two levels against 22 percent for ED triage. On US data the fairness tests found no significant gap by sex, age or race; in the expert-rated set, patients under 65 were held for review more often than older ones. The full [report](evals/benchmark/results/REPORT.md), [model card](evals/benchmark/results/MODEL_CARD.md) and [data sources and licences](evals/benchmark/results/SOURCES.md) are in `evals/benchmark/`, with the harness that reproduces them; the SAS scripts are in [sas/](sas/).
 
 ## Team
 
 - Ishaan, team lead
 - Vrishank, evaluation against expert triage decisions on real ED data
-- DJ, vital-sign extraction and the hospital queue
+- Dhananjay (DJ), vital-sign extraction and the hospital queue
 - Anand, live transcription, messaging and the clinician interface
 - Mayank, SAS Viya data pipeline and the Visual Analytics dashboard
 
@@ -68,7 +77,7 @@ cd client && CI=true npm test -- --watchAll=false --runInBand  # client
 
 - `backend/` the case model, AI steps, queue, FHIR export and SAS sync, with the API under `backend/routes/`
 - `client/` the React app for crews and hospitals
-- `evals/` the evaluation harness, prompts and contracts
+- `evals/` the evaluation harness, prompts and contracts; `evals/benchmark/` the protocol, cases, scoring and results
 - `sas/` SAS Viya scripts, the CAS notebook and the Data Maker evaluation
 - `datamaker_test/` the fictional source table for Data Maker and its validator
 - `demo/` the replay and run sheet
